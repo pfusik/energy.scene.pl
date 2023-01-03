@@ -74,12 +74,13 @@
 		<div class="hitems">
 		<div class="nag">Linki:</div>
 		<ul>
-			<li><a href="http://www.atari.org.pl/">AtariArea PL</a></li>
+			<li><a href="http://www.atari.org.pl">AtariArea PL</a></li>
 			<li><a href="http://atariki.krap.pl">Atariki</a></li>
-			<li><a href="http://grayscale.scene.pl/">Grayscale Project</a></li>
+			<li><a href="http://grayscale.scene.pl">Grayscale Project</a></li>
 			<li><a href="http://numen.scene.pl">Numen</a></li>
-			<li><a href="https://asap.sourceforge.net/">ASAP</a></li>
-			<li><a href="https://recoil.sourceforge.net/">RECOIL</a></li>
+			<li><a href="https://asma.atari.org">ASMA</a></li>
+			<li><a href="https://asap.sourceforge.net">ASAP</a></li>
+			<li><a href="https://recoil.sourceforge.net">RECOIL</a></li>
 			<li><a href="https://www.virtualdub.org/altirra.html">Altirra</a></li>
 		</ul>
 		</div>
