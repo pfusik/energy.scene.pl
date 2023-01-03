@@ -1,5 +1,5 @@
 ﻿<energy>
-<page id="Strona-glowna" title="Wstępniak">
+<page id="index" menu="Wstępniak" title="Strona główna">
 <br /> <strong>
 <h4>Wstępniak:</h4>
 </strong>
@@ -20,9 +20,9 @@
 <p> </p>
 <p>Drugi i zarazem ostatni numer magazynu Energy został wydany zaraz po QuaST'97 Copy Party. Początkowo chcieliśmy wypuścić magazyn na party, ale z przyczyn technicznych data wypuszczenia nieco się opóźniła. W Wasze ręce oddaliśmy jeden z najlepszych (jeśli nie najlepszy) magazyn na Atari XL/XE. A w nim: 55 artykułów, 12 muzyczek takich muzyków jak: Samurai, X-Ray, Bac, Greg... sporo efektów (podczas ładowania magazynu, screensaver, itp). W całą akcję zwaną Energy 2 zamieszani byli: Electron, Jaskier, Angus, Slaves, Kenjiro, Fox. Autorzy tekstów: Dracon (17), Slaves (8), Gepard (7), Jaskier (6), Fox (3), Electron (2), Greg (2), Titus (2), Seeker (2), Bodzio (2), Jarosław Rafa (1), Mayonez (1), Apacz (1).</p>
 <p> </p>
-<p>UWAGA! Jeżeli masz pomysł na artykuł i chciałbyś go umieścić w internetowej wersji magazynu  <strong>Energy</strong> - skontaktuj się z nami (namiary znajdziesz w dziale {cms_selflink page="kontakt"}). Jesteśmy otwarci na wszelką formę współpracy - aby projekt istniał ważne jest Wasze wsparcie i pomoc.</p>
+<p>UWAGA! Jeżeli masz pomysł na artykuł i chciałbyś go umieścić w internetowej wersji magazynu  <strong>Energy</strong> - skontaktuj się z nami (namiary znajdziesz w dziale <selflink page="kontakt" />). Jesteśmy otwarci na wszelką formę współpracy - aby projekt istniał ważne jest Wasze wsparcie i pomoc.</p>
 </page>
-<page id="nowosci" title="Nowości w ENERGY">
+<page id="nowosci" menu="Nowości" title="Nowości w ENERGY">
 <br />
 <p>W związku z rozwojem internetowej wersji Energy uruchamiamy specjalną podstronę, na której znajdą się wszelkie informacje o zmianach, udoskonaleniach oraz nowych artykułach, itp.</p>
 <br />
@@ -31,31 +31,31 @@
 <hr />
 </div>
 <p>Dzięki archiwum: HVSC (High Voltage SID Collection) dorzuciłem do artykułu kilka przykładów HARD'owskich rypanek - dokładniej: "Joyride" (5), "Cool Emotion" (6). Jeżeli ktoś z Was kojarzy kawałki, które nie zostały wymienione w artykule - prośba o kontakt.</p>
-<p class="date">Dodał: slaves <img src="images/more.gif" alt="" /> {cms_selflink page="hard---jak-zostac" text="Przeczytaj artykuł..."} <img src="images/timeicon.gif" alt="" /> 2009-12-30 21:44</p>
+<p class="date">Dodał: slaves <img src="images/more.gif" /> <selflink page="hard" text="Przeczytaj artykuł..." /> <img src="images/timeicon.gif" /> 2009-12-30 21:44</p>
 <br />
 <div class="nag">Theta Music Composer v. 2.00</div>
 <div class="hr">NOWY ARTYKUŁ      
 <hr />
 </div>
 <p>Kompletna instrukcja obsługi najnowszej wersji Theta Music Composer.</p>
-<p class="date">Dodał: slaves <img src="images/more.gif" alt="" /> {cms_selflink page="tmc-v-2-00" text="Przeczytaj artykuł..."} <img src="images/timeicon.gif" alt="" /> 2009-10-27 22:05</p>
+<p class="date">Dodał: slaves <img src="images/more.gif" /> <selflink page="tmc-v2-00" text="Przeczytaj artykuł..." /> <img src="images/timeicon.gif" /> 2009-10-27 22:05</p>
 <br />
 <div class="nag">Theta Music Composer v. 1.11 - Instrukcja obsługi</div>
 <div class="hr">NOWY ARTYKUŁ      
 <hr />
 </div>
 <p>Kompletna instrukcja obsługi programu muzycznego Theta Music Composer.</p>
-<p class="date">Dodał: slaves <img src="images/more.gif" alt="" /> {cms_selflink page="tmc-1-11---instrukcja" text="Przeczytaj artykuł..."} <img src="images/timeicon.gif" alt="" /> 2009-10-27 21:25</p>
+<p class="date">Dodał: slaves <img src="images/more.gif" /> <selflink page="tmc-v1-11-instrukcja" text="Przeczytaj artykuł..." /> <img src="images/timeicon.gif" /> 2009-10-27 21:25</p>
 <br />
 <div class="nag">IRQ Loader</div>
 <div class="hr">MODYFIKACJA ARTYKUŁU            
 <hr />
 </div>
 <p>Dodany film prezentujący opisywany w artykule samplowany loader podczas wczytywania magazynu.</p>
-<p class="date">Dodał: slaves <img src="images/more.gif" alt="" /> {cms_selflink page="irq-loader" text="Przeczytaj artykuł..."} <img src="images/timeicon.gif" alt="" /> 2009-10-27 17:42</p>
+<p class="date">Dodał: slaves <img src="images/more.gif" /> <selflink page="irq-loader" text="Przeczytaj artykuł..." /> <img src="images/timeicon.gif" /> 2009-10-27 17:42</p>
 <br />
 </page>
-<page id="copy-party" title="Copy Party">
+<page id="copy-party" menu="Copy Party" title="Copy Party">
 <br />
 <p>Demoparty (do połowy lat 90. - Copy Party), w skrócie party - spotkanie ludzi związanych z demosceną komputerową, połączone z pokazem prac z pogranicza informatyki i szeroko pojętej sztuki elektronicznej: od muzyki, przez grafikę do multimedialnych prezentacji i animacji czasu rzeczywistego. Party trwa od dwóch do nawet pięciu dni bez przerwy, a punktem szczytowym spotkania jest zaprezentowanie prac w konkursach (tzw. compo).***</p>
 <br /> <span class="opis">[*** - powyższa definicja pochodzi z serwisu Wikipedia]</span> <br /><br />
@@ -63,12 +63,12 @@
 <p> </p>
 <p><strong>1990:</strong><br /><br />Atari Stars Party<br /><br /><strong>1994:</strong></p>
 <p><br />QuaST</p>
-<p>Shadows Party<br />Visual Party 4.0<br /><br /><strong>1995:</strong><br /><br />QuaST [ {cms_selflink page="Cudowna-podroz-1"} ]  [ {cms_selflink page="orneta-95---hermes"} ]<br />Silesian Atari Open (Mikołów) [ {cms_selflink page="mikolow---gfx-compo"} ]  [ {cms_selflink page="mikolow---dhor-raport"} ]<br /> [ {cms_selflink page="mikolow---greg-raport"} ]  [ {cms_selflink page="mikolow---raport-slv"} ] <br /><br /><strong>1996:</strong><br /><br />QuaST [ {cms_selflink page="cudowna-podroz-2"} ]<br /><br /><strong>1997:</strong><br /><br />Rush Hours [ {cms_selflink page="cudowna-podroz-3"} ]<br />Intel Outside 4 [ {cms_selflink page="intel-outside-4"} ]<br />QuaST<br />Last Party<br /><br /><strong>1998:</strong><br /><br />Rush Hours<br />Scenery</p>
+<p>Shadows Party<br />Visual Party 4.0<br /><br /><strong>1995:</strong><br /><br />QuaST [ <selflink page="cudowna-podroz-1" /> ]  [ <selflink page="orneta-95-hermes" /> ]<br />Silesian Atari Open (Mikołów) [ <selflink page="mikolow-gfx-compo" /> ]  [ <selflink page="mikolow-dhor" /> ]<br /> [ <selflink page="mikolow-greg" /> ]  [ <selflink page="mikolow-slv" /> ] <br /><br /><strong>1996:</strong><br /><br />QuaST [ <selflink page="cudowna-podroz-2" /> ]<br /><br /><strong>1997:</strong><br /><br />Rush Hours [ <selflink page="cudowna-podroz-3" /> ]<br />Intel Outside 4 [ <selflink page="intel-outside-4" /> ]<br />QuaST<br />Last Party<br /><br /><strong>1998:</strong><br /><br />Rush Hours<br />Scenery</p>
 <p>Stęszew</p>
 <p>QuaST (Elbląg)<br />Last Party<br /><br /><strong>1999:</strong><br /><br />Lato ludzików<br />Last Party<br /><br /><strong>2000:</strong><br /><br />Silly Venture<br />Lato ludzików<br />East Party<br />Last Party<br /><br /><strong>2001:</strong><br /><br />Lato ludzików</p>
 <p>Stęszew</p>
 <p>East Party<br />Last Party<br /><br /><strong>2002:</strong><br /><br />Lato ludzików<br />East Party<br />Last Party<br /><br /><strong>2003:</strong><br /><br />QuaST<br />Kocerany<br />East Party<br />Last Party<br /><br /><strong>2004:</strong><br /><br />Silly Venture<br />East Party<br /><br /><strong>2005:</strong><br /><br />QuaST<br />East Party<br /><br /><strong>2006:</strong><br /><br />Majówka Opalenicka<br />Głuchołazy<br />East Party<br /><br /><strong>2007:</strong><br /><br />Grzybsoniada<br />Głuchołazy<br /><br /><strong>2008:</strong><br /><br />Głuchołazy<br />Grzybsoniada</p>
-<page id="cudowna-podroz-1" title="Cudowna podróż 1">
+<page id="cudowna-podroz-1" menu="Cudowna podróż 1" title="Cudowna podróż 1">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>Pragnę przedstawić Wam mój mały opisik, który powstał na faktach autentycznych... Czyli, że nic sobie zmyśliłem, oraz nic nie dodałem.... Opiszę Wam teraz malutką historyjkę jak to Elyta (hehe) z Looblina (czyli ze Stoolicy! :) wybrała się na party do Ornety... Mam nadzieję, że ten artykuł się Wam spodoba.</p>
@@ -175,9 +175,9 @@
 <div class="hr">Fotki z party:       
 <hr />
 </div>
-{cms_selflink ext="ftp://ftp.pigwa.net/stuff/photos_and_videos/Quast,1995/" title="Fotki z QuaST 95" text="Fotki z QuaST 95" target="_blank"}<br />
+<selflink ext="ftp://ftp.pigwa.net/stuff/photos_and_videos/Quast,1995/" text="Fotki z QuaST 95" /><br />
 </page>
-<page id="cudowna-podroz-2" title="Cudowna podróż 2">
+<page id="cudowna-podroz-2" menu="Cudowna podróż 2" title="Cudowna podróż 2">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>W tym artykule znajdziecie kolejną relację  Lubelskiej Elyty (Gumi,Waldi,Vidol/TIGHT,  Mithrandir/Ind.,Slaves,Samurai/TAQUART)  z p00dróży na COPY PARTY ORNETA '96,  oraz pełną ( prawie! ) zawartość kasety (real time! rulez!) nagranej podczas  naszej podróży pociągiem z Warszawy do  Olsztyna.</p>
@@ -559,9 +559,9 @@
 <div class="hr">Fotki z party: 
 <hr />
 </div>
-{cms_selflink ext="ftp://ftp.pigwa.net/stuff/photos_and_videos/Quast,1996/" title="Fotki z QuaST 96" text="Fotki z QuaST 96" target="_blank"} <br />
+<selflink ext="ftp://ftp.pigwa.net/stuff/photos_and_videos/Quast,1996/" text="Fotki z QuaST 96" /> <br />
 </page>
-<page id="cudowna-podroz-3" title="Cudowna podróż 3">
+<page id="cudowna-podroz-3" menu="Cudowna podróż 3" title="Cudowna podróż 3">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>Witay drogi czytelniq w kolejnym artykule z  cyklu "Cudowna Podróż". Tym razem mamy  dla Was opis kolejnej podróży L00belskyej  3l33t'y na Rush Hours, które odbyło się  22-23 Lutego 1997 w Częstochowie. W tą  cudowną podróż wyruszyliśmy 21 Lutego w  składzie :</p>
@@ -646,7 +646,7 @@
 <br />
 <p>Poniższy text zawierał FUCK'i dla S.C.G., jednakże zostały one wywalone. Dlaczego? Dlatego, że fuck'ują tylko LAMERZY, a my się do nich nie zaliczamy! A jeżeli ktoś na to zasługuje, to nim chyba jest.....</p>
 </page>
-<page id="intel-outside-4" title="Intel Outside 4 - komentarz od TQA">
+<page id="intel-outside-4" menu="Intel Outside 4" title="Intel Outside 4 - komentarz od TQA">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>W dniach 11-13 lipca 1997 roku odbyło się czwarte z kolei party "Intel Outside", organizowane tym razem przez grupy UNION (PC/AMIGA) oraz CYBERMANIAX (AMIGA) a także przez bliższą zapewne czytelnikowi "Energy" grupę TAQUART. Poniższy tekst jest opisem przebiegu konkursów na małe atari, które odbyły się na tym zlocie.</p>
@@ -691,7 +691,7 @@
 2. NoName - TIGHT
 3. LameEruption - Mith/IND.</pre>
 </page>
-<page id="mikolow-gfx-compo" title="Mikołów - Gfx compo - podsumowanie">
+<page id="mikolow-gfx-compo" menu="Mikołów - GFX compo" title="Mikołów - Gfx compo - podsumowanie">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Grudniowe copy-party w Mikołowie to już historia. Jako jeden z jego uczestników chciałbym zabrać głos na ten temat, a ściślej  - dorzucić swoje "trzy grosze" w sprawie GFX-compo tam organizowanego... Ocenę całej imprezy pozostawiam innym Atarowcom, którzy zechcieli zaszczycić tamto miejsce swoją osobą...</p>
@@ -751,7 +751,7 @@
 <p> </p>
 <p>Oby zmieniło się to na korzyść na kolejnych party dla Atari XL/XE !!!</p>
 </page>
-<page id="mikolow-dhor" title="Mikołów '95 - Dhor live">
+<page id="mikolow-dhor" menu="Mikołów - Dhor Raport" title="Mikołów '95 - Dhor live">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dhor.jpg" alt="dhor" width="80" height="90" /><br />autor: dhor</div>
 <br />
 <p>W dniach 28-29 grudnia, roku jeszcze wtedy '95, odbył się kolejny (czyt. drugi i nie ostatni) zlot użytkowników wszystkich komputerów Atari (tj. XL/XE, ST/STe, F030) Copy party miało okazję się odbyć w Mikołowie, pod ogólną nazwą SILESIAN ATARI OPEN '95. Ponieważ autor tego tekstu w niewyjaśnionych okolicznościach znalazł się w pobliżu obiektu, w którym rozegrał się ten dramat, pozwoli on sobie na przedstawienie szanownym czytelnikom paru faktów, zdarzeń i refleksji z miejsca akcji. Z powodu rozwijającej się choroby autora, tekst będzie opiewał tylko i wyłącznie jego przygody, a przede wszystkim osobę.</p>
@@ -769,7 +769,7 @@
 <p>Ps. Wszystki nazwy, nazwiska, imiona, marki komputerów, butów i napojów, oraz line lotnicze występujące w artykule są fikcyjne i nie mają odpowiedników w rzeczywistości.</p>
 <p>Ps. Wszystkie nazwiska, mimo, że nie mają odpowiedników w rzeczywistości, zostały wykorzystane bez niczyjej zgody.</p>
 </page>
-<page id="mikolow-greg" title="Mikołów '95 - Greg">
+<page id="mikolow-greg" menu="Mikołów - Greg Raport" title="Mikołów '95 - Greg">
 <div class="picture right" style="width: 82px;"><img src="images/authors/greg.jpg" alt="greg" width="80" height="112" /><br />autor: greg</div>
 <br />
 <p>W dniach 28-29 grudnia 1995 odbyło się kolejne atarowskie copy-party w Mikołowie na Śląsku. Ten tekst będzie zlepkiem moich wrażeń z całej imprezy, lub jak kto woli, subiektywną oceną samego zlotu.</p>
@@ -788,7 +788,7 @@
 <p> </p>
 <p>A następne party w Ornecie.. A więc CUONCP!</p>
 </page>
-<page id="mikolow-slv" title="Mikołów '95 - Slaves">
+<page id="mikolow-slv" menu="Mikołów - Raport Slv" title="Mikołów '95 - Slaves">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>28 grudnia ok. 6.00</p>
@@ -828,7 +828,7 @@
 <p> </p>
 <p>Jak widzicie party odbyło się podobnie jak w Ornecie... Czyli organizacja była całkowitym fiaskiem, znowu obiecane na 100% Big Screen, Bufet 24h (xtra???????? zaopatrzony?), były wielkim kłamstwem... A przecież można zorganizowaćjakieś porządne Copy Party wzorując się np. na "VISUAL COPY PARTY", które odbywa się w Tarnowie (c64 Party), tam przynajmniej płaci się za xtra salę, Xtra BigScreen, no i bufet prawie 24h... No nic... Może kiedyś podobny artykuł będzie zawierał same zalety, a nie tylko wady... Może??? :)))))))</p>
 </page>
-<page id="orneta-95-hermes" title="Orneta '95 - Raport Hermesa">
+<page id="orneta-95-hermes" menu="Orneta '95 - Hermes" title="Orneta '95 - Raport Hermesa">
 <div class="picture right" style="width: 82px;"><img src="images/authors/hermes.jpg" alt="hermes" width="80" height="122" /><br />autor: hermes</div>
 <br />
 <p>W dniach 4-6 sierpnia odbyło się w Ornecie Copy Party dla miłośników Atari wszelkiej maści. Nie było bowiem poświęcone tylko modelom XL/XE, lecz także ST/STE/Falcon. Dla ścisłości, oficjalna nazwa brzmiała, nie jakieś tam copy party, lecz "Ogólnopolski Zlot Użytkowników Atari" - ot, piętno Ustawy... Organizacji Party (vel Zlotu) podjął się QuaST - klub użytkowników Atari ST i temu podobnych modeli, co dało się odczuć podczas imprezy.</p>
@@ -905,10 +905,10 @@
 <div class="hr">Fotki z party: 
 <hr />
 </div>
-{cms_selflink ext="ftp://ftp.pigwa.net/stuff/photos_and_videos/Quast,1995/" title="Fotki z QuaST 95" text="Fotki z QuaST 95" target="_blank"} <br />
+<selflink ext="ftp://ftp.pigwa.net/stuff/photos_and_videos/Quast,1995/" text="Fotki z QuaST 95" /> <br />
 </page>
 </page>
-<page id="demoscena" title="Demoscena">
+<page id="demoscena" menu="Demoscena" title="Demoscena">
 <br />
 <p>Co to jest Demoscena?   Potocznie określeniem demoscena nazywa się nieformalne zrzeszenie twórców (subkultura użytkowników komputerów) zajmujących się tworzeniem tzw. dem.</p>
 <p> </p>
@@ -923,7 +923,7 @@
 <p> </p>
 <p>Warto dodać, że demoscenę tworzą nie tylko programiści, ale także muzycy, graficy, twórcy ASCII-Artu i autorzy zinów poświęconych tematyce scenowej.</p>
 <br /> <span class="opis">[*** - powyższa definicja pochodzi z serwisu Wikipedia]</span><br />
-<page id="charts" title="Charts, czyli nasz scenowy ranking">
+<page id="charts" menu="Charts - Ranking" title="Charts, czyli nasz scenowy ranking">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p style="text-align: left;">Poniżej znajdziecie wyniki waszego  głosowania, które odbyło się na "QuaST 5  Copy Party". Kilka detali - w głosowaniu  wzięło udział 29 osób. Można było  głosować TYLKO i wyłącznie na polskie  produkcje, maxymalnie 5 osób/pozycji.  Nie można było głosować na siebie samego,  swoje produkcje, itp.</p>
@@ -1138,7 +1138,7 @@
 <p>Głosy podliczał : Piorun/BBSL</p>
 <p>Najlepsze grupy podliczał : Slaves/Taquart</p>
 </page>
-<page id="hard" title="&quot;HARD&quot; - Jak zostać światowymi lamerami">
+<page id="hard" menu="HARD - jak zostać..." title="&quot;HARD&quot; - Jak zostać światowymi lamerami">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>Hej! W tym artykule pragnę napisać coś o węgierskiej grupie HARD... Text ten na pewno zdziwi wielu z Was, ale... naprawdę to jest prawda!!!!!!!!! Z tym trzeba się pogodzić! i przy okazji tępić! Ok... W czym problem??? Pewnie zapytasz... ano w tym, że lamerzy z HARD software rypią kod, msx i grafikę z C64!</p>
@@ -1160,19 +1160,19 @@
 <p> </p>
 <p>-Part II</p>
 <p>Logos, pic (z jakiegoś programu graficz.), Msx...</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Joyride_Juggler.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Barricade_X.sid" target="_new">C-64 SID</a> [ autor: Anders Elmén (Moon) ]
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Joyride_Juggler.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Barricade_X.sid">C-64 SID</a> [ autor: Anders Elmén (Moon) ]
 <p> </p>
 <p>-Part III (plot landscape)</p>
 <p>Plot Landscape (z jakiegoś demka OXYRON'u), grafika, oraz muzyka też z c64...</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Joyride_Landscape.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Enigma_Phenomena.sid" target="_new">C-64 SID</a> [ autor: Sean Connolly ]
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Joyride_Landscape.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Enigma_Phenomena.sid">C-64 SID</a> [ autor: Sean Connolly ]
 <p> </p>
 <p>-Part IV</p>
 <p>Logos, muzyka c64...</p>
 <p> </p>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Joyride_Scrolls.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Squamp.sid" target="_new">C-64 SID</a> [ autor: Thomas E. Petersen (Laxity) ]<br /><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Joyride_Scrolls.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Squamp.sid">C-64 SID</a> [ autor: Thomas E. Petersen (Laxity) ]<br /><br />
 <p>-Part V</p>
 <p>3x muzyczki z c64...</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Joyride_Turn_Disk.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Time_Runner.sid" target="_new">C-64 SID</a> [ autor: Markus Schneider ]
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Joyride_Turn_Disk.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Time_Runner.sid">C-64 SID</a> [ autor: Markus Schneider ]
 <p> </p>
 <p><strong>Strona B:</strong></p>
 <p> </p>
@@ -1181,7 +1181,7 @@
 <p> </p>
 <p>-Part II</p>
 <p>Muzyka, oraz logos c64...</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Joyride_Plasma.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Tracker_01.sid" target="_new">C-64 SID</a> [ autor: Wojciech Wojtkiewicz (Tracker) ]
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Joyride_Plasma.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Tracker_01.sid">C-64 SID</a> [ autor: Wojciech Wojtkiewicz (Tracker) ]
 <p> </p>
 <p>-Part III</p>
 <p>Muzyka, oraz efekt z demka "WORD OF CODE3"</p>
@@ -1189,7 +1189,7 @@
 <p>-Part IV</p>
 <p>2x efekty z demka "Radio Napalm/Reflex" (Szachownica oraz Gretzy), oczywiście muzyka z c64...</p>
 <p> </p>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Joyride_End.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/joyride/Remark_Intro.sid" target="_new">C-64 SID</a> [ autor: Jeroen Tel ]
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Joyride_End.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/joyride/Remark_Intro.sid">C-64 SID</a> [ autor: Jeroen Tel ]
 <p> </p>
 <p style="text-align: left;">Teraz czas na: "<strong>Cool Emotion</strong>":</p>
 <p style="text-align: left;"> </p>
@@ -1203,36 +1203,36 @@
 <p> </p>
 <p>- Part I</p>
 <p>Grafika z c64, muzyka...</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Cool_Emotion_First_Part.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Monster_Jazz.sid" target="_new">C-64 SID</a> [ autor: Anders Elmén (Moon) ]<br />
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Cool_Emotion_First_Part.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Monster_Jazz.sid">C-64 SID</a> [ autor: Anders Elmén (Moon) ]<br />
 <p> </p>
 <p>-Part II</p>
 <p>Muzyka, oraz efekt z aparatem... c64</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Cool_Emotion_Ghostbusters.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Ghostbusters.sid" target="_new">C-64 SID</a> [ autor: Roger Duijckaerts (ReD) ]<br />
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Cool_Emotion_Ghostbusters.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Ghostbusters.sid">C-64 SID</a> [ autor: Roger Duijckaerts (ReD) ]<br />
 <p> </p>
 <p>-Part III</p>
 <p>Muzyka, logos, Kulki oczywiście c64...</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Cool_Emotion_Heal_the_Worl.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Heal_The_World.sid" target="_new">C-64 SID</a> [ autor: Dwayne Bakewell (Morbid) ]<br />
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Cool_Emotion_Heal_the_Worl.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Heal_The_World.sid">C-64 SID</a> [ autor: Dwayne Bakewell (Morbid) ]<br />
 <p> </p>
 <p><strong>Strona B:</strong></p>
 <p> </p>
 <p>-Part I</p>
 <p>Muzyka, grafika, kod...</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Cool_Emotion_Chessboard.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Shape.sid" target="_new">C-64 SID</a> [ autor: Johannes Bjerregaard ]<br />
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Cool_Emotion_Chessboard.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Shape.sid">C-64 SID</a> [ autor: Johannes Bjerregaard ]<br />
 <p> </p>
 <p>-Part II</p>
 <p>Fontki, Raytracing z c64!</p>
 <p> </p>
 <p>-Part III</p>
 <p>Logos, oraz muzyka c64...</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Cool_Emotion_Scrolls.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Frazze.sid" target="_new">C-64 SID</a> [ autor: Antti Hannula (Flex) ]
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Cool_Emotion_Scrolls.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Frazze.sid">C-64 SID</a> [ autor: Antti Hannula (Flex) ]
 <p> </p>
 <p>-Part IV</p>
 <p>Logos, oraz muzyka... jak zwykle.. c64..</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Cool_Emotion_Plasma.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Prometheus_Unbound.sid" target="_new">C-64 SID</a> [ autor: Anders Elmén (Moon) ]<br />
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Cool_Emotion_Plasma.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Prometheus_Unbound.sid">C-64 SID</a> [ autor: Anders Elmén (Moon) ]<br />
 <p> </p>
 <p>-Part V</p>
 <p>Muzyka, fontki, chodzące mrówki c64...</p>
-<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Cool_Emotion_End.sap" target="_new">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/hard/cool_emotion/Gammeldaws.sid" target="_new">C-64 SID</a> [ autor: Soren Lund (Jeff) ]<br />
+<br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Cool_Emotion_End.sap">HARD SAP</a><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/hard/cool_emotion/Gammeldaws.sid">C-64 SID</a> [ autor: Soren Lund (Jeff) ]<br />
 <p> </p>
 <p>Nie będę wam opisywał, co było w "VERONICE", bo sami pewnie się domyślicie...</p>
 <p> </p>
@@ -1244,7 +1244,7 @@
 <p style="text-align: center;"> </p>
 <p style="text-align: center;">"NIE BĘDZIE LAMER PLUŁ NAM W TWARZ..."</p>
 </page>
-<page id="list-otwarty" title="List otwarty do K.K. vel Krzysia Kubeczko">
+<page id="list-otwarty" menu="List otwarty..." title="List otwarty do K.K. vel Krzysia Kubeczko">
 <div class="picture right" style="width: 82px;"><img src="images/authors/greg.jpg" alt="greg" width="80" height="112" /><br />autor: greg</div>
 <br />
 <p>TEMAT: odpowiedż na besztanie mojej osoby w "Detoxie" Pentagramu.</p>
@@ -1381,7 +1381,7 @@
 <p> </p>
 <p>Prosiłbym o ustosunkowanie się do w.w. opinii.</p>
 </page>
-<page id="polska-ob-sceniczna" title="POLSKA (ob)sceniczna">
+<page id="polska-ob-sceniczna" menu="POLSKA (ob)sceniczna" title="POLSKA (ob)sceniczna">
 <div class="picture right" style="width: 82px;"><img src="images/authors/gepard.jpg" alt="gepard" width="80" height="97" /><br />autor: gepard</div>
 <br />
 <p>Text ten jest następstwem dość długiego czasu, jaki jego autor spędził przeglądając produkcję scenowe na różnych platformach sprzętowych.</p>
@@ -1416,7 +1416,7 @@
 <p> </p>
 <p>czas pokaże..........................</p>
 </page>
-<page id="scena-c64-a-atari" title="Scena C64, a scena Atari XL/XE">
+<page id="scena-c64-a-atari" menu="Scena C64, a Atari" title="Scena C64, a scena Atari XL/XE">
 <div class="picture right" style="width: 82px;"><img src="images/authors/greg.jpg" alt="greg" width="80" height="112" /><br />autor: greg</div>
 <br />
 <p>Mam nadzieję, że tytuł tego artykułu nie odstraszył jego potencjalnych czytelników; no bo jak to: w zinie atarowskim opisane dema na C-64? Niemniej jednak pozwolę sobie zaprezentować kilka niekoniecznie świeżych produkcji na tego compa. Zaczniemy może od mojego ulubionego dema..</p>
@@ -1428,7 +1428,7 @@
 <div class="hr">LOVE/Agony:  
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/love/love1.png"><img class="img2" src="images/zine/love/love1.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/love/love4.png"><img class="img2" src="images/zine/love/love4.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/love/love2.png"><img class="img2" src="images/zine/love/love2.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/love/love3.png"><img class="img2" src="images/zine/love/love3.png" border="0" alt="" width="120" /></a><br />
+<a rel="lightbox[roadtrip]" href="images/zine/love/love1.png"><img class="img2" src="images/zine/love/love1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/love/love4.png"><img class="img2" src="images/zine/love/love4.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/love/love2.png"><img class="img2" src="images/zine/love/love2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/love/love3.png"><img class="img2" src="images/zine/love/love3.png" border="0" width="120" /></a><br />
 <p> </p>
 <p align="CENTER"><strong>"HALLUCINATIONS"/Albion Crew</strong></p>
 <br />
@@ -1437,20 +1437,20 @@
 <div class="hr">Hallucinations/Albion Crew:  
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h1.png"><img class="img2" src="images/zine/hallucinations/h1.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h2.png"><img class="img2" src="images/zine/hallucinations/h2.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h3.png"><img class="img2" src="images/zine/hallucinations/h3.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h4.png"><img class="img2" src="images/zine/hallucinations/h4.png" border="0" alt="" width="120" /></a> <br /><br />
+<a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h1.png"><img class="img2" src="images/zine/hallucinations/h1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h2.png"><img class="img2" src="images/zine/hallucinations/h2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h3.png"><img class="img2" src="images/zine/hallucinations/h3.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h4.png"><img class="img2" src="images/zine/hallucinations/h4.png" border="0" width="120" /></a> <br /><br />
 <p>W demie "<strong>KREDKI</strong>" grupy Agony wrażenie zrobiła na mnie animacja piły, która w pewnym momencie obróciła się prostopadle do ekraniu rozcinając go, powodując niezłą kaszanę na ekranie. Cool Idea. Oczywiście zaraz wszystko wróciło do normy... (Efekt z L'AMIGI - przyp. red-aktora)</p>
 <br />
 <div class="hr">Kredki/Agony:  
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/kredki/k1.png"><img class="img2" src="images/zine/kredki/k1.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/kredki/k2.png"><img class="img2" src="images/zine/kredki/k2.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/kredki/k3.png"><img class="img2" src="images/zine/kredki/k3.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/kredki/k4.png"><img class="img2" src="images/zine/kredki/k4.png" border="0" alt="" width="120" /></a><br />
+<a rel="lightbox[roadtrip]" href="images/zine/kredki/k1.png"><img class="img2" src="images/zine/kredki/k1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/kredki/k2.png"><img class="img2" src="images/zine/kredki/k2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/kredki/k3.png"><img class="img2" src="images/zine/kredki/k3.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/kredki/k4.png"><img class="img2" src="images/zine/kredki/k4.png" border="0" width="120" /></a><br />
 <p> </p>
 <p>W demie grupy Reflex pt. "<strong>MATHEMATICA</strong>" szczególną uwagę zwróciłem na efekt nazwany przeze mnie "LightSourced Torus". Myślę, że komentarz jest zbędny. Dodam tylko, że torus obracał się w 3 płaszczyznach bardzo płynnie i szybko.</p>
 <br />
 <div class="hr">Mathematica/Reflex:  
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/mathematica/m1.png"><img class="img2" src="images/zine/mathematica/m1.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/mathematica/m2.png"><img class="img2" src="images/zine/mathematica/m2.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/mathematica/m3.png"><img class="img2" src="images/zine/mathematica/m3.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/mathematica/m4.png"><img class="img2" src="images/zine/mathematica/m4.png" border="0" alt="" width="120" /></a><br />
+<a rel="lightbox[roadtrip]" href="images/zine/mathematica/m1.png"><img class="img2" src="images/zine/mathematica/m1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/mathematica/m2.png"><img class="img2" src="images/zine/mathematica/m2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/mathematica/m3.png"><img class="img2" src="images/zine/mathematica/m3.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/mathematica/m4.png"><img class="img2" src="images/zine/mathematica/m4.png" border="0" width="120" /></a><br />
 <p> </p>
 <p>Co ty na to, Konop?</p>
 <p> </p>
@@ -1459,11 +1459,11 @@
 <div class="hr">Zone of Darkness:  
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/zone/z1.png"><img class="img2" src="images/zine/zone/z1.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/zone/z2.png"><img class="img2" src="images/zine/zone/z2.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/zone/z3.png"><img class="img2" src="images/zine/zone/z3.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/zone/z4.png"><img class="img2" src="images/zine/zone/z4.png" border="0" alt="" width="120" /></a><br />
+<a rel="lightbox[roadtrip]" href="images/zine/zone/z1.png"><img class="img2" src="images/zine/zone/z1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/zone/z2.png"><img class="img2" src="images/zine/zone/z2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/zone/z3.png"><img class="img2" src="images/zine/zone/z3.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/zone/z4.png"><img class="img2" src="images/zine/zone/z4.png" border="0" width="120" /></a><br />
 <p> </p>
 <p>Jeszcze chwila refleksji. Pokusiłem się o porównanie C64 i Atari w dziedzinie muzyki, grafiki i kodu. Jak na razie najlepiej dla atari wypada porównanie koderów na atari i c64. "Nasi" nie ustępują koderom ze sceny C-64 prawie wcale w dziedzinie efektów; natomiast w dziedzinie designu jest jeszcze wiele do nadrobienia. Najgorzej przedstawia się chyba sprawa grafików. Rozumiem, że my na atari nie mamy takich trybów jak FLI, AFLI, FLI-INTERLACE itd., ale moim skromnym zdaniem nawet na atarce da się narysować coś porządnego. Przykro mi to pisać, ale z grona rodzimych grafików, tylko kilku można nazwać bardzo dobrymi (Dracon, P.W, Raven). Ten niezadowalający stan jest pośrenio spowodowany brakiem porządnych programów do rysowania, a to jest częściowa wina koderów. Powstałe programy mające wypełnić tę lukę "Interlace GFX Editor 1.31", "CIN 1.0", czy choćby "FlashPoint" nie umożliwiają w pełni profesjonalnej pomocy grafikowi w tworzeniu dzieła. Co do ostatniej grupy scenowców, tj. muzyków sprawa wydaje się prostsza. Zasadniczo mamy już dobrych muzyków (X-ray/Slight,Samurai/Taquart), choć nie jest ich wielu. Pojawienie się przed ponad rokiem MPT 2.4 spowodowało znaczne poprawienie jakości modułów i jakość ta stale rośnie. Prawdopodobnie na party w Ornecie, w tym roku będzie naprawdę ostra walka o pierwsze miejsce w music-compo. Zresztą świadczą o tym wyniki z Mikołowa. Muzyczka, która zajęła pierwsze miejsce wygrała tylko 20-toma punktami, punktacje kolejnych miejsc różniły się także niewiele. Chciałbym teraz coś niecoś nabąknąć o graniu modułów kilka razy na ramkę. W dalszym ciągu nie ma programu umożliwiającego granie w taki sposób. Ścieżka dżwiękowa w demach na C-64 to zazwyczaj utwory tworzone na programach, które umożliwiają granie co najmniej 4 razy na ramkę. Jaki efekt? Nie potrzeba w ogóle używać sampli, bo sama prędkość odtwarzania powoduje, że perkusja brzmi zajebiście, dźwięki jeszcze lepiej. I da się używać tej muzyki do DEM. Ja osobiście nie wyobrażam sobie dema z muzyką pod MPT 2.4 z "Digi One, 15kHz" (no, chyba że dema z jakimś Techno-part...). Ponad rok temu powstał CMC DoublePlay (nawiasem mówiąc, to mój pomysł), całkiem niedawno - CMC grupy MadTeam. Perkusja gra lepiej? Oczywiście, choć są to dopiero rozwiązania połowiczne. Potrzebny jest całkiem nowy program do tworzenie muzyki w trybach 2x, 4x na ramkę. Autor takiego programu na pewno zasłużył by sobie na wieczną wdzięczność muzyków.</p>
 </page>
-<page id="sceny-swiata" title="Sceny świata - scena amigowa i pecetowa">
+<page id="sceny-swiata" menu="Sceny świata" title="Sceny świata - scena amigowa i pecetowa">
 <div class="picture right" style="width: 82px;"><img src="images/authors/gepard.jpg" alt="gepard" width="80" height="97" /><br />autor: gepard</div>
 <br />
 <p>Postanowiłem napisać coś na ten temat, aby przybliżyć Wam szanowni Atarianie trochę informacji o rzeszy scenowców działających na innych platformach sprzętowych.</p>
@@ -1638,7 +1638,7 @@
 <p>Uff!!!.....Trochę sobie poklepałem w klawiaturę. Kolejność wyżej wypisanych produkcji jest wynikiem małej ankiety którą specjalnie przeprowadziłem wsród znajomych scenowców w mojej okolicy.</p>
 <p>Niestety wiele demek z powodu miejsca niezmieściło się na liście (spotkało to min. znakomite demko amigowej grupy Andromeda o nazwie "Nexus 7"). Na pewno nie wyczerpałem tematu, ale starałem się być dość obiektywny. Mam cichą nadzieję iż nie spowodowałem lawiny paczek pod mój adres, zawierających C4 lub inne niespodzianki. Na koniec pozostało mi tylko życzyć Wam drodzy Atarianie tak wielkiej sceny jak amigowa i tak rozwijającej się jak grzybowa.</p>
 </page>
-<page id="taboo" title="List otwarty do pseudogrupy &quot;Taboo&quot;">
+<page id="taboo" menu="Taboo..." title="List otwarty do pseudogrupy &quot;Taboo&quot;">
 <div class="picture right" style="width: 82px;"><img src="images/authors/greg.jpg" alt="greg" width="80" height="112" /><br />autor: greg</div>
 <br />
 <p>W chwili, gdy piszę ten artykuł, właśnie zakończył (?) się spór, który wybuchł pomiędzy Jager'em/Tight, a krośnieńską grupą Orion. Ten artykuł nie będzie jednak nawiązywał w żaden sposób do w.w. konfliktu. Zajmę się bowiem wyjaśnieniem szanownemu czytelnikowi, jak zostać wzorowym lamerem, na wspaniałym przykładzie, jaki dostarczyła mi grupa Taboo. Zaczynam.</p>
@@ -1653,7 +1653,7 @@
 <p> </p>
 <p>P.S. O ile dobrze wiem, grupa... przepraszam... od teraz pseudogrupa Taboo na atarce nadal istnieje. Dopóki nie zmienicie swojej nazwy, możecie być pewni, że w każdym ważniejszej produkcji grupy Taquart dostaniecie ode mnie specjalne pozdrowienia (patrz "Voice of Silence" i "Odezwa 3.0")</p>
 </page>
-<page id="historia-taquartu" title="Historia grupy TAQUART">
+<page id="historia-taquartu" menu="Historia TAQUARTu" title="Historia grupy TAQUART">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>Grupa "TAQUART" powstała stosunkowo niedawno, bo w okolicach listopada 1994 roku. Wtedy to doszło do rozbicia grupy "Denomia", z której na świat wyszły dwie nowe grupy: "TAQUART", oraz "TIGHT"... Myślę, że nie będę Wam tutaj truł dlaczego rozpadła się "Denomia", bo to już chyba każdy wie... Wtedy to właśnie razem z Samurai'em postanowiliśmy, że założymy nowy "team"... Z nazwą oczywiście nie było problemu, gdyż Samurai miał dawno na oku nazwę "TAQUART"... I tak oto została ona do dnia dzisiejszego, dla bardziej zainsteresowanych podaję, że ta nazwa nic! nie oznacza, chociaż o uszy odbiło mi się, że "TAQUART", to pochodzi od nazwy jakiegoś wina, oraz od jakiegoś skrótu "TAJEMNICE ATARI.. coś tam coś tam..."... Tak oto w "TAQUART" były już 2 osoby... Chwilkę po oficjalnym założeniu (i oblaniu?) grupy zadzwoniłem do "ELECTRON'a" ( On był kiedyś w Denomii ) i... już w grupie były 3 osoby... Kilka dni póżniej po krótkiej rozmowie telefonicznej, oraz małym liście do naszego "team'u" dołączył znany muzyk "BAC", oraz "JASKIER", którego namówił "ELECTRON"... Tak oto w "TAQUART" było już 5 osób... Nieco później, bo w okolicach stycznia, może lutego dołączył do nas znany muzyk "GREG"... Tak oto nasza grupka jakoś zaczęła się rozkręcać... (Aha w grupce był kiedyś SNIPER, ale o nim, to nie będę nawet pisał...). Na sukcesy nie trzeba było długo czekać, bo to właśnie w ORNECIE wszyscy usłyszeli o "TAQUART"... Kilka miesięcy po "COPY PARTY" w Ornecie naszą stajnię zasilił znany grafik "DRACON", oraz jeszcze bardziej znany koder "LBS"... W lutym w nasze szeregi wstąpił txt writter "ZENIAL"... Tak oto skład grupy nie zmienił się i nadal pozostaje ten sam:</p>
@@ -1670,7 +1670,7 @@
 <br />
 <p>To tyle w tym artykule... Sorki, że jest taki krótki, ale jest jaki jest...</p>
 </page>
-<page id="poemat" title="Poemat inspirowany">
+<page id="poemat" menu="Poemat" title="Poemat inspirowany">
 <div class="picture right" style="width: 82px;"><img src="images/authors/titus.jpg" alt="titus" width="80" height="92" /><br />autor: titus</div>
 <br />
 <p><strong>POEMAT INSPIROWANY</strong></p>
@@ -1731,10 +1731,10 @@
 <p>mniejsza będzie strata czasu !</p>
 </page>
 </page>
-<page id="elektronika" title="Elektronika">
+<page id="elektronika" menu="Elektronika" title="Elektronika">
 <br />
 <p>Dział "elektronika" jest dedykowany wszystkim zainteresowanym techniczną stroną "zaplecza" malego Atari. Opisy rozszerzeń, interfejsów i ułatwień pokazują również jak bardzo elastycznym w konstrukcji jest (małe) Atari.</p>
-<page id="rom-simulator" title="ROM Simulator">
+<page id="rom-simulator" menu="ROM Simulator" title="ROM Simulator">
 <div class="picture right" style="width: 82px;"><img src="images/authors/electron.jpg" alt="electron" width="80" height="98" /><br />autor: electron</div>
 <br />
 <p>Artykuł ten przeznaczony jest raczej dla elektroników oraz koderów.</p>
@@ -1808,7 +1808,7 @@
 <br />
 <p>Ważna sprawa! Zabraniam wykorzystywania mojego pomysłu w celach zarobkowych.</p>
 </page>
-<page id="ttp" title="Tight Tools Packed">
+<page id="ttp" menu="TTP - opis" title="Tight Tools Packed">
 <div class="picture right" style="width: 82px; margin-left: 4px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Po raz kolejny natchnął Cię twórczy geniusz i masz ochotę napisać coś do licznie ukazujących się zinów na scenie XL/XE lub  po prostu musisz komuś odpisać w pliku tekstowym... Denerwujesz się wczytywaniem "Panthera", które nawet w szybkiej transmisji trochę trwa...</p>
@@ -1875,15 +1875,15 @@
 <div class="hr">Schemat oraz info jak zamontować TTP:  
 <hr />
 </div>
-{cms_selflink ext="http://hardware.atari8.info/ttp.php" title="TTP - Opis Pasia" text="TTP - Opis Pasia" target="_blank"} <br />
+<selflink ext="http://hardware.atari8.info/ttp.php" text="TTP - Opis Pasia" /> <br />
 </page>
 </page>
-<page id="emulatory" title="Emulatory">
+<page id="emulatory" menu="Emulatory" title="Emulatory">
 <br />
 <p>Gdy Energy ukazywało się jako magazyn dyskowy, emulatory Atari oraz internet były nowością. Nie trzeba chyba tłumaczyć, jak bardzo ta sytuacja się zmieniła.</p>
 <p> </p>
-<p>Opisywany emulator XFormer jest już reliktem przyszłości i obecnie jest pobierany z internetu tylko dlatego, że są do niego dołączone oryginalne obrazy ROM wymagane przez inne emulatory. Nowoczesne, ciągle rozwijane emulatory to: {cms_selflink ext="http://atari800.sourceforge.net/" title="Atari800" text="Atari800" target="_blank"}, {cms_selflink ext="http://xl-project.com/" title="Atari++" text="Atari++" target="_blank"} oraz {cms_selflink ext="http://www.virtualdub.org/altirra.html" title="Altirra" text="Altirra" target="_blank"}. Bardzo popularny wśród użytkowników Windows jest też mający już kilka lat {cms_selflink ext="http://a800win.atari-area.prv.pl/" title="Atari800Win PLus" text="Atari800Win PLus 4.0" target="_blank"}.</p>
-<page id="pc-xformer-3-0" title="Emulatory - PC Xformer 3.0">
+<p>Opisywany emulator XFormer jest już reliktem przyszłości i obecnie jest pobierany z internetu tylko dlatego, że są do niego dołączone oryginalne obrazy ROM wymagane przez inne emulatory. Nowoczesne, ciągle rozwijane emulatory to: <selflink ext="http://atari800.sourceforge.net/" text="Atari800" />, <selflink ext="http://xl-project.com/" text="Atari++" /> oraz <selflink ext="http://www.virtualdub.org/altirra.html" text="Altirra" />. Bardzo popularny wśród użytkowników Windows jest też mający już kilka lat <selflink ext="http://a800win.atari-area.prv.pl/" text="Atari800Win PLus 4.0" />.</p>
+<page id="pc-xformer-3-0" menu="PC Xformer 3.0" title="Emulatory - PC Xformer 3.0">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Pierwsza wersja emulatora małego Atari pojawiła się już w 1987 roku na Atari ST. Niestety, ograniczenia sprzętowe ST-ka spowodowały, że nie można było mówić o dobrej jakości emulacji... Od tego czasu Xformer był (i jest) stale ulepszany... Jednak przełom dokonał się po "przeniesieniu" Xformera na IBM PC. Tu można mówić o znacznie lepszej jakości emulacji, choćby z racji tego, że pożądany jest dosyć szybki sprzęt (Pentium required). Początkowo PC Xformer "udawał" antyczne, zapomniane modele Atari 400/800, lecz obecnie w wersji 3.0 (i wyższych) dostępna jest także emulacja modeli XL/XE, z uwzględnieniem dodatkowych banków pamięci w 130 XE. Powstała już wersja 3.5 PC Xformera, a w przygotowaniu jest kolejna - 4.0, która ma ponoć chodzić tylko pod Windows '95 (suxxx!). Ktoś mógłby się dziwić, że wspominając o emulacji Atari na 16/32-bitowych compach wymieniam tylko Xformera... Jakkolwiek było parę innych emulatorów, lecz mniej udanych. Xformer jest z pewnością dotąd najlepiej opracowanym emulatorem "malucha"... To tyle na wstępie... Zajmijmy się samym emulatorkiem...</p>
@@ -2105,9 +2105,9 @@ _______________ |___________________
 <p>Autor oryginalnego tekstu, opublikowanego w ABBUC MAGAZINE (drukowanym dodatku): Jorg Gernreich</p>
 </page>
 </page>
-<page id="grafika" title="Grafika">
+<page id="grafika" menu="Grafika" title="Grafika">
 <br />
-<p>W tym miejscu znajdują się artykuły dotyczące grafiki 8-bitowego Atari i nie tylko, również w szerszym kontekście. Kiedy znudzi się granie, z którego przecież (małe) Atari słynie, warto może spróbować swych sił w czymś twórczym, a istniejące programy graficzne dla małego  Atari dają spore pole do popisu. Jeśli nie wystarczą typowe, standardowe możliwości, to polecam zainteresowanie się edytorem  {cms_selflink page="ged-viewer" text="GED"} lub rewelacyjnym programowym trybem {cms_selflink page="hip-faq---opis-hipa" text="HIP"}, które możliwościami mogą naprawdę zaskoczyć. O obu do poczytania oczywiście dalej. Poza tym coś o realiach bycia grafikiem na scenie oraz co takiego właśnie specjalistę  może inspirować (np. prace {cms_selflink page="boris-valleyo" text="Borisa Valleyo"} albo styl {cms_selflink page="mocne-graffiti" text="graffiti"}).</p>
+<p>W tym miejscu znajdują się artykuły dotyczące grafiki 8-bitowego Atari i nie tylko, również w szerszym kontekście. Kiedy znudzi się granie, z którego przecież (małe) Atari słynie, warto może spróbować swych sił w czymś twórczym, a istniejące programy graficzne dla małego  Atari dają spore pole do popisu. Jeśli nie wystarczą typowe, standardowe możliwości, to polecam zainteresowanie się edytorem  <selflink page="ged-viewer" text="GED" /> lub rewelacyjnym programowym trybem <selflink page="hip-faq" text="HIP" />, które możliwościami mogą naprawdę zaskoczyć. O obu do poczytania oczywiście dalej. Poza tym coś o realiach bycia grafikiem na scenie oraz co takiego właśnie specjalistę  może inspirować (np. prace <selflink page="boris-valleyo" text="Borisa Valleyo" /> albo styl <selflink page="mocne-graffiti" text="graffiti" />).</p>
 <p> </p>
 <p>Zapraszamy do lektury!!!</p>
 <p> </p>
@@ -2137,7 +2137,7 @@ _______________ |___________________
 <div class="picture center" style="width: 120px;"><img src="images/zine/grafika/ged.gif" alt="GED" width="120" /><br />GED</div>
 </td>
 <td>
-<p>Więcej informacji o GED znajdziesz w artykułach: <br /><br />- [ {cms_selflink page="ged-viewer"} ]<br /> - [ {cms_selflink page="ged---czesc-1"} ]<br /> - [ {cms_selflink page="ged---czesc-2"} ]</p>
+<p>Więcej informacji o GED znajdziesz w artykułach: <br /><br />- [ <selflink page="ged-viewer" /> ]<br /> - [ <selflink page="ged-1" /> ]<br /> - [ <selflink page="ged-2" /> ]</p>
 </td>
 </tr>
 <tr>
@@ -2146,13 +2146,13 @@ _______________ |___________________
 </td>
 <td>
 <p>HIP to skrót od "HARD-Interlacing-Picture" i został wymyślony przez węgierską grupę HARD Software w czerwcu 1996 r. Umożliwia on wyświetlenie obrazka w rozdzielczości 160 x 240 pikseli w 30 odcieniach, prawie bez żadnego migania. Więcej o HIP w artykule:
-<br />[ {cms_selflink page="hip-faq---opis-hipa"} ] ***</p>
+<br />[ <selflink page="hip-faq" /> ] ***</p>
 </td>
 </tr>
 </tbody>
 </table>
 <br /> <span class="opis">[*** - powyższa definicja pochodzi z serwisu Atariki]</span><br />
-<page id="boris-valleyo" title="Graficy - Boris Valleyo">
+<page id="boris-valleyo" menu="Boris Valleyo" title="Graficy - Boris Valleyo">
 <div class="picture right" style="width: 82px;"><img src="images/authors/gepard.jpg" alt="gepard" width="80" height="97" /><br />autor: gepard</div>
 <br />
 <p>Długo zastanawiałem się nad tym, o czym napisać w tym artykuluku, no i wpadłem na pomysł, aby wystukać kilka zdań i przedstawić ogółowi atarowców sylwetkę jednego z najbardziej utalentowanych artystów ostatnich lat. Człowiek ten zwie się :</p>
@@ -2171,9 +2171,9 @@ _______________ |___________________
 <div class="hr">Kilka przykładowych prac Borisa Valleyo:  
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/boris/doru.jpg"><img class="img2" src="images/boris/doru.jpg" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/elgena.jpg"><img class="img2" src="images/boris/elgena.jpg" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/fawal_and_gree_the_unquotable.jpg"><img class="img2" src="images/boris/fawal_and_gree_the_unquotable.jpg" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/boris/znugs_and_atawi.jpg"><img class="img2" src="images/boris/znugs_and_atawi.jpg" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/boris/merkun.jpg"><img class="img2" src="images/boris/merkun.jpg" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/quetzalcoatl.jpg"><img class="img2" src="images/boris/quetzalcoatl.jpg" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/sari_koon.jpg"><img class="img2" src="images/boris/sari_koon.jpg" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/teefa_and_the_butterlies.jpg"><img class="img2" src="images/boris/teefa_and_the_butterlies.jpg" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/the_myths_of_raltarnee.jpg"><img class="img2" src="images/boris/the_myths_of_raltarnee.jpg" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/boris/mad_mara.jpg"><img class="img2" src="images/boris/mad_mara.jpg" border="0" alt="" width="120" /></a> <br />
+<a rel="lightbox[roadtrip]" href="images/boris/doru.jpg"><img class="img2" src="images/boris/doru.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/elgena.jpg"><img class="img2" src="images/boris/elgena.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/fawal_and_gree_the_unquotable.jpg"><img class="img2" src="images/boris/fawal_and_gree_the_unquotable.jpg" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/boris/znugs_and_atawi.jpg"><img class="img2" src="images/boris/znugs_and_atawi.jpg" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/boris/merkun.jpg"><img class="img2" src="images/boris/merkun.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/quetzalcoatl.jpg"><img class="img2" src="images/boris/quetzalcoatl.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/sari_koon.jpg"><img class="img2" src="images/boris/sari_koon.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/teefa_and_the_butterlies.jpg"><img class="img2" src="images/boris/teefa_and_the_butterlies.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/the_myths_of_raltarnee.jpg"><img class="img2" src="images/boris/the_myths_of_raltarnee.jpg" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/boris/mad_mara.jpg"><img class="img2" src="images/boris/mad_mara.jpg" border="0" width="120" /></a> <br />
 </page>
-<page id="ged-viewer" title="GED od środka">
+<page id="ged-viewer" menu="GED viewer" title="GED od środka">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>Wielu z Was zapewne słyszało o pewnym programie graficznym, zwanym skrótowo GED. Napisany został on w 1993 roku przez Johna Harrisa. Jest to program, który pod względem możliwości graficznych znajduje się gdzieś w pierwszej piątce wszystkich programów graficznych na Atari. Również pod względem ilości wbudowanych opcji ten program znajduje się w pierwszej piątce, tyle że od tyłu. Jednak, mimo braku nawet najbardziej elementarnych opcji, program jest szeroko używany przez grafików różnych maści. Jest to spowodowane tym, że program udostępnia chyba najwięcej (na oko jakieś 20%) możliwości graficznych Atari, spośród wszystkich innych programów graficznych.</p>
@@ -2297,12 +2297,12 @@ end equ *         od tego miejsca wpisywane są poszczególne procedury: 4 bajty
 <div class="hr">Plik do ściągnięcia: 
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/GEDSTUFF.ARC" target="_new&quot;">GEDSTUFF.ARC</a>
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/GEDSTUFF.ARC">GEDSTUFF.ARC</a>
 <br />
 <br />
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/UNARC.XEX" target="_new&quot;">UNARC.XEX</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/UNARC.XEX">UNARC.XEX</a> <br />
 </page>
-<page id="ged-1" title="GED - czyli jak ulepszyć grafikę (1)">
+<page id="ged-1" menu="GED - część 1" title="GED - czyli jak ulepszyć grafikę (1)">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Wyobraź sobie, drogi Czytelniku, program graficzny, umożliwiający uzyskanie w piętnastym trybie graficznym do 14 kolorów w jednej ( ! ) linii ekranowej ... ... BEZ żadnego migania... Z możliwością zmiany dziewięciu kolorów co każdą linię... Z pełną możliwością zmian wszystkich komórek koloru trybu piętnastego oraz z (prawie) pełną kontrolą nad wszystkimi obiektami PMG w Atari ( np. zmienianie, co każdą linię, ich koloru, szerokości, itd. ) ...</p>
@@ -2511,7 +2511,7 @@ rej. kol.  rej.kol.  rej.kol.  rej.kol.
 <p>Po prostu: GED albo interlace - wybór należy do Ciebie...</p>
 <p>Do zobaczenia ( przeczytania ) w kolejnym odcinku o GED...</p>
 </page>
-<page id="ged-2" title="GED - czyli jak ulepszyć grafikę (2)">
+<page id="ged-2" menu="GED - część 2" title="GED - czyli jak ulepszyć grafikę (2)">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Serdecznie witam wszystkich zainteresowanych tytułowym edytorem graficznym i zapraszam na dokończenie jego szczegółowego opisu. Tak więc niniejszym ogłaszam ciąg dalszy tra-GED-ii... ;-)))</p>
@@ -2724,7 +2724,7 @@ nr  \   |     |     |     |     |
 <br />
 <p>Dodatkowym plikiem do tego artykułu jest "GEDSTUF2.ARC", w którym jest parę ciekawych obrazków, demonstrujących wykorzystanie GED'a w praktyce. Zawarłem tam też dodatkowe uwagi o GED...</p>
 </page>
-<page id="grafika-komputerowa" title="Grafika komputerowa">
+<page id="grafika-komputerowa" menu="Grafika komputerowa" title="Grafika komputerowa">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Niniejszy artykuł ukazał się w pewnej trójmiejskiej gazecie spory czas temu (13.05.92), dlatego jest trochę "przeterminowany".... Jednak sądzę, że przytoczone tu spostrzeżenia są warte uwagi... Autorem ich jest jeden z najlepszych (byłych) grafików małoatarowskich (obecnie działa na PC i Amidze) - Dariusz Bartoszewski.</p>
@@ -2741,7 +2741,7 @@ nr  \   |     |     |     |     |
 <br />
 <p style="text-align: right;">Dariusz Bartoszewski</p>
 </page>
-<page id="format-koala" title="Kilka słów o formacie Koali">
+<page id="format-koala" menu="Format KOALA" title="Kilka słów o formacie Koali">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Format zapisu KOALI MICRO ILLUSTRATORA (PIC) jest obok MICropaintera, najpopularniejszym standardem zapisu grafiki na 8-bitowych komputerach Atari.</p>
@@ -2860,7 +2860,7 @@ nr  \   |     |     |     |     |
 <br />
 <p>Mam nadzieję, że zamieszczone tu informacje przydadzą się szczególnie koderom, spośród których może ktoś wreszcie napisze jakiś porządny viewerek do szybkiego przeglądania obrazków w kilku(nastu) formatach graficznych (np. PIC, PIC v2, GED, CIN, DigiPaint, RGB, INT...).</p>
 </page>
-<page id="hip-faq" title="HIP FAQ - opis HIPa">
+<page id="hip-faq" menu="HIP FAQ" title="HIP FAQ - opis HIPa">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Krótki wstęp...</p>
@@ -3058,7 +3058,7 @@ rti           rti
 <p>- Gumiego z Tight</p>
 <p>- Marka Tomczyka (za wspieranie na sieci)</p>
 </page>
-<page id="lazur" title="Graficy - Lazur">
+<page id="lazur" menu="Lazur" title="Graficy - Lazur">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Jako że już we wstępniaku do pierwszego numeru "Energy" redakcja lojalnie uprzedziła, iż publikując teksty poświęcone komputerom nie będzie się ograniczać do wyłącznie jednego ich rodzaju (domyślnie: małego Atari), ten artykuł traktuje o jednym z najlepszych grafików z sceny większych komputerów, tj. o Lazurze, którego niewątpliwie wybitne grafiki można podziwiać w produkcjach na Amidze i PC. Artykuł ten pochodzi z dziewiątego wydania amigowskiego zina "R.A.W."; kto chciałby przeczytać go w oryginale (po angielsku), ten powinien sięgnąć po ów zin, jednak myślę, że moje tłumaczenie tegoż jest dosyć zgrabne i całkiem dobrze oddaje ducha całości...</p>
@@ -3106,7 +3106,7 @@ rti           rti
 <p>Obecne umiejscowienie w 'chartsach' nie jest całkiem takim, jakie odpowiadałoby ambicjom Lazura.</p>
 <p>"Pod koniec tego roku chcę wydać nową kolekcję graficzną na 4 dyskach, która będzie instalowalna na twardym dysku oraz zaopatrzona zostanie w dobry design. Oczywiście jest to tylko to, o czym marzę i nie jestem pewien, czy zrobię to."</p>
 </page>
-<page id="mocne-graffiti" title="Mocne Graffiti">
+<page id="mocne-graffiti" menu="Mocne Graffiti" title="Mocne Graffiti">
 <div class="picture right" style="width: 82px;"><img src="images/authors/gepard.jpg" alt="gepard" width="80" height="97" /><br />autor: gepard</div>
 <br />
 <p>Przedmowa:</p>
@@ -3144,7 +3144,7 @@ rti           rti
 <p> </p>
 <p>Dziwi mnie tylko fakt czemu ludziska nie uważają za wandalizm oklejanie wszystkiego dookoła beznadziejnymi reklamami. Graffiti jest dla ludzi i nie jest jakąś chrzanioną komercją, jest ekspresją ludzkiej osobowości. Właściwie w każdym polskim mieście znajduje się jakieś charakterystyczne miejsce gdzie produkują się writerzy. Spotkać tam można prawdziwe arcydzieła wplecione na murze między znane w Polsce hasełka kibiców piłkarskich.</p>
 </page>
-<page id="top-grafik" title="Top grafik - Prawda i mit(y)">
+<page id="top-grafik" menu="Top Grafik..." title="Top grafik - Prawda i mit(y)">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Wszystko zaczęło się ponad 20 tysięcy lat temu, gdy ludzie epoki paleolitu rysowali i malowali na ścianach jaskiń, w których mieszkali... Minął ogromnie wielki czas i dziś, w XX wieku, każdy posiadacz komputera osobistego może kontynuować tradycje przodków, rysując na swym sprzęciorze... Potrzeba do tego jednak pewnej wprawy, cierpliwości, dużo chęci i pewnego wrodzonego daru do rysowania... Warunki te muszą spełniać ci, którzy chcą się uważać za dobrych grafików komputerowych, których prace można z łatwością odróżnić od wypocin amatorów, próbujących swych sił w "pikselowaniu" grafiki... :) Zdolni graficy komputerowi zazwyczaj zaczynali od dużej zaprawy w rysowaniu - najpierw jeszcze ewentualnie na papierze, w tradycyjny sposób, a później już na komputerze... Niektórzy zetknęli się z tzw. sceną, inni od razu zajęli się komercyjnym działaniem... Ci ze sceny nierzadko są lepsi od grafików "komercyjnych" (tworzących oprawę do gier, itd.), a wpływa na to ich doświadczenie, a także pewna rywalizacja na scenie w poziomie prac. Wielu początkujących scenowiczów, którzy zaczynają się "parać" grafiką, zapewne chciałoby się znaleźć w tzw. elicie scenowych grafików... Czy jednak naprawdę warto ?!?</p>
@@ -3269,27 +3269,27 @@ rti           rti
 <p>P.S. Być może ten tekst urazi(ł) kogoś, ale po prostu nie mogłem się powstrzymać, aby go napisać... ;-))) Z góry przepraszam za wszelkie pomyłki, nieścisłości, itp., itd... :-)</p>
 </page>
 </page>
-<page id="gry-tipsy-kody" title="Gry (Tipsy, kody, opisy)">
+<page id="gry-tipsy-kody" menu="Gry (tipsy, kody...)" title="Gry (Tipsy, kody, opisy)">
 <br />
 <p>... Nieprzespane noce, siedzenie przed ATARI godzinami i granie w kultowe gry... kto tego nie przeżył... to były czasy! ale... ale...  Nic nie stoi na przeszkodzie, aby powrócić do czasów młodości!</p>
 <br />
 <div class="hr">Wybrane kultowe gry na ATARI XL/XE:     
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/gierki/fred.png"><img class="img2" title="Fred" src="images/zine/gierki/fred.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/gierki/zybex.png"><img class="img2" title="zybex" src="images/zine/gierki/zybex.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/gierki/robbo.png"><img class="img2" title="Robbo" src="images/zine/gierki/robbo.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/gierki/vicky.png"><img class="img2" title="Vicky" src="images/zine/gierki/vicky.png" border="0" alt="" width="120" /></a><br />
+<a rel="lightbox[roadtrip]" href="images/zine/gierki/fred.png"><img class="img2" title="Fred" src="images/zine/gierki/fred.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/gierki/zybex.png"><img class="img2" title="zybex" src="images/zine/gierki/zybex.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/gierki/robbo.png"><img class="img2" title="Robbo" src="images/zine/gierki/robbo.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/gierki/vicky.png"><img class="img2" title="Vicky" src="images/zine/gierki/vicky.png" border="0" width="120" /></a><br />
 <p> </p>
 <p>Udostępniamy Wam dział dział: "Gry (tipsy, kody...)", gdzie znajdziecie wiele przydatnych informacji - takich jak:<br /><br />- Recenzje trzech gier:</p>
 <ol>
-<li>{cms_selflink page="czarny-orzel"}</li>
-<li>{cms_selflink page="kennedy-aproach" text="Kennedy Approach"}</li>
-<li>{cms_selflink page="gunslinger"}</li>
+<li><selflink page="czarny-orzel" /></li>
+<li><selflink page="kennedy-aproach" text="Kennedy Approach" /></li>
+<li><selflink page="gunslinger" /></li>
 </ol>
 <p>- Tipsy</p>
 <p>- Kody</p>
 <p>- Poradę "jak zostać crackerem i przeszukiwaczem pamięci operacyjnej ATARI".</p>
 <p> </p>
 <p>Miłego czytania oraz połamania joy'a!</p>
-<page id="czarny-orzel" title="Czarny orzeł">
+<page id="czarny-orzel" menu="Czarny orzeł" title="Czarny orzeł">
 <div class="picture right" style="width: 82px; margin-left: 6px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Jest to gra zręcznościowo-przygodowa wydana przez firmę KRYSAL. Z pozoru przypomina kolejną odmianę znanego hitu pt. "Operation Wolf" (celownik, za pomocą którego możemy razić wrogów z karabinu i granatów), lecz w miarę grania odkryjemy, że zawiera ona też elementy przygodówki ( typu "Alfa Boot" ), co świetnie ją uatrakcyjnia. Obsługa tejże gierki jest nieskomplikowana: w użyciu są joystick, klawisz Spacji i szybki refleks.</p>
@@ -3312,13 +3312,13 @@ rti           rti
 <div class="hr">Screen'y z gry: 
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/games/czarny/screen1.png"><img class="img2" src="images/games/czarny/screen1.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/czarny/screen2.png"><img class="img2" src="images/games/czarny/screen2.png" border="0" alt="" width="120" /></a><br /><br />
+<a rel="lightbox[roadtrip]" href="images/games/czarny/screen1.png"><img class="img2" src="images/games/czarny/screen1.png" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/czarny/screen2.png"><img class="img2" src="images/games/czarny/screen2.png" border="0" width="120" /></a><br /><br />
 <div class="hr">Plik do ściągnięcia:  
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/games/czarny_orzel.atr" target="_new&quot;">czarny_orzel.atr</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/games/czarny_orzel.atr">czarny_orzel.atr</a> <br />
 </page>
-<page id="gunslinger" title="Gunslinger">
+<page id="gunslinger" menu="Gunslinger" title="Gunslinger">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Z intra:</p>
@@ -3380,13 +3380,28 @@ rti           rti
 <div class="hr">Screen'y z gry:          
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/games/gun/gun1.png"><img class="img2" src="images/games/gun/gun1.png" border="0" alt="" width="120" /></a><a rel="lightbox[roadtrip]" href="images/games/gun/gun2.png"><img class="img2" src="images/games/gun/gun2.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/gun/gun3.png"><img class="img2" src="images/games/gun/gun3.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/gun/gun4.png"><img class="img2" src="images/games/gun/gun4.png" border="0" alt="" width="120" /></a> <br /><br /> <a rel="lightbox[roadtrip]" href="images/games/gun/gun5.png"><img class="img2" src="images/games/gun/gun5.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/gun/gun6.png"><img class="img2" src="images/games/gun/gun6.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/gun/gun7.png"><img class="img2" src="images/games/gun/gun7.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/gun/gun8.png"><img class="img2" src="images/games/gun/gun8.png" border="0" alt="" width="120" /></a> <br /><br />
+<a rel="lightbox[roadtrip]" href="images/games/gun/gun1.png"><img class="img2" src="images/games/gun/gun1.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/gun/gun2.png"><img class="img2" src="images/games/gun/gun2.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/gun/gun3.png"><img class="img2" src="images/games/gun/gun3.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/gun/gun4.png"><img class="img2" src="images/games/gun/gun4.png" border="0" width="120" /></a>
+<br /><br />
+<a rel="lightbox[roadtrip]" href="images/games/gun/gun5.png"><img class="img2" src="images/games/gun/gun5.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/gun/gun6.png"><img class="img2" src="images/games/gun/gun6.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/gun/gun7.png"><img class="img2" src="images/games/gun/gun7.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/gun/gun8.png"><img class="img2" src="images/games/gun/gun8.png" border="0" width="120" /></a>
+<br /><br />
 <div class="hr">Plik do ściągnięcia:           
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/games/gunslinger_disc1A.atr" target="_new&quot;">gunslinger_disc1A.atr</a> <br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/games/gunslinger_disc1B.atr" target="_new&quot;">gunslinger_disc1B.atr</a> <br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/games/gunslinger_disc2A.atr" target="_new&quot;">gunslinger_disc2A.atr</a> <br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/games/gunslinger_disc2B.atr" target="_new&quot;">gunslinger_disc2B.atr</a> <br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/games/gunslinger_disc3A.atr" target="_new&quot;">gunslinger_disc3A.atr</a> <br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/games/gunslinger_disc3B.atr" target="_new&quot;">gunslinger_disc3B.atr</a> <br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/games/Gunslinger.zip" target="_new&quot;">Gunslinger.zip</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/games/gunslinger_disc1A.atr">gunslinger_disc1A.atr</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/games/gunslinger_disc1B.atr">gunslinger_disc1B.atr</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/games/gunslinger_disc2A.atr">gunslinger_disc2A.atr</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/games/gunslinger_disc2B.atr">gunslinger_disc2B.atr</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/games/gunslinger_disc3A.atr">gunslinger_disc3A.atr</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/games/gunslinger_disc3B.atr">gunslinger_disc3B.atr</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/games/Gunslinger.zip">Gunslinger.zip</a> <br />
 </page>
-<page id="kennedy-aproach" title="Kennedy Aproach - Opis gry">
+<page id="kennedy-aproach" menu="Kennedy Aproach" title="Kennedy Aproach - Opis gry">
 <div class="picture right" style="width: 82px;"><img src="images/authors/gepard.jpg" alt="gepard" width="80" height="97" /><br />autor: gepard</div>
 <br />
 <p>KENNEDY APROACH-THE SOLUTION</p>
@@ -3474,13 +3489,19 @@ rti           rti
 <div class="hr">Screen'y z gry: 
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen1.png"><img class="img2" src="images/games/kennedy/screen1.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/kennedy/screen2.png"><img class="img2" src="images/games/kennedy/screen2.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/kennedy/screen5.png"><img class="img2" src="images/games/kennedy/screen5.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/kennedy/screen4.png"><img class="img2" src="images/games/kennedy/screen4.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/kennedy/screen3.png"><img class="img2" src="images/games/kennedy/screen3.png" border="0" alt="" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/kennedy/screen6.png"><img class="img2" src="images/games/kennedy/screen6.png" border="0" alt="" width="120" /></a> <br /><br />
+<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen1.png"><img class="img2" src="images/games/kennedy/screen1.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen2.png"><img class="img2" src="images/games/kennedy/screen2.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen5.png"><img class="img2" src="images/games/kennedy/screen5.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen4.png"><img class="img2" src="images/games/kennedy/screen4.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen3.png"><img class="img2" src="images/games/kennedy/screen3.png" border="0" width="120" /></a>
+<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen6.png"><img class="img2" src="images/games/kennedy/screen6.png" border="0" width="120" /></a>
+<br /><br />
 <div class="hr">Plik do ściągnięcia: 
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/games/kennedy_approach.atr" target="_new&quot;">kennedy_approach.atr</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/games/kennedy_approach.atr">kennedy_approach.atr</a> <br />
 </page>
-<page id="tipsy-kody-1" title="Tipsy &amp; kody (1)">
+<page id="tipsy-kody-1" menu="Tipsy &amp; kody (1)" title="Tipsy &amp; kody (1)">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>Hej! W tym artukule pragnę się podzielić z Wami moimi zbiorami "Tipsów&amp;Kodów" do przerożnych gier... Jest ich tutaj troszkę, tak więc chyba wszyscy z Was znajdą w tym artykule coś dla siebie...</p>
@@ -3720,7 +3741,7 @@ rti           rti
 <p align="RIGHT"> </p>
 <p>To już niestety koniec tego artykułu... Myślę, że tyle "Tipsów" starczy... Jeżeli posiadasz drogi czytelniku jakieś ułatwienia do gier, to skontaktuj się z nami pisząc na adres redakcji.</p>
 </page>
-<page id="tipsy-kody-2" title="Tipsy &amp; kody (2)">
+<page id="tipsy-kody-2" menu="Tipsy &amp; kody (2)" title="Tipsy &amp; kody (2)">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Gdy grasz w "<strong>SEXY SIX - data disc #1</strong>", spróbuj kombinacji:</p>
@@ -3846,10 +3867,10 @@ rti           rti
 <p>Skombinuj bożka (brightly glowing idol) - musisz go mieć ze sobą, bo będzie on "robił" za lampę (przypominam, że gdy okrążyłeś trumnę z zaklętym księciem Cristo, zrobiło się ciemno...). Z kaplicy udaj się do pomieszczania obok - na północ. Z parapetu przy oknie zabierz lalkę (Doll). Teraz skieruj się do wróżki Meagen... Ponownie ją spłoszyłeś, ale zawołaj ją (yell medium) - pojawia się i patrząc w swą kryształową kulę mówi, że rzuca dobry czar szczęścia na ciebie i twego przyjaciela (księcia). Widzi też poruszającą się torbę, która pomoże Ci przejść pewne wąskie miejsce ("Keep a good luck on you and your friend. I also see a -moving- bag helping you through a tight squeeze !"). Teleportujesz się z jej pokoju (look ball). Na razie nic Ci nie mówią słowa wróżki, ale przypominasz sobie pewne miejsce... Ponownie kierujesz się do pokoju wróżki ( go chute ), lecz zatrzymujesz się w komnacie przed nim i nie wchodzisz do wróżki... Widzisz tu jamę prowadzącą w górę, pęknięcie i dziurę w ścianie (ta ostatnia prowadzi do pokoju wróżki)... Co prawda próbowałeś sprawdzić i nawet wejść w pęknięcie ("crack"), ale bez pomocy potężnej magii nic tu się nie uda... Teraz jednak masz magiczną torbę niejakiego Ju-Ju Man'a (?) i to jest chyba ta torba, o której wspominała wróżka... Pomachaj torbą (wave bag) - rzeczywiście, jej magia skutkuje !!! Pęknięcie w ścianie rozszerzyło się na tyle, że możesz już przez nie przejść (go crack). Trafiłeś do ukrytego pokoju VOO DOO ("hidden voo doo room"). Widzisz tu odrażającą czachę oraz... wyrwaną kartkę z magicznej księgi voo doo !!! Teraz możesz przeczytać dokończenie recepty na zdjęcie klątwy z księcia (READ PAGE) - ... trzymając lampę zamachaj różdżką oraz nie zapomnij zakrzyknąć "pieśń!". Aby to zadziałało musisz mieć też lalkę voo doo... ("...wave the stick and hold the lamp and don't forget to yell "Chant!". Oh, yes, to help it succeed, a doll you'll need..."). Wycofaj się z pokoju (S, Go hole, look ball), tradycyjnie korzystając z teleportacji. Idź na W - do kaplicy, gdzie leży książę Cristo. Właściwie masz już wszystko do dokończenia odczarowania, dlatego robisz zamaszysty ruch różdżką (wave stick) - słychać grzmot ! Wykrzykujesz, to co miałeś (yell chant) - ponownie grzmot i bulgotanie !! Z lalki voo doo wypadają szpilki (pins fall out from doll), co ostatecznie uwalnia księcia z klątwy... Patrz kto siedzi na trumnie - to uśmiechnięty książe Cristo (Smiling count Cristo) !!! W ten sposób ukończyłeś pomyślnie grę "VOO DOO castle" uwalniając księcia i mimowolnie... awansujesz do kolejnej gry z serii "S.A.G.A." pt. "The Count"... Ale to już zupełnie inna historia...</p>
 </page>
 </page>
-<page id="muzyka" title="Muzyka">
+<page id="muzyka" menu="Muzyka" title="Muzyka">
 <br />
 <p>Artykuły związane z muzyką i tematami pokrewnymi. Można się dowiedzieć, co warto było słuchać w połowie lat 90 XX w. :)</p>
-<page id="acid-drinkers" title="Acid Drinkers">
+<page id="acid-drinkers" menu="Acid Drinkers" title="Acid Drinkers">
 <div class="picture right" style="width: 82px;"><img src="images/authors/titus.jpg" alt="Titus" width="80" height="92" /><br />autor: titus</div>
 <br />
 <p>Acid Drinkers to dzisiaj zespół-instytucja. Jeśli jesteś fanem tej kapeli, to poniższe informacje nie są dla Ciebie. (Z pewnością przeczytałeś już książkę: "Raport o Acid Drinkers.") Każdy jednak może poczytać co sądzę o płytach tego zespołu niezależnie od tego, czy go słucha czy nie. No, to jazda! Pierwsza płyta zespołu nosiła tytuł:</p>
@@ -3899,7 +3920,7 @@ rti           rti
 <br />
 <p>Czy Acidzi oprą się pokusie? Hmmm... Jestem z natury pesymistą... ale z drugiej strony chłopaki są nieprzewidywalni...</p>
 </page>
-<page id="led-zeppelin" title="Muzykologia - Led Zeppelin">
+<page id="led-zeppelin" menu="Led Zeppelin" title="Muzykologia - Led Zeppelin">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dhor.jpg" alt="dhor" width="80" height="90" /><br />autor: dhor</div>
 <br />
 <p>Hej, witam wszystkich fanów Muzyki disco polo ! To ja, wasz ulubiony DJ Dhor. Dziś pośpiewamy sobie o ptaszkach i słoneczku. Wszyscy gotowi ?? No to uważajcie, bo pod tym tekstem znajdzicie słowa piosenek zespołu Led Zeppelin, z albumu pt. LED ZEPPELIN IV. Jeśli chodzi o samą grupę, to na pewno was nie zainteresuje jej historia, więc nie będę przynudzał (ewentualni ochotnicy są proszeni o kontakt). Dodam tylko, że grupa formalnie przestała istnieć po śmierci perkusisty, który udusił się (bardziej wrażliwi proszeni są o przeskok do końca tego tekstu) swoimi wymiocinami, podczas imprezy wieńczącej wydanie kolejnego albumu. I uwaga, konkurs!!!:</p>
@@ -3912,7 +3933,7 @@ rti           rti
 <p> </p>
 <p>Hey, hey, mama, said the way you move <br />Gonna make you sweat, gonna make you groove <br />Oh, oh, child, way you shake that thing <br />Gonna make you burn, gonna make you sting <br />Hey, hey, baby, when you walk that way <br />Watch your honey drip, can't keep away. <br /> <br />*Ah yeah, ah yeah, ah, ah, ah. <br />Ah yeah, ah yeah, ah, ah, ah. <br /> <br />I gotta roll, can't stand still, <br />Got a flame in my heart, can't get my fill, <br />Eyes that shine burning red, <br />Dreams of you all thru my head. <br /> <br />Ah ah ah ah ah ah ah ah ah ah ah ah ah. <br /> <br />Hey, baby, oh, baby, pretty baby, <br />Tell me what you do me now. <br />(Repeat) <br /> <br />Didn't take too long 'fore I found out <br />What people mean my down and out. <br />Spent my money, took my car, <br />Started tellin' her friends she wants to be a star. <br />I don't know but I been told <br />A big legged woman ain't got no soul. <br /> <br />* Chorus <br /> <br />All I ask for when I pray, <br />Steady rollin' woman gonna come my way. <br />Need a woman gonna hold my hand <br />And tell me no lies, make me a happy man. <br /> <br />SONG: Rock And Roll <br /><br />It's been a long time since I Rock and Rolled, <br />It's been a long time since I did the Stroll. <br />Ooh, let me get it back, let me get it back, <br />Let me get it back, baby, where I come from. <br />It's been a long time, been a long time, <br />Been a long lonely, lonely, lonely, lonely, lonely time. <br />Yes it has. <br /> <br />It's been a long time since the book of love, <br />I can't count the tears of a life with no love <br />Carry me back, carry me back, <br />Carry me back, baby, where I come from. <br />It's been a long time, been a long time, <br />Been a long lonely, lonely, lonely, lonely lonely time. <br /> <br />Seems so long since we walked in the moonlight, <br />Making vows that just can't work right. <br />Open your arms, opens your arms, <br />Open your arms, baby, let my love come running in. <br />It's been a long time, been a long time, <br />Been a long lonely, lonely, lonely, lonely lonely time. <br /> <br />SONG: The Battle Of Evermore <br /><br />Queen of Light took her bow <br />And then she turned to go, <br />The Prince of Peace embraced the gloom <br />And walked the night alone. <br /> <br />Oh, dance in the dark of night, <br />Sing to the morn - ing light. <br />The dark Lord rides in force tonight <br />And time will tell us all. <br /> <br />Oh, throw down your plow and hoe, <br />Rest not to lock your homes. <br /> <br />Side by side we wait the might <br />Of the darkest of them all. <br /> <br />I hear the horses' thunder <br />Down in the valley blow, <br />I'm waiting for the angels of Avalon, <br />Waiting for the eastern glow. <br /> <br />The apples of the valley hold, <br />The seas of happiness, <br />The ground is rich from tender care, <br />Repay, do not forget, no, no. <br />Oh,-------dance in the dark of night, sing <br />to the morning light. <br /> <br />The apples turn to brown and black, <br />The tyrant's face is red. <br /> <br />Oh the war is common cry, <br />Pick up you swords and fly. <br />The sky is filled <br />with good and bad <br />That mortals never know. <br /> <br />Oh, well, the night is long <br />The beads of time pass slow, <br />Tired eyes on the sunrise, <br />Waiting for the eastern glow. <br /> <br />The pain of war cannot exceed <br />The woe of aftermath, <br />The drums will shake the castle wall, <br />The ring wraiths ride in black, <br />Ride on. <br /> <br />Sing as you raise your bow, <br />Shoot straighter than before. <br />No comfort has <br />the fire at night <br />That lights the face so cold. <br /> <br />Oh dance in the dark of night, <br />Sing to the mornin'light. <br />The magic runes are <br />writ' in gold <br />To bring the balance back. <br />Bring it back. <br /> <br />At last the sun is shining, <br />The clouds of blue roll by, <br />With flames from the dragon of darkness <br />The sunlight blinds his eyes. <br /> <br />SONG: Stairway To Heaven <br /><br />There's a lady who's sure <br />All that glitters is gold <br />And she's buying a stairway to heaven. <br />When she gets there she knows <br />If the stores are all closed <br />With a word she can get what she came for <br />Ooh, ooh, and she's buying a stairway to heaven <br /> <br />There's a sign on the wall <br />But she wants to be sure <br />'Cause you know sometimes words have two meanings. <br />In a tree by the brook <br />There's a songbird who sings, <br />Sometimes all of our thoughts are misgiven. <br />Ooh, it makes me wonder, <br />Ooh, it makes me wonder. <br /> <br />There's a feeling I get <br />When I look to the west, <br />And my spirit is crying for leaving. <br />In my thoughts I have seen <br />Rings of smoke through the trees, <br />And the voices of those who standing looking. <br />Ooh, it makes me wonder, <br />Ooh, it really makes me wonder. <br /> <br />And it's whispered that soon <br />If we all call the tune <br />Then the piper will lead us to reason. <br />And a new day will dawn <br />For those who stand long <br />And the forests will echo with laughter. <br /> <br />If there's a bustle in your hedgerow <br />Don't be alarmed now, <br />It's just a spring clean for the May queen. <br />Yes, there are two paths you can go by <br />But in the long run <br />There's still time to change the road you're on. <br />And it makes me wonder. <br /> <br />Your head is humming and it won't go <br />In case you don't know, <br />The piper's calling you to join him, <br />Dear lady, can you hear the wind blow, <br />And did you know <br />Your stairway lies on the whispering wind. <br /> <br />And as we wind on down the road <br />Our shadows taller than our soul. <br />There walks a lady we all know <br />Who shines white light and wants to show <br />How ev'rything still turns to gold. <br />And if you listen very hard <br />The tune will come to you at last. <br />When all are one and one is all <br />To be a rock and not to roll. <br /> <br />And she's buying a stairway to heaven. <br /> <br />SONG: Misty Mountain Hop <br /><br />Walkin' in the park just the other day, <br />Baby, <br />What do you, what do you think I saw? <br />Crowds of people sittin' on the grass <br />with flowers in their hair said, <br />"Hey, Boy, do you wanna score?" <br />And you know how it is; <br />I really don't know what time it was, oh, oh, <br />So I asked them if I could stay awhile. <br /> <br />I didn't notice but it had got very dark <br />and I was really, <br />Really out of my mind. <br />Just then a policeman stepped up to me <br />and asked us said, <br />"Please, hey, would we care to all get in line, <br />Get in line." <br />Well you know, <br />They asked us to stay for tea and have some fun, <br />Oh, oh, he said that his friends would all drop by, ooh. <br /> <br />Why don't you take a good look at yours <br />elf and describe what you see, <br />And Baby, Baby, Baby, do you like it? <br />There you sit, sitting spare like a book on a shelf rustin' <br />Ah, not trying to fight it. <br />You really don't care if they're coming , oh, oh, <br />I know that it's all a state of mind, ooh. <br /> <br />If you go down in the streets today, Baby, you better, <br />You better open your eyes. <br />Folk down there really don't care, really don't care, don't care, really don't <br />Which, which way the pressure lies, <br />So I've decided what I'm gonna do now. <br />So I'm packing my bags for the Misty Mountains <br />Where the spirits go now, <br />Over the hills where the spirits fly, ooh <br />I really don't know. <br /> <br />SONG: Four Sticks <br /><br />Oh, Baby, it's cryin' time, <br />Oh, Baby, I got to fly. <br />Got to try to find a way, <br />Got to try to get away, <br />'Cause you know I gotta get away from you, Babe <br /> <br />Oh, Baby, the river's red, <br />Oh, Baby, in my head. <br />There's a funny feelin' goin' on, <br />I don't think I can hold out long. <br /> <br />*And when the owls cry in the night, <br />Oh, Baby, Baby, when the pines begin to cry, <br />Baby, Baby, Baby, how do you feel? <br />If the river runs dry, Baby, <br />How do you feel? <br /> <br />Craze, Baby, the rainbow's end, <br />Mmm, Baby, it's just a den <br />For those who hide, <br />Who hide their love to depths of life <br />And ruin dreams that we all knew so, Baby. <br /> <br />* Chorus <br /> <br />SONG: Going To California <br /><br />Spent my days with a woman unkind, <br />Smoked my stuff and drank all my wine. <br />Made up my mind to make a new start, <br />Going To California with an aching in my heart. <br /> <br />Someone told me there's a girl out there <br />With love in her eyes and flowers in her hair. <br />Took my chances on a big jet plane, <br />Never let them tell you that they're all the same. <br /> <br />The sea was red and the sky was grey, <br />Wondered how tomorrow could ever follow today. <br />The mountains and the canyons started to tremble and shake <br />As the children of the sun began to awake. <br /> <br />Seems that the wrath of the Gods <br />Got a punch on the nose and it started to flow; <br />I think I might be sinking. <br />Throw me a line if I reach it in time <br />I'll meet you up there where the path <br />Runs straight and high. <br /> <br />To find a queen without a king; <br />They say she plays guitar and cries and sings. <br />La la la la <br />Ride a white mare in the footsteps of dawn <br />Tryin' to find a woman who's never, never, never been born. <br />Standing on a hill in my mountain of dreams, <br />Telling myself it's not as hard, hard, hard as it seems. <br /> <br />SONG: When The Levee Breaks <br /><br />If it keeps on rainin', levee's goin' to break <br />If it keeps on rainin', levee's goin' to break <br />When The Levee Breaks I'll have no place to stay. <br /> <br />Mean old levee taught me to weep and moan, <br />Lord, mean old levee taught me to weep and moan, <br />Got what it takes to make a mountain man leave his home, <br />Oh, well, oh, well, oh, well. <br /> <br />Don't it make you feel bad <br />When you're tryin' to find your way home, <br />You don't know which way to go? <br />If you're goin' down South <br />They go no work to do, <br />If you don't know about Chicago. <br /> <br />Cryin' won't help you, prayin' won't do you no good, <br />Now, cryin' won't help you, prayin' won't do you no good, <br />When the levee breaks, mama, you got to move. <br /> <br />All last night sat on the levee and moaned, <br />All last night sat on the levee and moaned, <br />Thinkin' 'bout me baby and my happy home. <br />Going, go'n' to Chicago, <br />Go'n' to Chicago, <br />Sorry but I can't take you. <br />Going down, going down now, going down. <br /> <br />Lyrics by Digital Graffiti, the Led Zeppelin mailing list. Mail LISTSERV@CORNELL.EDU with "info zeppelin-1" in the body of the message for more information. These lyrics are NOT canonical, they are the best we could up with. We feel they're about as good as you're going to find.</p>
 </page>
-<page id="midi" title="MIDI - Zmagania i porażki">
+<page id="midi" menu="MIDI - Zmagania i ..." title="MIDI - Zmagania i porażki">
 <div class="picture right" style="width: 82px;"><img src="images/authors/greg.jpg" alt="greg" width="80" height="112" /><br />autor: greg</div>
 <br />
 <p>Jakoś tak pół roku temu udało mi się naciągnąć starych na kupno jakichś rozsądnych klawiszy. I w jakiś tajemniczy sposób pewnego dnia obok mojego Atari stały już sobie klawiszki CASIO. Może nie szczyt marzeń muzyka, ale dla moich zastosowań zupełnie wystarczające.</p>
@@ -3968,7 +3989,7 @@ rti           rti
 <br />
 <p>Nie ma to jednak, jak atarka! Na MIDI SEQUENCERZE nie zrobię podciągania (porządnego) instrumentów, nie ma szans na własne brzmienia (ale to raczej wina braku programu na ATARI)... A poza tym, to niedawno (14.XI.1996) dostałem TMC! Nareszcie!!! I atarka znowu rulz! Thx Jaskier!!!</p>
 </page>
-<page id="tekkno-1" title="TEKKNO - czyli muzyka XXI wieku">
+<page id="tekkno-1" menu="TEKKNO (1)" title="TEKKNO - czyli muzyka XXI wieku">
 <div class="picture right" style="width: 82px;"><img src="images/authors/gepard.jpg" alt="gepard" width="80" height="97" /><br />autor: gepard</div>
 <br />
 <p>Na przestrzeni kilku ostatnich lat cały świat ogarnęła mania popularności nowego gatunku muzyki jaką jest muzyka TECHNO. Obecnie mamy do czynienia z prawdziwą inwazją cyber rytmu, ale tylko ich część ma coś wspólnego z prawdziwym klimatem tekkno. Reszta to lama i komercya tworzona masowo pod publikę. Bo trudno pod afiszem techno umieścić taki szczyt lamerstwa jak U96,Snap czy Pharao! Wszystko zaczeło się w USA, a dokładniej w Detroit. Jak wszedzie poszukiwano nowego stylu odbiegającego od szarej kultury masowej. Pierwsze doświadczenia odbywały się bezpośrednio na imprezach lub w małych studiach nagraniowych. Jako inspratora i twórcę nowego nurtu uważa się yankesa Derrica Maya. Po raz pierwszy o nowym trendzie o nazwie techno można było przeczytać w angielskim piśmie "The Sun" w 1988 roku. Fiveclocki opisały tam recenzje pierwszych kawałków Maya. W Detroit się zaczęło i przez dość długi okres ta mieścina była stolicą nowego gatunku w muzyce. Tamte pierwsze eksperymenty mało przypominały dzisiejsze numery. Ale tak zaczynały pierwsze sławy sceny tekkno: TBF, Zorius, Liva, Nexus 21 i Louis Terra. Jednocześnie z muzykowaniem w Stanach Zjednoczonych Trend opanował Wyspy Brytyjskie. Zapanowała moda na udział w rave parties i ludziska tam właśnie spędzały wolny czas. Super klimat, psychodelic, balanga i underground plus duże ilośći lekkich dragów przyciągał całe tłumy. To wszystko powodowało częste naloty policji. A sama muzyka rozwijała się w szybkim tempie. Wielu twórców rozwinęło swój styl i w ten sposób powstało wiele pojedyńczych nurtów i odmian. Te najważniejsze to:</p>
@@ -4003,7 +4024,7 @@ rti           rti
 <p> </p>
 <p>Na koniec kilka greetsów dla znajomych z gdańskich Fortów, sopockiego Thundera i X-TRO, oraz dla Olivii i Agaty które to dostarczyły mi materiałów do tych wypocin.</p>
 </page>
-<page id="tekkno-2" title="TEKKNO - czyli muzyka XXI wieku (2)">
+<page id="tekkno-2" menu="TEKKNO (2)" title="TEKKNO - czyli muzyka XXI wieku (2)">
 <div class="picture right" style="width: 82px;"><img src="images/authors/gepard.jpg" alt="gepard" width="80" height="97" /><br />autor: gepard</div>
 <br />
 <p>Witam ponownie wszystkich  scenowych technomaniaków..........</p>
@@ -4176,7 +4197,7 @@ rti           rti
 <br />
 <p>No, dobrneliśmy do końca tego artikla. W  następnej części przybliże Wam trochę  informacji o The Orb i RMB. Przeczytacie  również o DJ'ach od kuchni i jeszcze parę  ciekawych bajerów.</p>
 </page>
-<page id="the-cure" title="The Cure">
+<page id="the-cure" menu="The Cure" title="The Cure">
 <div class="picture right" style="width: 82px; margin-left: 4px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>Hej, witam wszystkich fanów zespołu The Cure! W tym artykule znajdziecie texty z  albumu :</p>
@@ -4195,7 +4216,7 @@ rti           rti
 <p style="text-align: center;"> </p>
 <p>1. One Hundred Years <br />2. A Short Term Effect <br />3. The Hanging Garden <br />4. Siamese Twins <br />5. The Figurehead <br />6. A Strange Day <br />7. Cold <br />8. Pornography <br /> <br /> <br />Song : "One Hundred Years" <br /> <br />It doesn't matter if we all die <br />Ambition in the back of a black car <br />In a high building there is so much to do <br />Going home time <br />A story on the radio <br />Something small falls out of your mouth <br />And we laugh <br />A prayer for something better <br />A prayer for smoething better <br />Please love me <br />Meet my mother <br />But the fear takes hold <br />Creeping up the stairs the dark <br />Waiting for the death blow <br />Stroking your hair as the patriots are shot <br />Fighting for freedom on the television <br />Sharing the worlds with slaughtered pigs <br />Have we got everything? <br />She struggles to get away... <br />The pain and the creeping feeling <br />A little black haired girl <br />Waiting for Saturday <br />The death of her father pushing her <br />Pushing her white face into the mirror <br />Aching inside me and turn me around <br />Just like the old days <br />Just like the old days <br />Cressing and old man <br />And painting a lifeless face <br />Just a piece of new meat in a clean room <br />The soldiers close in <br />Under a yellow moon <br />All shadows and delivereance under a black flag <br />A hundread years of blood crimson <br />The ribbon tightens round my throat <br />I open my mouth and my head bursts open <br />A sound like a tiger trashing in the water <br />Trashing in the water <br />Over and over <br />We die one after the other <br />Over and over <br />We die one after the other <br />After the other <br /> <br />It feels like a hundread years <br />One hundread years... <br /> <br />Song: "A Short Term Effect"  <br /> <br />Movement <br />No movement <br />Just a falling bird <br />Cold as it hits the bleeding ground <br />He lived and died <br />Catch sight <br />Cover me with earth <br />Draped in black <br />Static <br />White sound <br />A day without substance <br />A change of thought <br />An atmosphere that rots with time <br />Colours that ficker in water <br />A short term effect <br />Scream <br />As she tries to push him over <br />Helpless and sick <br />With teeth of madness <br />Jump jump dance and sing <br />Sideways across bites my hand <br />Time is sweet <br />Derange and disengage everything <br /> <br />A day without substance... <br />An echo and a stranger's hand <br />A short term effect <br /> <br />Song: "The Hanging Garden" <br /> <br />Creature kissing in the rain <br />Shapeless in the dark again <br />In the hanging garden <br />Please dont't speak <br />In the hanging farden <br />No one sleeps <br />Catching haloes on the moon <br />Gives my hands the shapes of angels <br />In the heat of the night <br />The animals scream <br />In the heat of the night <br />Walking into a dream <br />Fall fall fall fall into the walls <br />Jump jump out of time <br />Fall fall fall fall out of the sky <br />Cover my face as the animals cry <br />Creatures kissing in the rain <br />Shapeless in the dark again <br />In a hanging garden <br />Change the past <br />In a hanging garden <br />Wearing furs and masks <br />Fall fall fall fall into the walls <br />Jump jump out of time <br />Fall fall fall out of the sky <br />Cover my face as the animals die <br />In the hanging garden <br /> <br />Song: "Siamse Twins" <br /><br />I chose an eternity of this <br />Like falling angels <br />The word disappeared laughing into the fire <br />Is it awlays like this? <br />Flesh and blood and first kiss <br />The first colours <br />The first kiss <br />We writhed under a red light <br />Voodoo smile <br />Siamse twins <br />A girl at the window <br />Looks at me for an hour <br />Then everything falls apart <br />The walls and the ceiling move in time <br />Push a blade into my hands <br />Slowly up the stairs and into the room <br />Is it always like this? <br />Dancing in my pocket <br />Worms eat my skin <br />She blows with with arms <br />Outstretched <br />Her legs around me <br />In the morning I cried <br />Leave me to die <br />You won't remember my voice <br />I walked away and grew old <br />You never talk <br />We bever talk <br />We never smile <br />I scream <br />You're nothing <br />I don't need you anymore <br />You're nothing <br />It fades and spins... <br />Sing out loud <br />We all die laughing into the fire <br />Is it always like this? <br /> <br />Song : "The Figurehead" <br /><br />Sharp and open <br />Leave me alone and sleeping less <br />Every night <br />As the days become heavier and weighted <br />Waiting in the cold light <br />A noise <br />A scream tears my clothes <br />As the figurines tighten <br />With spiders inside them <br />And dust on the lips of a vision of hell <br />I laughed in the mirror <br />For the first time in a year <br />A hundred other words blind me with your purity <br />Like an old painted doll in the throes of dance <br />I think about tomorrow <br />Please let me sleep <br />As I slip down the window <br />Freshly squashed fly <br />You mean nothing <br />You mean nothing <br />I can lose myself in a Chinede art <br />And American girls <br />All American girls <br />All the time <br />Lose me in the dark <br />Please do it right <br />Run into the night <br />I will lose myself tomorrow <br />Crimson pain <br />My heeart explodes <br />My memory in a fire <br />And someone will listen at least for a short while <br />I can never say no to anyone but you... <br />Too many secrets, too many lies <br />Writhing with secrets <br />Too many secrets <br />Please make it good tonight <br />But the same image haunts me in sequence <br />In despair of time <br />I will never be clean again <br />I touched her eyes <br />Pressed my stained face <br />I will never be clean again <br />Touch her eyes <br />Press my stained face <br />I will never be clean again <br /> <br />Song : "A strange Day" <br /><br />Give me your eyes <br />That I might see the blind man kissing my hands <br />The sun is humming <br />My head turns do dust <br />As he plays on his knees <br />And the plays on his knees <br />And the sand and the sea grows <br />I close my eyes <br />Move slowly through drowning waves <br />Going away on a strange day <br />And I laugh as I drift in the wind <br />Blind <br />Dancing on a beach of stone <br />Cherish the faces as they wait for the end <br />A sudden hush across the water <br />And we're here again <br /> <br />And the sanf ... etc <br /> <br />My head falls back and the walls crash down <br />And the sky and the impossible explode <br />Held for one moment I remember a song <br />An impression of sound <br />Then everything is gone forever <br />A strange day <br /> <br />Song: "Cold" <br /><br />Scarred <br />You back was turned <br />Curled like an embryo <br />Take another face <br />You woll be kissed again <br />I was cold as I mouthed the words <br />And crawled across the mirror <br />I wait, a wait the next breath <br />Your name like ice into my heart <br />A shallow grave <br />A monument to the ruined age <br />Ice in my eyes <br />And eyes like ice don't move <br />Screaming at the moon <br />Another past time <br />Your name like ice into my heart <br />everything as cold as life <br />Can no one save tou? <br />Everything as cold as silence <br />And you will never say a word <br />Your name like ice into my heart <br /> <br />Song "Pornography"  <br /> <br />A hand in my mouth <br />A life spills into the flowers <br />We all look so perfect <br />As we fall down <br />In an electric glare <br />The old man cracks with age <br />She found his last picture <br />In the ashes of the fire <br />An image of the queen <br />Echoes round the sweating bed <br />Sour yellow sounds inside my head <br />In books and films <br />And in life and in heaven <br />The sound of slaughter <br />As your body turns <br />But it's too late <br /> <br />One more day like today and I'll kill you <br />A desire for flesh and real blood <br />And I'll watch you drown in the shower <br />Pushing my life <br />Through your open eyes <br /> <br />I must fight this sickness <br />Find a cure...</p>
 </page>
-<page id="tmc-v1-11" title="Theta Music Composer v. 1.11">
+<page id="tmc-v1-11" menu="TMC v. 1.11" title="Theta Music Composer v. 1.11">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>Już od jakiegoś czasu montuje się w ATARI rozszerzenie w postaci drugiego POKEY-a. Zamierzeniem twórców tego rozszerzenia jest zapewne wyposażenie naszego kochanego złoma w dźwięk stereo. Niestety, nieustanną glorię psują elektronikom i muzykom, a także wszystkim innym posiadaczom dwóch POKEY-ów w jednym sprzecie, koderzy, nieustannie olewejący sobie tę drobną modyfikację "malucha". O tym, co się dzieje, kiedy koderzy zaczynaja "olewać" sobie jakąś sprawę, doskonale więdzą posiadacze rozszerzenia pamięci w C64 (jest tam jej kilka/naście standardów), czy też właściciele ATARI JAGUAR (uff... na szczęście to nie ja).</p>
@@ -4256,9 +4277,11 @@ rti           rti
 <div class="hr">Plik do ściągnięcia:     
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/TMC111.ARC" target="_new&quot;">TMC111.ARC</a> (plik dołączony do Energy #2)<br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/thetamc.zip" target="_new&quot;">thetamc.zip</a> (wersja 1.0 i 1.11) <br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/1/UNARC.XEX" target="_new&quot;">UNARC.XEX</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/TMC111.ARC">TMC111.ARC</a> (plik dołączony do Energy #2)<br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/thetamc.zip">thetamc.zip</a> (wersja 1.0 i 1.11) <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/1/UNARC.XEX">UNARC.XEX</a><br />
 </page>
-<page id="tmc-v1-11-instrukcja" title="Theta Music Composer v. 1.11 - Instrukcja obsługi">
+<page id="tmc-v1-11-instrukcja" menu="TMC v. 1.11 - Instrukcja" title="Theta Music Composer v. 1.11 - Instrukcja obsługi">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>Theta Music Composer (w skrócie: TMC) to program muzyczny mający (w zamierzeniu autora) wykorzystywać w jak największej części rozszerzenie komputerów ATARI XL/XE, jakim jest wbudowanie w niego drugiego układu muzycznego. Ponieważ jednak autor nie jest muzykiem (chociaż kiedyś tak mu się wydawało) to będzie szczerze wdzięczny za wszelkie listy z uwagami, na adres e-mail: jaskier@atari8.info</p>
@@ -4565,9 +4588,9 @@ Return -odgrywa song od aktualnej pozycji. Podczas odgrywania działają następ
 <div class="hr">Plik do ściągnięcia:        
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/thetamc.zip" target="_new&quot;">thetamc.zip</a> (wersja 1.0 i 1.11)<br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/thetamc.zip">thetamc.zip</a> (wersja 1.0 i 1.11)<br />
 </page>
-<page id="tmc-v2-00" title="Theta Music Composer 2.0">
+<page id="tmc-v2-00" menu="TMC v. 2.00" title="Theta Music Composer 2.0">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>TMC 2.0 to następca programu TMC 1.xx napisanego przez mnie w latach 1996-1997. Jest to program muzyczny służacy do komponowania muzyki i odgrywania jej za pomocą wbudowanego w Atari XL/XE układu muzycznego POKEY. Jeden z wielu można by rzec.</p>
@@ -4686,21 +4709,21 @@ Return -odgrywa song od aktualnej pozycji. Podczas odgrywania działają następ
 <p><br /><strong>Format danych pliku konfiguracyjnego:</strong><br /><br />Dane poprzedza nagłówek:<br /> dta 14,21,13+128,c'TMC CONFIG FILE 2.0'*,13+128,21,14<br />Następnie są bajty:<br />cfgquadro dta 1 - konfiguracja pokeya:<br /> 0: mono, 1-$3f: stereo, $40-$7f: RMT stereo, $80-$ff: quadro cfgpokeys dta 16,20,0,0 - podporządkowanie kanałów do pokeyów:<br /> -w trybie mono, stereo i RMT stereo wartość 16 oznacza pierwszego pokey-a, a 20 drugiego<br /> -w trybie quadro wartości 0,4,8,12 oznaczają kolejne pokey-e cfgram    dta 0 - czy używać rozszerzenia (0= nie)<br />cfgbank0  dta %11000011 - pierwszy bank rozszerzenia<br />cfgbank1  dta %11000111 - drugi bank rozszerzenia<br />cfgdir    dta $c0 - tryb pracy komenty dir. $c0- auto, $80- Sparta DOS X<br /> $40- MyDOS, $00- brak</p>
 </page>
 </page>
-<page id="programowanie" title="Programowanie">
+<page id="programowanie" menu="Programowanie" title="Programowanie">
 <div class="picture right" style="width: 82px; margin-left: 3px;"><img src="images/authors/fox.jpg" alt="Fox" width="80" height="94" /><br />autor: fox</div>
 <br />
 <p>W tym dziale znajdują się artykuły dotyczące programowania 8-bitowych komputerów Atari. Artykuły wymagają znajomości asemblera procesora 6502.</p>
 <p> </p>
-<p>{cms_selflink page="irq-loader" text="IRQ loader"} zwięźle opisuje programowanie transmisji szeregowej między stacją dysków a komputerem bez użycia systemu operacyjnego.</p>
+<p><selflink page="irq-loader" text="IRQ loader" /> zwięźle opisuje programowanie transmisji szeregowej między stacją dysków a komputerem bez użycia systemu operacyjnego.</p>
 <p> </p>
-<p>Trzy artykuły dotyczą odtwarzania muzyki. Jeden opisuje procedury dla formatów {cms_selflink page="odtwarzaniemuzyki" text="CMC i MPT"}, które od czasu ich publikacji w Energy były wykorzystywane przez niemal wszystkie osoby umieszczające muzykę CMC lub MPT w swoim programie. Dodam, że procedury te znajdują się również w nowoczesnym odtwarzaczu {cms_selflink ext="http://asap.sourceforge.net/" title="ASAP" text="ASAP" target="_blank"} oraz konwerterze SAP Maker, a przez to w wielu plikach SAP z kolekcji {cms_selflink ext="http://asma.atari.org/" title="ASMA" text="ASMA" target="_blank"}. Mój artykuł sprzed 12 lat opisuje {cms_selflink page="mptplayer" text="procedurę odtwarzającą muzykę"} w intrze {cms_selflink ext="http://atariki.krap.pl/index.php/Drunk_Chessboard" title="Drunk Chessboard" text="Drunk Chessboard" target="_blank"}, która później była też wykorzystywana w innych produkcjach demoscenowych, m.in. po drobnych modyfikacjach w demie {cms_selflink ext="http://numen.scene.pl/" title="Numen" text="Numen" target="_blank"} oraz grze {cms_selflink ext="http://yoomp.atari.pl/" title="Yoomp!" text="Yoomp!" target="_blank"}. Trzecim artykułem na temat programowania muzyki jest {cms_selflink page="opis-formatu-mpt" text="opis formatu danych MPT"}.</p>
+<p>Trzy artykuły dotyczą odtwarzania muzyki. Jeden opisuje procedury dla formatów <selflink page="odtwarzanie-muzyki" text="CMC i MPT"/>, które od czasu ich publikacji w Energy były wykorzystywane przez niemal wszystkie osoby umieszczające muzykę CMC lub MPT w swoim programie. Dodam, że procedury te znajdują się również w nowoczesnym odtwarzaczu <selflink ext="http://asap.sourceforge.net/" text="ASAP" /> oraz konwerterze SAP Maker, a przez to w wielu plikach SAP z kolekcji <selflink ext="http://asma.atari.org/" text="ASMA" />. Mój artykuł sprzed 12 lat opisuje <selflink page="krotszy-player-mpt" text="procedurę odtwarzającą muzykę" /> w intrze <selflink ext="http://atariki.krap.pl/index.php/Drunk_Chessboard" text="Drunk Chessboard" />, która później była też wykorzystywana w innych produkcjach demoscenowych, m.in. po drobnych modyfikacjach w demie <selflink ext="http://numen.scene.pl/" text="Numen" /> oraz grze <selflink ext="http://yoomp.atari.pl/" text="Yoomp!" />. Trzecim artykułem na temat programowania muzyki jest <selflink page="opis-formatu-mpt" text="opis formatu danych MPT" />.</p>
 <p> </p>
-<p>W {cms_selflink page="lekcja-asemblera-cz-1" text="Lekcjach asemblera"} Jaskier komentuje kurs asemblera w czasopiśmie {cms_selflink ext="http://tajemnice.atari8.info/" title="Tajemnice Atari" text="Tajemnice Atari" target="_blank"}. Śledziłem ten kurs, nauczywszy się wcześniej programować z książki {cms_selflink ext="http://tajemnice.atari8.info/ksiazki/index.html" title="Asembler 6502" text="Asembler 6502" target="_blank"} Jana Ruszczyca.</p>
+<p>W <selflink page="lekcja-asemblera-cz-1" text="Lekcjach asemblera" /> Jaskier komentuje kurs asemblera w czasopiśmie <selflink ext="http://tajemnice.atari8.info/" text="Tajemnice Atari" />. Śledziłem ten kurs, nauczywszy się wcześniej programować z książki <selflink ext="http://tajemnice.atari8.info/ksiazki/index.html" text="Asembler 6502" /> Jana Ruszczyca.</p>
 <p> </p>
-<p>{cms_selflink page="packowanie-danych" text="Artykuł o kompresji"} przedstawia kompresję {cms_selflink ext="http://pl.wikipedia.org/wiki/LZ77" title="LZ77" text="LZ77" target="_blank"}. W połączeniu z kodowaniem Huffmana jest ona obecnie stosowana m.in. w formatach ZIP i PNG.</p>
+<p><selflink page="packowanie-danych" text="Artykuł o kompresji" /> przedstawia kompresję <selflink ext="http://pl.wikipedia.org/wiki/LZ77" text="LZ77" />. W połączeniu z kodowaniem Huffmana jest ona obecnie stosowana m.in. w formatach ZIP i PNG.</p>
 <p> </p>
-<p>{cms_selflink page="slodka-szestnastka" text="Ostatni artykuł"}, noszący intrygujący tytuł, opisuje model programowy procesora 65816.</p>
-<page id="irq-loader" title="IRQ loader">
+<p><selflink page="slodka-szestnastka" text="Ostatni artykuł" />, noszący intrygujący tytuł, opisuje model programowy procesora 65816.</p>
+<page id="irq-loader" menu="IRQ loader" title="IRQ loader">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>Czołem towarzysze. Tak jak obiecywaliśmy w naszym magazynie znajdziecie wiele pożytecznych informacji i programów, które mogą się przydać przy tworzeniu własnych programów użytkowych oraz dem. W tym artykule akurat znajduje się coś pożytecznego dla twórców dem.</p>
@@ -4749,7 +4772,7 @@ Return -odgrywa song od aktualnej pozycji. Podczas odgrywania działają następ
 <br />
 <p>Jak zapewne zauważyliście w Energy #1 jest więcej niż jeden IRQ-loader. Drugi uruchamiany jest po intrze podczas ładowania całego magazynu. Jego cechą charakterystyczną jest to, że oprócz muzyczki na dwóch kanałach, odgrywane są tam na dwóch kanałach sample.</p>
 <br />
-<div class="movie left" style="width: 204px; margin-right: 6px;"><embed id="player2" type="application/x-shockwave-flash" width="200" height="144" src="video/player.swf" flashvars="file=http://energy.scene.pl/video/sampleloader.mp4" allowfullscreen="true" allowscriptaccess="always" name="player2"></embed></div>
+<!-- TODO <div class="movie left" style="width: 204px; margin-right: 6px;"><embed id="player2" type="application/x-shockwave-flash" width="200" height="144" src="video/player.swf" flashvars="file=http://energy.scene.pl/video/sampleloader.mp4" allowfullscreen="true" allowscriptaccess="always" name="player2"></embed></div> -->
 <p>Wbrew pozorom jest to bardzo prymitywny efekt. Zauważcie bowiem, że do operacji zapisu-odczytu używane są faktycznie generatory 3 i 4 POKEY-a, ale tylko i wyłącznie dla ustalenia częstotliwości transmisji. Ich głośność do tego nic nie wnosi, a tylko tyle potrzeba, aby sample mogły grać. Ddatkowo mamy jeszcze jedno ułatwienie. Po wsadzeniu wartośc $34 do komórki $d303 nie musimy robić takiej długiej pętli oczekując na to, aż stacja załapie, że chcemy do niej coś wysłać.</p>
 <br />
 <p>Po prostu w tym czasie wywołujemy player. Drobne problemy nastręczyć może procedura odgrywania sampli. Nie możemy jej przerywać na nazbyt długo, bo sample zaczną źle brzmieć, a procedura przepisująca bufor do pamięci trwa naprawdę sporo. Rozwiązanie jest proste. Ta procedura nie znajdować się będzie w przerwaniu, ale w normalnym programie, do którego skaczemy po ustawieniu się znacznika, że cały sektor został przeczytany, a w jej środek wsadzamy drugą procedurę odgrywania sampli. Całość działa w sposób następujący. Przepisanie jednego bajtu z bufora, odegranie sampla, przepisanie bajtu z bufora, odegranie sampla itd.</p>
@@ -4758,7 +4781,7 @@ Return -odgrywa song od aktualnej pozycji. Podczas odgrywania działają następ
 <br />
 <p>I to by było na tyle, jeśli chodzi o własne procedury obsługi stacji. W następnym numerze postaramy się rozszerzyć ten temat o procedury obsługi w różnych systemach turbo oraz (jeśli uda nam się namówić na to Foxa) procedury dla stacji Karin.</p>
 </page>
-<page id="opis-formatu-mpt" title="Opis formatu Music ProTrackera">
+<page id="opis-formatu-mpt" menu="Opis formatu MPT" title="Opis formatu Music ProTrackera">
 <div class="picture right" style="width: 82px;"><img src="images/authors/mayonez.jpg" alt="mayonez" width="80" height="117" /><br />autor: mayonez</div>
 <br />
 <p>Ostatnimi czasy wśród programów muzycznych na naszą kochaną maszynkę króluje niewątpliwie "Music Protracker v.2.4" zwany w skrócie MPT. Mimo kilku wkurzających wad, jest to dobry program, przewyższający swoimi możliwościami brzmieniowymi CMC. Niestety w momencie wypuszczenia tego programu grupa "Slight" poza instrukcją obsługi nie udostępniła opisu formatu plików obsługiwanych przez ten program. Zdegustowany tym faktem, "pogrzebałem" nieco w muzyczkach z MPT i ostatecznie "rozgryzłem" ten format. Poniżej znajduje się dokładny opis formatu plików z MPT v2.4. Format ten opisuję na ramach "Energy Zine", gdyż zdaję sobie sprawę z tego, że większość scenowców nie zna tego formatu. Znajomość formatu MPT może zaowocować powstaniem na scenie różnych konwerterów itp.</p>
@@ -4891,9 +4914,9 @@ E-1 01
 <div class="hr">Plik do ściągnięcia:  
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/mpt24s.zip" target="_new&quot;">mpt24s.zip</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/mpt24s.zip">mpt24s.zip</a> <br />
 </page>
-<page id="odtwarzanie-muzyki" title="Odtwarzanie muzyki CMC i MPT">
+<page id="odtwarzanie-muzyki" menu="Odtwarzanie muzyki" title="Odtwarzanie muzyki CMC i MPT">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>W grach musi być muzyka. W demach też i lepiej, żeby była ona oryginalna, a nie wycinana z innych gier. Tak się już jakoś od pewnego czasu utarło i lepiej tego nie zmieniać. Przyjmijmy to za nasze motto. Nikt chyba nie chce powrotu czasów, w których głównym efektem w demie była możliwość naciskania kilku klawiszy zmieniających muzykę. Aby w jakimkolwiek programie była oryginalna muzyka potrzebne są:</p>
@@ -4947,9 +4970,9 @@ E-1 01
 <div class="hr">Plik do ściągnięcia: 
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/PLA24D.ASM" target="_new&quot;">PLA24D.ASM</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/PLA24D.ASM">PLA24D.ASM</a> <br />
 </page>
-<page id="krotszy-player-mpt" title="Player MPT - krótszy od najkrótszego">
+<page id="krotszy-player-mpt" menu="Krótszy player MPT" title="Player MPT - krótszy od najkrótszego">
 <div class="picture right" style="width: 82px;"><img src="images/authors/fox.jpg" alt="Fox" width="80" height="94" /><br />autor: fox</div>
 <br />
 <p>W poprzednim numerze "Energy" kol. Jaskier zaprezentował dwa playery muzyki w formacie MPT. Ja nie będę taki hojny i podzielę się z wami tylko jednym.</p>
@@ -5000,9 +5023,9 @@ loop lda 20
 <div class="hr">Plik do ściągnięcia:   
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/MPTPLFOX.ASM" target="_new&quot;">MPTPLFOX.ASM</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/MPTPLFOX.ASM">MPTPLFOX.ASM</a> <br />
 </page>
-<page id="lekcja-asemblera-cz-1" title="Lekcja asemblera cz. 1">
+<page id="lekcja-asemblera-cz-1" menu="Lekcja asemblera cz. 1" title="Lekcja asemblera cz. 1">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>Temat nauki programowania w języku niskiego poziomu (assemblerze) był chyba już podejmowany we wszystkich magazynach i czasopismach o małym Atari. Sam kiedyś byłem początkującym i doskonale pamiętam jak wiele mi one pomogły nie tylko w nauce programowania, ale również w zrozumieniu sposobu działania komputera. Jako szczególnie dobre uważałem artykuły w czasopiśmie Tajemnice Atari. Były one z całą pewnością najlepiej zredagowane, a przede wszystkim napisane przez ludzi, którzy faktycznie znają się na programowaniu. Niestety cykl ten w końcu się skończył. Patrząc na to z obecnej perspektywy można stwierdzić, że róznica pomiędzy kimś, który przebrnął przez cały ten cykl, a średnim nawet koderem ze sceny jest kolosalna. Sam przechodziłem tę drogę, więc wiem jakie to trudne. Nie pomogły mi tutaj inne artykuły w innych czasopismach i magazynach, gdyż w nich poziom był wręcz zupełnie zerowy.</p>
@@ -5083,7 +5106,7 @@ CIOV EQU $E456   CIOV EQU $E456
 <br />
 <p>Numer 8/91: Dla tych, którzy nie zrozumieli zasady działania relokatora, podaję tutaj wyjaśnienie. Aby program po przepisaniu go pod inny adres działał prawidłowo, musimy zmienić wszystkie rozkazy, których adresy odwołują się do wnętrza programu. Podejrzane są o to wszystkie rozkazy skoków, oraz rozkazy operujące na pamięci, ogólnie wszystkie rozkazy o długości trzech bajtów. Rozkazy jednobajtowe i dwubajtowe nie są podejrzane, gdyż ich działanie nie zależy nigdy od umieszczenia w pamięci. Natomiast w rozkazach trzybajtowych należy sprawdzić, czy faktycznie są one zależne od umieszczenia programu, czy też odwołują się do adresów spoza programu. Ponieważ relekowany jest tylko sam program, a nie cała pamięć, więc jeżeli program odwołuje się do adresu spoza swojego obszaru, to ponieważ pamięć pod tym adresem nie jest przemieszczana, to nie należy adresu w rozkazie zmieniać. Owo sprawdzanie dokonywane jest w programie od etykiety TPE3_. Problemem jest zatem tylko sprawdzenie, które rozkazy są trzybajtowe. Program jest tutaj bardzo sprytny, gdyż nie sprawdza po kolei każdej możliwej instukcji, ale na podstawie kodu rozkazu dedukuje, ile on zajmuje bajtów. Dedukcja owa zaczyna się od rozkazu TAX znajdującego się 2 linie nad komentarzem: "* instr type check". Dedukcja owa jest bardzo prosta i opiera się na regularności w budowie kodu rozkazu. Sprawdzane są mianowicie 4 najniższe bity. Wartość 8 lub 10 oznacza, że rozkaz jest jednobajtowy. Wartości poniżej 8 oznaczają rozkazy dwubajtowe, natomiast wartości powyżej 10 oznaczają owe podejrzane rozkazy trzybajtowe. Największy problem jest z wartością 9. Wówczas sprawdza się jeszcze piąty bit. Jeżeli jest skasowany, to jest to rozkaz jednobajtowy, a jeżeli ustawiony, to jest to rozkaz trzybajtowy. Od tego wszystkiego są tylko 4 wyjątki. Rozkazy o kodach $00 (BRK), $40 (RTI), $60 (RTS) są jednobajtowe, a rozkaz o kodzie $20 (JSR) jest trzybajtowy.</p>
 </page>
-<page id="lekcja-asemblera-cz-2" title="Lekcja asemblera cz. 2">
+<page id="lekcja-asemblera-cz-2" menu="Lekcja asemblera cz. 2" title="Lekcja asemblera cz. 2">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>NUMER 1/92: Magiczne liczby ze znakiem. Pewnie każdy tak o nich myśli. Jak w ogóle one wyglądają? Otóż zupełnie tak samo jak liczby bez znaku, tyle że najwyższy bit oznacza, czy wartość należy traktować jako liczbę ujemną (bit ustawiony), czy nie. Nie jest prawdą, jakoby nasz procesor dokonywał operacji identycznie na liczbach ze znakiem, czy bez, a jedynie od naszej interpretacji zależy różnica. Nasz procesor pracuje prawie poprawnie tylko na tych liczbach ze znakiem, których bit znaku znajduje się w najwyższym bicie ich najstarszego bajtu. Na innych liczbach ze znakiem bardzo trudno jest operować. Jak zatem należy pracować na tych liczbach, na których nasz procesor trochę się zna?</p>
@@ -5256,7 +5279,7 @@ L8 LDA DAT,Y
 <br />
 <p>I to wszystko co miałem do powiedzenia na temat błedów w Tajemnicach Atari. W następnych odcinkach zajmiemy się już prawdziwym kodowaniem.</p>
 </page>
-<page id="packowanie-danych" title="Packowanie danych">
+<page id="packowanie-danych" menu="Packowanie danych" title="Packowanie danych">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>Czy wiecie na czym polega pacyfikacja? Bierze się packę na muchy i się je pac, pac- pacyfikuje, a wtedy już one siedzą cicho.</p>
@@ -5293,9 +5316,9 @@ L8 LDA DAT,Y
 <div class="hr">Plik do ściągnięcia: 
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/PACK.ARC" target="_new&quot;">PACK.ARC</a> <br /><br /> <img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/UNARC.XEX" target="_new&quot;">UNARC.XEX</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/PACK.ARC">PACK.ARC</a> <br /><br /> <img src="images/layout/floppyicon.gif" border="0" /><a href="download/UNARC.XEX">UNARC.XEX</a> <br />
 </page>
-<page id="slodka-szestnastka" title="&quot;Słodka szestnastka&quot;">
+<page id="slodka-szestnastka" menu="Słodka szesnastka" title="&quot;Słodka szestnastka&quot;">
 <div class="picture right" style="width: 82px;"><img src="images/authors/kmk.jpg" alt="kmk" width="80" height="105" /><br />autor: kmk</div>
 <br />
 <p>...................NiE!, tekst nie traktuje o zaletach licealistek w pewnym wieku, jakkolwiek temat ten także wart jest poruszenia. Ale może innym razem... Dziś skupimy się na komputerach...</p>
@@ -5413,7 +5436,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p>Obok wszystkich wyliczonych zalet procesor 65C816 ma jednak jedną, ale za to bardzo dużą wadę. Mianowicie cenę. Na pchlim targu w Warszawie, a trzeba Wam wiedzieć, że raczej  trudno znależć miejsce, gdzie cokolwiek  mogłoby być tańsze, za egzemplarz krzyczano 90 zł!, co przy cenie zwykłego 6502 oscylującej w okolicach kilku złotych, jest lekką przesadą. Wielka to szkoda, bo scalak jest naprawdę bardzo fajny i przydałoby się, by znalazł się w większej ilości krajowych atarynek. Niemniej jeśli ktoś ma wolne 90 złotych, to gorąco procesor 65C816 polecam. 90 złotych, lub $70 dolarów amerykańskich, bo za tyle można sobie sprowadzić ze stanów "gotowca", do wmontowania w płytę (goły procesor wymaga jednak pewnych zabiegów kosmetycznych w rodzaju symulowania sygnału HALT), wraz z dość wyczerpującą dokumentacją i niezłym asemblerem. Całość nazywa się "SWEET 16", skąd tytuł niniejszego artykułu...</p>
 </page>
-<page id="znaczenie-znacznikow" title="Znaczenie znaczników">
+<page id="znaczenie-znacznikow" menu="Znaczenie znaczników" title="Znaczenie znaczników">
 <div class="picture right" style="width: 82px;"><img src="images/authors/fox.jpg" alt="Fox" width="80" height="94" /><br />autor: fox</div>
 <br />
 <p>W poniższym tekście zajmę się opisem rejestru znaczników (wszyscy koderzy wiedzą, o co chodzi).</p>
@@ -5518,10 +5541,10 @@ L8 LDA DAT,Y
 <p>To już koniec opisu znaczników. Mam nadzieję, że dowiedziałeś się czegoś nowego. B.</p>
 </page>
 </page>
-<page id="smieszne" title="Śmieszne">
+<page id="smieszne" menu="Śmieszne" title="Śmieszne">
 <br />
 <p>Dział, który zawiera dowcipy, zagadki, śmieszne teksty, które przydadza się na poprawę nastroju jak i rozładowanie napięcia czy odwrócenie uwagi od... komputerów.</p>
-<page id="smilie" title="Smilie">
+<page id="smilie" menu="Smilie" title="Smilie">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Naturalnym dla nas jest posiadanie władzy nad otaczającym nas środowiskiem. Niekoniecznie "rządzenie" nim, lecz raczej posiadanie pozycji umożliwiającej spełnianie tego, czego chcemy w momencie pożądanym przez nas. Również lubimy być rozumiani przez innych.</p>
@@ -5645,7 +5668,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p>Interpretacja różnych wariantów Smilie jest naturalnie dość subiektywna. Znaczenie Smilies w wymianie danych jest w każdym razie absolutnie potwierdzone i uznane. Teraz chyba każdy może się domyślić, że używanie w tekście (oczywiście prywatnym) Smilies może okazać się bardzo pomocne do wyrażenia nastrojów piszącego (bo jak je inaczej i krótko wyrazić poprzez napisany tekst ?!? Byłoby to trochę karkołomne i trudne zadanie...). Wiele lat używania komputerów w telekomunikacji zaowocowało wymyśleniem mnóstwa Smilies i można nawet mówić o całej subkulturze tych symboli. Fantazja w ich wymyślaniu ma granicę tylko w międzynarodowym zestawie znaków ASCII... 8-)</p>
 </page>
-<page id="smiechu-warte-1" title="Dowcipów garść nieduża...">
+<page id="smiechu-warte-1" menu="Śmiechu warte (1)" title="Dowcipów garść nieduża...">
 <div class="picture right" style="width: 82px;"><img src="images/authors/none.jpg" alt="kravco" width="80" height="103" /><br />autor: kravco</div>
 <br />
 <p>Witajcie w "Śmiechu Warte"... W podtytule  "100 dowcipów dla każdego..."... Jak sama  nazwa wskazuje znajdziecie w tym artykule  coś do śmiechu, czyli ponad 100!!!! (czyżby  nowy rekord? hehe ) dowcipów na każdą  okazję... Myślimy, że ten artykuł  przypadnie wam do gustu i z chęcią  będziecie czekać na następny  (obszerniejszy? ;))... Ok... Tyle wstępu czas  na dowcipy... :))</p>
@@ -6032,7 +6055,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p>To wszystko na dziś z rubryki "110  dowcipów na każdą okazję". Na dalsze  ciekawe dowcipy zapraszam czytelników do  przeczytania drugiego numeru "ENERGY".</p>
 </page>
-<page id="smiechu-warte-2" title="Śmiechu warte (2)">
+<page id="smiechu-warte-2" menu="Śmiechu warte (2)" title="Śmiechu warte (2)">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>W kolejnym(ych) artykułach z cyklu  "Śmiechu Warte" proponuję Wam kilka  naprawdę dobrych kawałów + mały bonusik  dla fanów tego artikla... :  ( 2 artykuły z cyklu Śmiechu Warte!!! ).  Czyli dokładnie 32938kb hihotów dla Was!!!  Myślę, że niektórzy z Was ( przynajmniej )?  będą leżeć na podłodze ( czego wszystkim  jako autor życzę...). - Radzę zapiąć pasy,  oraz miłej lektury. =)</p>
@@ -6988,7 +7011,7 @@ L8 LDA DAT,Y
 <p>Co Miś Uszatek je na kolację?</p>
 <p>- Pora na dobranoc...</p>
 </page>
-<page id="slowniczek-wyrazow" title="Słowniczek wyrazów bliskoznacznych">
+<page id="slowniczek-wyrazow" menu="Słowniczek wyrazów..." title="Słowniczek wyrazów bliskoznacznych">
 <div class="picture right" style="width: 82px;"><img src="images/authors/none.jpg" alt="bodzio" width="80" height="103" /><br />autor: bodzio</div>
 <br />
 <p>Ostatnim razem (?) w naszym słowniczku mówiliśmy o takich między innymi wyrazach, jak "nieboszczyk", czyli mżawka, kapuśniaczek; "pierścień" czyli zanik biustu wspomninaliśmy także o językach dla nas nieobcych, np. o języku włoskim:</p>
@@ -7018,7 +7041,7 @@ L8 LDA DAT,Y
 <br />
 <p>P.S. Oczywiście Bodzio opublikował ten i inne swe światłe myśli pierwotnie w zinie amigowskim, jednak my nie z tych, co nie dadzą rady na to pozorne utrudnienie... :)</p>
 </page>
-<page id="tysiac-slow" title="1000 słów o komputerach i informatyce" />
+<page id="tysiac-slow" menu="Tysiąc słów..." title="1000 słów o komputerach i informatyce" />
 <div class="picture right" style="width: 82px;"><img src="images/authors/fox.jpg" alt="Fox" width="80" height="94" /><br />autor: fox</div>
 <br />
 <p>Jeżeli jesteś początkującym pasjonatem informatyki, to na pewno niejednokrotnie zetknąłeś się z niezrozumiałymi pojęciami. W takich wypadkach polecam lekturę książki "1000 słów o komputerach i informatyce", która ukazała się nakładem Wydawnictwa Ministerstwa Obrony Narodowej.</p>
@@ -7065,7 +7088,7 @@ L8 LDA DAT,Y
 <p>Cena: zł 600,-</p>
 <p>(odstąpię za pół ceny).</p>
 </page>
-<page id="wywiady" title="Wywiady">
+<page id="wywiady" menu="Wywiady" title="Wywiady">
 <br />
 <p>Wywiady z wybrańcami z naszej sceny, którzy chętnie, indagowani przez redaktorów ENERGY, wypowiadają się na różnorodne tematy. Trzy czwarte rozmówców jest z TQA a reszta z zagranicy.</p>
 <p> </p>
@@ -7080,7 +7103,7 @@ L8 LDA DAT,Y
 <div class="picture left" style="width: 82px; margin-right: 10px;"><img src="images/authors/none.jpg" alt="tamas bene" width="80" /><br />bene tamas/HARD</div>
 <p><br /><br />Tamas Bene/HARD Software<br />Bene Tamas<br /><br />Koder</p>
 <br /><br /><br />
-<page id="wywiad-z-bene" title="Wywiad z Bene Tamasem">
+<page id="wywiad-z-bene" menu="Wywiad z Bene..." title="Wywiad z Bene Tamasem">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>Hej! W tym artykule proponuję wam coś nowego, czyli wywiad z ... BENE TAMAS'em z węgierskiej grupy HARD SOFT. Wywiad przeprowadzono dzięki sieci "INTERNET", oraz pomocy HERMES'a (thx!), który przetłumaczył ten text... :)) Co do samego wywiadu... Jest może troszkę krótki, ale nie chciałem zamęczyć TAMAS'a pytaniami...</p>
@@ -7143,7 +7166,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p><strong><span style="text-decoration: underline;">Slaves:</span></strong> Ok... Dzięki za wywiad...</p>
 </page>
-<page id="wywiad-z-heaven-em" title="Wywiad z Heaven'em/Taquart">
+<page id="wywiad-z-heaven-em" menu="Wywiad z Heaven'em" title="Wywiad z Heaven'em/Taquart">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p>Zgodnie z zapowiedzią z #1. numeru kontynuujemy wywiady z ludźmi związanymi ze sceną 8-bitowego Atari. Tym razem zaszczyt udzielenia wywiadu padł na człowieka z grupy tworzącej niniejszy zin... Mowa tu o twórcy intra "REALLY UNREAL", tudzież paru innych, wcześniejszych rzeczy. Wywiad z Heavenem (bo to o niego chodzi) został przeprowadzony za pośrednictwem ogólnoświatowej sieci Internet...</p>
@@ -7308,7 +7331,7 @@ L8 LDA DAT,Y
 <p>- Wsparcie sieciowe:</p>
 <p>Slaves</p>
 </page>
-<page id="wywiad-z-samurai-em" title="Wywiad z Samurai'em">
+<page id="wywiad-z-samurai-em" menu="Wywiad z Samurai'em" title="Wywiad z Samurai'em">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
 <br />
 <p><strong><span style="text-decoration: underline;">Slaves:</span></strong> Slaves ( Slaves/Taquart/APC )</p>
@@ -7421,9 +7444,9 @@ L8 LDA DAT,Y
 <p><strong><span style="text-decoration: underline;">Slaves:</span></strong> Ok... Dzięki za ten krótki wywiad...</p>
 </page>
 </page>
-<page id="inne" title="Inne">
+<page id="inne" menu="Inne" title="Inne">
 <br /><p>W tym miejscu znajdują się artykuły, które nie zostały zakwalifikowane do żadnej kategorii...</p>
-<page id="rpg" title="Jak grać w gry fabularne RPG">
+<page id="rpg" menu="Lekcja o tym, jak ..." title="Jak grać w gry fabularne RPG">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dhor.jpg" alt="dhor" width="80" height="90" /><br />autor: dhor</div>
 <br />
 <p>Zagubiony ? Zmieszany ? Potrzebujesz rady ? To po co to czytasz ? Ile razy zachodziłeś do znajomego, by sobie pograć w fabularną grę fantasy i byłeś wyrzucany i szczuty psami, gdyż inni gracze stwierdzali, że nie umiesz 'grać'?. Jest to bardzo niezręczna sytuacja i ten artykuł ma być pewnym na nią remedium. Jeśli go przeczytasz i będziesz się stosował do tych kilku prostych zasad które tu znajdziesz, to też będziesz wymyślał piękne imiona dla swoich bohaterów i będziesz widział zachwyt w oczach innych graczy, gdy prowadzona przez Ciebie postać będzie rozmawiać, lub walczyć z podstawionymi przez Mistrza Gry NPCami.</p>
@@ -7499,7 +7522,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p align="RIGHT">na podstawie "Magii i Miecza" 3/94</p>
 </page>
-<page id="new-adventures" title="New Adventures of pENTIUM">
+<page id="new-adventures" menu="New Adventures..." title="New Adventures of pENTIUM">
 <div class="picture right" style="width: 82px;"><img src="images/authors/gepard.jpg" alt="gepard" width="80" height="97" /><br />autor: gepard</div>
 <br />
 <p>Na początku chciałbym bardzo podziękować misterowi Billowi G. , którego to nędzna i obleśna jak kompot ze śledzi - osóbka była dla Mnie natchnieniem do napisania tego tekstu. Jemu też chciałbym ten krótki tekst zadedykować.</p>
@@ -7532,7 +7555,7 @@ L8 LDA DAT,Y
 <br />
 <p>Na koniec ludziska przytoczę Wam tu pewną conajmniej pocieszającą wiadomość, którą to przeczytałem w jednej z polskich gazet pseudo? komputerowych. Według tego pisma to iż sir "Bill Gates" od dłuższego czasu nie pokazuje się publicznie, spowodowane jest jego kuracją psychiatryczną (oh! kewl!!!), którą to odbywa w ścisłej tajemnicy przed całym światem. Nieźle to rokuje, prawda?</p>
 </page>
-<page id="gdy-nadejdzie" title="Gdy nadejdzie ciemność...">
+<page id="gdy-nadejdzie" menu="Gdy nadejdzie..." title="Gdy nadejdzie ciemność...">
 <div class="picture right" style="width: 82px; margin-right: 2px;"><img src="images/authors/none.jpg" alt="zenial" width="80" height="103" /><br />autor: zenial</div>
 <br />
 <p>W.g. twórczości H.P. Lovecrafta (inspiracja)</p>
@@ -7544,7 +7567,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p>To była wskazówka, mogę jeszcze powiedzieć iż do domu zostały przywołane rożne demony np. "Belegon", "Dagon" - mają za zadanie doprowadzić do nadejścia Ojca zła "ZEMIELA"...</p>
 </page>
-<page id="co-jest-z-atari-corp" title="Co dalej z ATARI Corporation?">
+<page id="co-jest-z-atari-corp" menu="Co jest z Atari Corp." title="Co dalej z ATARI Corporation?">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dracon.jpg" alt="dracon" width="80" height="103" /><br />autor: dracon</div>
 <br />
 <p>Zapewne sporo atarowców nie zdaje sobie sprawy z (ewentualnych ?) kłopotów, jakie miała firma, której komputery  posiadają. Jakiś czas temu można było przeczytać w prasie na ten temat  pojedyncze wzmianki, np. "Gazeta Wyborcza" podała, że firma Atari rzekomo popadła w długi i została wykupiona przez amerykańską korporację JTS. Powodem długów miały być kłopoty w sprzedaży JAGUARów. Zarząd Atari zdecydował się, wg "Gazety Wyborczej", na obniżenie ceny JAGUAR'a, co jednak nie wpłynęło na  zwiększenie popytu na ten sprzęt. Rzekome bankructwo firmy Atari miało właśnie spowodować to posunięcie, w efekcie przynoszące straty kompanii w wysokości kilkudziesięciu milionów dolarów... To  hiobiowa wieść dla fanatyków Atari, lecz trudno potwierdzić jej prawdziwość, gdyż (jak na razie) brak jest wyczerpującej informacji na ten temat.</p>
@@ -7559,7 +7582,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p>P.S. Thx 2 Grey/SCG 4 "ST Format" newspaper.</p>
 </page>
-<page id="moja-matura" title="Matura na wesoło...">
+<page id="moja-matura" menu="Moja matura" title="Matura na wesoło...">
 <div class="picture right" style="width: 82px;"><img src="images/authors/dhor.jpg" alt="dhor" width="80" height="90" /><br />autor: dhor</div>
 <br />
 <p>-Rok 1994, 9-tego maja.-</p>
@@ -7747,7 +7770,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p>Abiturienci wszystkich szkół  nie dajcie się !!</p>
 </page>
-<page id="odjazdy-95" title="Odjazdy '95 - raport">
+<page id="odjazdy-95" menu="Odjazdy '95 - raport" title="Odjazdy '95 - raport">
 <div class="picture right" style="width: 82px;"><img src="images/authors/none.jpg" alt="vitos" width="80" height="103" /><br />autor: vitos</div>
 <br />
 <p>Artykuł ten dotyczy festiwalu muzyki rozrywkowej, który odbył się w dniu 25 listopada 1995 roku w Katowickim spodku i trwał od godz. 11.00 do godz. 23.00. Tegoroczne wydarzenie miało dużą popularność wśród młodych, przyczyną prawdopodobnie był przyjazd dwóch zachodnich gwiazd: THERAPY oraz H-BLOCKX. Wraz z grupką kumpli postanowiliśmy zrobić wypad do Katowic. Jako, że nie mieliśmy biletów, byliśmy zmuszeni wstać ok. 4.00 rano, by zdążyć na pociąg. Podróż przebiegała bardzo szybko, i ani się nie obejrzeliśmy,a znaleźliśmy się w Katowicach. Tu, przy pomocy bystrego zmysłu orientacji jednego z naszych kolegów, dotarliśmy do wielce intrygującej budowli - "Spodka".</p>
@@ -7768,7 +7791,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p>Podsumowując, stwierdzam, że festiwal w tym roku był ODJAZDOWY, i choć wszyscy grali ostro, przypadków "zaczadzenia" muzyką nie stwierdzono.</p>
 </page>
-<page id="polska" title="Polska...">
+<page id="polska" menu="Polska..." title="Polska...">
 <div class="picture right" style="width: 82px;"><img src="images/authors/none.jpg" alt="zenial" width="80" height="103" /><br />autor: zenial</div>
 <br />
 <p>Normalny dzień, siedzimy sobie, gadka szmatka, itd... Wyrażnie się nudzimy... eh... jest już po 19... Co robić ??? Po chwili siedzenia na ławce - ktoś się zrywa...</p>
@@ -7831,7 +7854,7 @@ L8 LDA DAT,Y
 <p>P.S3.</p>
 <p>Skini na scenie!!! Nie macie szans!!! Jak się jakiś Łysy pojawi na party i będzie coś gadał głupiego, to "ANS" mu wytłumaczy, że tak nie wolno!!!</p>
 </page>
-<page id="pseudo-teoria" title="Pseudo teoria">
+<page id="pseudo-teoria" menu="Pseudo teoria" title="Pseudo teoria">
 <div class="picture right" style="width: 82px; margin-left: 2px;"><img src="images/authors/none.jpg" alt="zenial" width="80" height="103" /><br />autor: zenial</div>
 <br />
 <p>Całkiem niedawno wpadł mi w ręce ostani numer maga &gt; PENTAGRAM#2... i okazał się magiem całkiem fajnie zrobionym. Wszystko byłoby dobrze, gdyby nie pewien mały zgrzyt : "Teoria ludzi i nadludzi" Ot taki mały artykuł w którym "ZBX-Virus" zaprezentował próbkę swoich poglądów w bardzo złym stylu.. To co było tam napisane dla mnie jest jawnym faszyzmem! Niestety coś takiego jest faszystowsko-nacjonalistycznym poglądem na świat i życie.... ZBX!!! czy Ty zdajesz sobie sprawę z tego co piszesz? Cyt. "...Zakładano obozy pracy i obozy koncentracyjne. Dziś powinno robić się podobnie!". Kogo Ty chcesz wyeliminować co? "Ludzi"??? A "Nadludzi" zostawić? Co jest grane!? Czyżbyś był fanem Adolfika i doktorka Mengele? Ta teoria jest bardzo podejrzanie zbliżona do poglądów Fryderyka Nietschego - idola Hitlera! Jest miejscami identyczna. Tym samym jest to typowy NAZIZM !!! Adolf i jego wojenna  machina, wraz z obozami zniszczyli życie wielu milionom niewinnych ludzi! W imię czego??? Piszesz, że starców, ludzi nie mających ukończonej szkoły średniej, niezdolnych do pracy powinno się zamykać w obozach i robić na nich eksperymenty... Co zrobisz jak tak będzie ? Pomyśl - Twoi znajomi się zestarzeją i Ty także- co Cię wtedy czeka ...obóz??? To ma krótkie nogi - ta cała pseudo teoria. A co się czepiasz ludzi, którzy nie mają ukończonej szkoły średniej... popatrz na to z innej strony -&gt; może oni nie posiadali odpowiednich warunków do jej ukończenia... Choroba, wojna, brak forsy... Zobacz na obszar Czeczenii, lub Bośni, tam wiele ludzi nie ukończyło i nie ukończy (dopóki nie zapanuje pokój) szkoły!!! I jeszcze jedno po co robić eksperymenty na ludziach, nieważne, czy zdolnych do pracy, czy niezdolnych! Po co? Aby testować perfumy? Dla kogo te perfumy? Dla "ludzi", czy dla "Nadludzi"? Nikt nie zapomniał o eksperymentach na ludziach w Oświęcimiu? Fajnie to tak?! Zasłaniasz się tylko tymi "zwierzętami", a znam wielu, którzy walczą o prawa zwierząt, bojkotują cyrki, rozwalają MAC DONALDY, sklepy z futrami, grupują się w wielu oranizacjach np. Front Wyzwolenia Zwierząt... Czy Ty walczysz o prawa dla zwierząt, ekologiczny rozwój świata??? Po analizie teorii widzę, że raczej nie.... A moi znajomi walczą! Oprócz tego walczą także o prawa dla człowieka, buntują się przeciw głupocie i faszyzmowi. Można połączyć prawa zwierząt z prawami dla ludzi... Jestem także przeciwny testowaniu różnych produktów na zwierzętach, popieram wegetarian, choć sam jem mięso... Czasem widzę, że całe to niejedzenie mięsa to tylko MODA, która budzi u mnie śmiech..., lecz wiem, że nie jest to złe. Pamiętajmy o zwierzętach i pamiętajmy o ludziach, pamiętajmy o ludziach i pamiętajmy o zwierzętach... Dwa w jednym, bez nacjonalistycznej teorii o nadludziach i podludziach, bez faszyzmu i głupoty.... To tyle...</p>
@@ -7844,7 +7867,7 @@ L8 LDA DAT,Y
 <p>ps2.</p>
 <p>W magu znalazłem głupie kawały O Żydach, a dlaczego nie było o Polakach ??? Znowu skrajny nacjonalizm ???</p>
 </page>
-<page id="anarchia" title="Płaszczyzna większościowa">
+<page id="anarchia" menu="Anarchia" title="Płaszczyzna większościowa">
 <div class="picture right" style="width: 82px; margin-left: 2px;"><img src="images/authors/none.jpg" alt="apacz" width="80" height="103" /><br />autor: apacz</div>
 <br />
 <p>"Płaszczyzna większościowa"</p>
@@ -7878,7 +7901,7 @@ L8 LDA DAT,Y
 <p>Anarchizm to walka z władzą w imię wolnej jednostki, wolnego społeczeństwa. Zjawisko nacjonalizmu oparte jest na szowiniźmie i rasiźmie. Jest on spowodowany poczuciem własnej słabości, kompleksami, poczuciem zagrożenia, kiepską sytuacją ekonomiczną, brakiem jawności życia politycznego. Nic więc dziwnego, że w ostatnim czasie obserwujemy wzrost nastrojów nacjonalistycznych także w Polsce. Nacjonalizm to pogląd skrajny, więc bardzo łatwy do przyswojenia dla młodych, sfrustrowanych ludzi nie widzących przed sobą przyszłości. Do tego wystarczy pożywka w postaciach, które wpajane są już od małego w domu i szkole, kościele to znaczy "Bóg, honor i ojczyzna" i znalezienie sobie kozła ofiarnego (w tym przypadku Żydów), na którego można zrzucić winę za wszystko. Cóż, jest to rozwiązanie proste, a zarazem prymitywne. W Polsce jest około 20 tysięcy obywateli pochodzenia żydowskiego, co jest liczbą śmieszną w porównaniu do 40 mln Polaków. W Polsce jest niestety możliwa niejedna paranoja - antysemityzm bez Żydów, rasizm bez kolorowych. Programy partii takich jak NFP, SN, PWN etc. są jawnie faszystowskie, a praktyki ich zwolenników to polityczny zamordyzm. Ślepa przemoc w imię "Boga, honoru i ojczyzny ", ale tylko w imię, bo cóż z patriotyzmem mają wspólnego pijani kibice rozrabiający po meczu, co wspólnego z naukami Jezusa ma rasizm i pycha narodowa, co wspólnego z honorem ma bicie słabszych i mniej licznych za to, że ich rodzice byli innego pochodzenia. Zresztą nacjonaliści zwykle biją Polaków, bo w jednonarodowym państwie trudno o kogoś innego. W mass-mediach pokazuje się faszystowskich skinheadów jako silnych twardych facetów, których nie można powstrzymać, tworzy się mit niezwyciężonych skinheadów, ludzie się boją, coraz więcej młodych zafascynowanych siłą identyfikuje się z poglądami faszystowskimi. Prawda jest inna. Na zachodzie Europy, a szczególnie w Niemczech, działają bardzo silne ruchy antyfaszystowskie. Większość wystąpień faszystowskich jest rozbijana nie przez policję, a właśnie przez antyfaszystów. Czasami policja wręcz pomaga neofaszystom, np. w czasie zamieszek w Rostocku policja nie dopuściła grupy antyfaszystowskiej z Hamburga. Dlaczego policji, która tak sprawnie rozbija lewaków, alternatywistów, niezadowolonych robotników, tak ślamazarnie idzie walka z faszystami ? Może to cicha aprobata, próba rozwiązania problemu azylantów bez "brudzenia rąk" ? Już w latach osiemdziesiątych policja wysługiwała się skinami do rozbijania manifestacji antykomunistycznych, a 1 maja 1992 na wiecu w Gdańsku skini zaatakowali anarchistów i robotników, kiedy ci ostatni rozpoczęli skuteczną obronę, policja zaczęła bronić skinów.</p>
 <p>Rozważając wszystkie te fakty nasuwają się dwa wnioski: albo siedzieć w domu, czekać aż za oknami wyrośnie nowe Auschwitz albo przeciwdziałać faszyzmowi, bo walce z tą plagą możemy liczyć tylko na nas samych. Walka z faszyzmem polega na przeciwdziałaniu tak przyczynom jak i skutkom tego zjawiska, a opiera się to na zwykłej solidarności międzyludzkiej: jeśli ty dzisiaj nie pomożesz bitym, jutro nikt nie pomoże tobie. Siła skinów polega na naszej nieumiejętności samozorganizowania i obrony. Skinheadzi nie są czym innym jak bandycką hordą, w której dwadzieścia osób kopie napotkanego przechodnia. Jeśli hordzie tej nauczymy się przeciwstawiać, to mit o ich sile pęknie jak bańka mydlana. Pamiętajcie, że przeciętny skin nie jest wcale silniejszy, a tym bardziej odważniejszy od swego rówieśnika, który skinem nie jest. Jednoczmy się przeciwko nacjonalizmowi i nietolerancji, przeciwko wstecznictwu, przeciwko rasizmowi i szowinizmowi.</p>
 </page>
-<page id="internet-irc" title="Internet - kontrowersyjne IRC">
+<page id="internet-irc" menu="Internet - IRC" title="Internet - kontrowersyjne IRC">
 <div class="picture right" style="width: 82px; margin-left: 2px;"><img src="images/authors/none.jpg" alt="jarosław rafa" width="80" height="103" /><br />autor: j. rafa</div>
 <br />
 <p>Żadna chyba usługa w Internecie nie  wzbudza tyle emocji co IRC ( Internet  Relay Chat ). Technicznie rzecz biorąc,  jest to system pozwalający użytkownikom  Internetu prowadzić wieloosobowe  konwersacje "na żywo" za pomocą  klawiatur i monitorów swoich komputerów  W aspekcie "kulturowym" natomiast IRC  tworzy niemal odrębny świat, swoistą  Internetową subkulturę rządzącą się  własnymi zwyczajami. Jak zawsze do  realizacji usługi IRC potrzebny jest  klient i serwer. "Klasyczny", najbardziej  zaawansowany i używany przez największą  liczbę IRC-owników program klienta IRC to  działający pod systemem Unix "IRCII".  Dostępne są jednak oczywiście także  aplikacje IRC  dla innych systemów operacyjnych, np.  DOS czy Windows, nie mają one jednak  pełnego zakresu możliwości klienta  Unixowego. Programy klientów IRC łączą  się z serwerem, który odpowiedzialny  jest za przekazywanie wiadomości między  nimi ( obecnie w Polsce są cztery  serwery IRC - ich adresy znajdują się  na końcu artykułu ). Poszczególne  serwery IRC wymieniają z kolei  komunikaty między sobą zapewniając  ogólnoświatowy zasięg usługi. Osoby  uczestniczące w konwersacji IRC-owej  identyfikowane są za pomocą pseudonimów,  zwanych z angielska nickami  (nicknames). Pierwszą czynność, którą  musimy wykonać przy uruchomieniu  klienta IRC, to wybór swojego  pseudonimu. W systemach Unixowych  domyślnie nadawany jest użytkownikowi  nick identyczny z jego identyfikatorem  w systemie (oczywiście można go potem  zmienić); pracując z klientem IRC dla  DOS-u lub Windows takiej wartości  domyślnej nie mamy i musimy swój nick  określić jawnie. W danym momencie nie  mogą być dołączone do systemu IRC dwie  osoby o identycznych pseudonimach;  jeżeli próbujemy się podłączyć  używając nicka już "zajętego" przez  innego użytkownika, zostaniemy o tym  powiadomieni odpowiednim komunikatem i  musimy swój pseudonim zmienić.</p>
@@ -7910,7 +7933,7 @@ L8 LDA DAT,Y
 <p> </p>
 <p>Tekst został opublikowany za zgodą w.w  autora! ( thx! Jarek! )</p>
 </page>
-<page id="porady" title="Porady...">
+<page id="porady" menu="Porady..." title="Porady...">
 <div class="picture right" style="width: 82px; margin-left: 4px;"><img src="images/authors/none.jpg" alt="outsider" width="80" height="103" /><br />autor: outsider</div>
 <br />
 <p>Porady spod lady, czyli:</p>
@@ -7957,7 +7980,7 @@ L8 LDA DAT,Y
 <p>P.S. Ten artykuł miał być z założenia śmieszny, co nie znaczy, że pisałem o całkowitych pierdołach. Jeśli się dobrze zastanowić, dochodzi się do smutnego wniosku, że opisane sytuacje i zjawiska mają miejsce. Co gorsza, przez trzy lata usiłowałem wyrobić sobie wręcz przeciwną opinię o dziewczynach, lecz poniosłem sromotną klęskę.</p>
 <p>No to na zrazie.</p>
 </page>
-<page id="prawo-jazdy-na-powaznie" title="Prawo jazdy - na poważnie">
+<page id="prawo-jazdy-na-powaznie" menu="Prawo jazdy - na p..." title="Prawo jazdy - na poważnie">
 <div class="picture right" style="width: 82px; margin-left: 4px;"><img src="images/authors/none.jpg" alt="seeker" width="80" height="103" /><br />autor: seeker</div>
 <br />
 <p>Z braku zajęcia (...) postanowiłem napisać o prawie jazdy. W tym artykule chcę Wam dać kilka dobrych rad jak zdać te cholerne egzaminy, bo ja obecnie mam je już za sobą.</p>
@@ -7975,7 +7998,7 @@ L8 LDA DAT,Y
 <p>To będą chyba wszystkie moje dobre rady. Mam nadzieję, że dzięki nim zaoszczędzicie troszkę własnych nerwów, a zdanie prawa jazdy pójdzie wam znacznie łatwiej.</p>
 <p>Szerokiej drogi, gumowych drzew, fajnego instruktora i pomyślnego zdania egzaminu życzy autor.</p>
 </page>
-<page id="prawo-jazdy-na-wesolo" title="Prawo jazdy - na wesoło!">
+<page id="prawo-jazdy-na-wesolo" menu="Prawo jazdy - na w..." title="Prawo jazdy - na wesoło!">
 <div class="picture right" style="width: 82px; margin-left: 4px;"><img src="images/authors/none.jpg" alt="seeker" width="80" height="103" /><br />autor: seeker</div>
 <br />
 <p>Z robieniem prawa jazdy wiąże się nie tylko nauka, ale również robiąc prawo jazdy poznajemy wielu bardzo ciekawych ludzi. Ja sam będąc w trakcie kursu poznałem pewną fajną dziewczynę, z którą obecnie jesteśmy parą wspaniałych przyjaciół. Poza tym w czasie kursu dochodzi do wielu przezabawnych sytuacji. Kilka z nich znajdziecie w tym tekście !</p>
@@ -8009,7 +8032,7 @@ L8 LDA DAT,Y
 <br />
 <p>Są to wszystkie śmieszne sytuacje, jakie udało mi się zapamiętać z mego wiekopomnego kursu. Może kiedyś przypomnę sobie tego więcej, to wrócę do tego tematu.</p>
 </page>
-<page id="rodzinka-1" title="Rodzinka (1) - opowiadania">
+<page id="rodzinka-1" menu="Rodzinka (1)" title="Rodzinka (1) - opowiadania">
 <div class="picture right" style="width: 82px; margin-left: 4px;"><img src="images/authors/jaskier.jpg" alt="jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>Niniejsze opowiadania pochodzą ze zbiorku opowiadań Giovannino Guareschiego pt. "Rodzinka", które zamieszczamy, gdyż zaczyna nam już brakować tematów związanych z komputerami. Może wypadało by tylko powiedzieć dlaczego pokazujemy opowiadania akurat tego, a nie innego autora i dlaczego w ogóle kogokolwiek.</p>
@@ -8132,7 +8155,7 @@ L8 LDA DAT,Y
 <p>- To już moja rzecz - odpowiedziała Pasionaria.</p>
 <p>Teraz Albertino i Pasionaria wychodzą rano przez okno parteru wprost na ulicę. Ale tak dłużej być nie może. Albo wymyślimy jakiś system, albo przestaną chodzić do szkoły. Wiedza jest piękną rzeczą, ale zdrowie ważniejsze.</p>
 </page>
-<page id="rodzinka-2" title="Rodzinka (2) - opowiadania">
+<page id="rodzinka-2" menu="Rodzinka (2)" title="Rodzinka (2) - opowiadania">
 <div class="picture right" style="width: 82px; margin-left: 4px;"><img src="images/authors/jaskier.jpg" alt="jaskier" width="80" height="106" /><br />autor: jaskier</div>
 <br />
 <p>HISTORIA TYSIĄCA LIRÓW</p>
@@ -8208,27 +8231,53 @@ L8 LDA DAT,Y
 <p>- Giovannino - powiedziała - za pierwszym razem dozorczyni oddała mi pięćset lirów i za drugim pięćset, tysiąc dostaliśmy teraz, to razem dwa; czy to możliwe, żebyśmy zarobili na tym tysiąc lirów na czysto?</p>
 <p>- Wszystko jest możliwe na tym zwariowanym świecie - odparłem.</p>
 </page>
-<page id="szczesciarz" title="Szczęściarz" />
+<page id="szczesciarz" menu="Szczęściarz" title="Szczęściarz" />
 <div class="picture right" style="width: 82px; margin-left: 4px;"><img src="images/authors/none.jpg" alt="bodzio" width="80" height="103" /><br />autor: bodzio</div>
 <br />
 <p>Zawsze nie lubiłem wszystkiego co zaczyna się lub zawiera w sobie "sz". Jako mały chłopiec przezywany byłem szczylem. Szprycha, mała brzydka, ruda dziewczyna z sąsiedztwa, szczypała mnie przy każdej okazji. Szkoła była jednym dużym pasmem udręki. Szczecin to miasto gdzie pełniłem służbę wojskową, gdzie jako zaledwie szeregowy szorowałem szczoteczką do zębów sanitariaty. Szczyty górskie kojarzą mi się wyłącznie ze Szrenicą, przy schodzeniu z której złamałem obie nogi i resztę wakacji przeleżałem w szpitalu. Szampan zawsze mi szkodził, a szampon szczypał w oczy. Lektury obowiązkowej "Nasza szkapa" nigdy nie przeczytałem, przez co powtarzałem szóstą klasę. Topiłem się nieraz w szuwarach, zatrułem się nieświeżym szaszłykiem, pewna szansonistka, w której się zadurzyłem, porzuciła mnie już pierwszego dnia. Szybkowar, który służył mi do pędzenia bimbru, eksplodował i zdemolował kuchnię. Szczerość i prostoduszność przynosiły mi na każdym kroku szkody. Otaczała mnie szarzyzna, moje sztuczne szczęki szczególnie szybko się obluzowały i szpetnie kłapią przy każdym posiłku. "Szkoda, że nie masz szczęścia", mówią mi na każdym kroku znajomi. Więc nie dziwcie się, że szlag jasny mnie trafił, kiedy dowiedziałem się, że szpieg, którego prawdziwe nazwisko prawdopodobnie brzmi Szachrajski, został szefem szczególnie tajnych szpiegów. To był dla mnie szok.</p>
 </page>
-<page id="download" title="Download">
+<page id="download" menu="Download" title="Download">
 <br />
 <div class="picture left" style="width: 170px; margin-right: 8px; margin-top: 4px;"><img src="images/zine/ene1.jpg" alt="Energy 1" width="168" height="120" /><br />Energy #1</div>
-<p><br /><br /><strong>Pliki do ściągnięcia:</strong> <br /><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/ENERGY1A.ATR" target="_new">ENERGY1A.ATR</a> (pierwsza strona magazynu)<br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/ENERGY1B.ATR" target="_new">ENERGY1B.ATR</a> (druga strona magazynu)<br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/Energy1.zip" target="_new">Energy1.zip</a> (całość: 247 KB)</p>
-<br /><br /><br /><strong>Pliki dołączone do Energy (1)</strong>: <br /><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/1/GEDSTUFF.ARC" target="_new">GEDSTUFF.ARC</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/1/PACK.ARC" target="_new">PACK.ARC</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/1/PLAYERY.ARC" target="_new">PLAYERY.ARC</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/1/UNARC.XEX" target="_new">UNARC.XEX</a><br />
+<p><br /><br /><strong>Pliki do ściągnięcia:</strong> <br /><br /><img src="images/layout/floppyicon.gif" border="0" /><a href="download/ENERGY1A.ATR">ENERGY1A.ATR</a> (pierwsza strona magazynu)<br /><img src="images/layout/floppyicon.gif" border="0" /><a href="download/ENERGY1B.ATR">ENERGY1B.ATR</a> (druga strona magazynu)<br /><img src="images/layout/floppyicon.gif" border="0" /><a href="download/Energy1.zip">Energy1.zip</a> (całość: 247 KB)</p>
+<br /><br /><br /><strong>Pliki dołączone do Energy (1)</strong>: <br /><br /><img src="images/layout/floppyicon.gif" border="0" /><a href="download/1/GEDSTUFF.ARC">GEDSTUFF.ARC</a><br /><img src="images/layout/floppyicon.gif" border="0" /><a href="download/1/PACK.ARC">PACK.ARC</a><br /><img src="images/layout/floppyicon.gif" border="0" /><a href="download/1/PLAYERY.ARC">PLAYERY.ARC</a><br /><img src="images/layout/floppyicon.gif" border="0" /><a href="download/1/UNARC.XEX">UNARC.XEX</a><br />
 <div class="picture left" style="width: 170px; margin-right: 8px; margin-top: 30px;"><img src="images/zine/ene2.jpg" alt="Energy 2" width="168" height="120" /><br />Energy #2</div>
 <p> </p>
 <br />
-<p><strong>Pliki do ściągnięcia:</strong> <br /><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/ENERGY2A.ATR" target="_new">ENERGY2A.ATR</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/ENERGY2B.ATR" target="_new">ENERGY2B.ATR</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/ENERGY2C.ATR" target="_new">ENERGY2C.ATR</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/ENERGY2D.ATR" target="_new">ENERGY2D.ATR</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/ENERGY2E.ATR" target="_new">ENERGY2E.ATR</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/ENERGY2F.ATR" target="_new">ENERGY2F.ATR</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/Energy2.zip" target="_new">Energy2.zip</a> (całość: 604 KB)</p>
-<br /><strong>Pliki dołączone do Energy (2)</strong>: <br /><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/EED21C.XEX" target="new">EED21C.XEX</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/EEDPACK.XEX" target="new">EEDPACK.XEX</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/EEDPACK.ASM" target="new">EEDPACK.ASM</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/PACK2.XEX" target="new">PACK2.XEX</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/PACK2.ASM" target="new">PACK2.ASM</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/DEPACKFP.ASM" target="new">DEPACKFP.ASM</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/GEDSTUF2.ARC" target="new">GEDSTUF2.ARC</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/HPACK06.DCM" target="new">HPACK06.DCM</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/FP21.XEX" target="new">FP21.XEX</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/FP21HELP.XEX" target="new">FP21HELP.XEX</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/PCINST.XEX" target="new">PCINST.XEX</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/MPTPLFOX.ASM" target="new">MPTPLFOX.ASM</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/PLA24D.ASM" target="new">PLA24D.ASM</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/TMC111.ARC" target="new">TMC111.ARC</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/ENERGY.HIP" target="new">ENERGY.HIP</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/ENERGY2.HIP" target="new">ENERGY2.HIP</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/DELFIN.HIP" target="new">DELFIN.HIP</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/TAQUART.HIP" target="new">TAQUART.HIP</a><br /><img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="download/2/UNARC24.XEX" target="new">UNARC24.XEX</a><br /> <br />
+<p><strong>Pliki do ściągnięcia:</strong> <br /><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/ENERGY2A.ATR">ENERGY2A.ATR</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/ENERGY2B.ATR">ENERGY2B.ATR</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/ENERGY2C.ATR">ENERGY2C.ATR</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/ENERGY2D.ATR">ENERGY2D.ATR</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/ENERGY2E.ATR">ENERGY2E.ATR</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/ENERGY2F.ATR">ENERGY2F.ATR</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/Energy2.zip">Energy2.zip</a> (całość: 604 KB)</p>
+<br /><strong>Pliki dołączone do Energy (2)</strong>: <br /><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/EED21C.XEX">EED21C.XEX</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/EEDPACK.XEX">EEDPACK.XEX</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/EEDPACK.ASM">EEDPACK.ASM</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/PACK2.XEX">PACK2.XEX</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/PACK2.ASM">PACK2.ASM</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/DEPACKFP.ASM">DEPACKFP.ASM</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/GEDSTUF2.ARC">GEDSTUF2.ARC</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/HPACK06.DCM">HPACK06.DCM</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/FP21.XEX">FP21.XEX</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/FP21HELP.XEX">FP21HELP.XEX</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/PCINST.XEX">PCINST.XEX</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/MPTPLFOX.ASM">MPTPLFOX.ASM</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/PLA24D.ASM">PLA24D.ASM</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/TMC111.ARC">TMC111.ARC</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/ENERGY.HIP">ENERGY.HIP</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/ENERGY2.HIP">ENERGY2.HIP</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/DELFIN.HIP">DELFIN.HIP</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/TAQUART.HIP">TAQUART.HIP</a><br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="download/2/UNARC24.XEX">UNARC24.XEX</a><br /> <br />
 <div class="hr">Energy cover by Vitos/IDP:       
 <hr />
 </div>
-<img src="images/layout/floppyicon.gif" border="0" alt="" /><a href="images/zine/energy_cover.jpg" target="_new&quot;">Full version (2000x1415)</a> <br />
+<img src="images/layout/floppyicon.gif" border="0" /><a href="images/zine/energy_cover.jpg">Full version (2000x1415)</a> <br />
 </page>
-<page id="kontakt" title="Kontakt">
+<page id="kontakt" menu="Kontakt" title="Kontakt">
 <br />
 <p><strong>Redakcja internetowego wydania Energy:</strong></p>
 <br />
