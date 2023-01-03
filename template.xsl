@@ -102,7 +102,7 @@
 			<xsl:if test="@text"><xsl:value-of select="@text" /></xsl:if>
 			<xsl:if test="not(@text)">
 				<xsl:variable name="destpage" select="@page" />
-				<xsl:value-of select="/energy/page[@id=$destpage]/@title" />
+				<xsl:value-of select="/energy//page[@id=$destpage]/@title" />
 			</xsl:if>
 		</a>
 	</xsl:template>
