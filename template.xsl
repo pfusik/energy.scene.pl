@@ -127,7 +127,7 @@
 		</div>
 		</div><xsl:comment> id="main" </xsl:comment>
 		<div id="footer">
-			<div class="padding"> Copyright &#169; 2009 by <a href="http://energy.scene.pl">TAQUART</a> | Orginal CSS template by: <a target="_new" href="http://www.free-css-templates.com">David Herreman</a> (modified for Energy by: Fox and slaves)</div>
+			<div class="padding"> Copyright &#169; 2009, 2023 by TAQUART | Orginal CSS template by: <a target="_new" href="http://www.free-css-templates.com">David Herreman</a> (modified for Energy by: Fox and slaves)</div>
 		</div>
 		</div>
 		</body>
