@@ -142,12 +142,15 @@
 			</xsl:attribute>
 			<xsl:if test="@page">
 				<xsl:attribute name="onclick">return a_click(this);</xsl:attribute>
+				<xsl:if test="not(@text)">
+					<xsl:variable name="destpage" select="@page" />
+					<xsl:value-of select="/energy//page[@id=$destpage]/@title" />
+				</xsl:if>
+			</xsl:if>
+			<xsl:if test="@ext">
+				<xsl:attribute name="target">_blank</xsl:attribute>
 			</xsl:if>
 			<xsl:value-of select="@text" />
-			<xsl:if test="not(@text)">
-				<xsl:variable name="destpage" select="@page" />
-				<xsl:value-of select="/energy//page[@id=$destpage]/@title" />
-			</xsl:if>
 		</a>
 	</xsl:template>
 
