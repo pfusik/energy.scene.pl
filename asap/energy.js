@@ -67,25 +67,38 @@ function asap_next()
 	asap_play((sap_id + 1) % saps.length);
 }
 
-function ajax_set(html)
+function ajax_set(html, historyUrl)
 {
 	const m = html.match(/<div id="main">([\s\S]*)<\/div>\s*<!-- id="main" -->/);
 	if (m) {
 		document.getElementById("main").innerHTML = m[1];
 		window.scroll(0, 0);
+		if (historyUrl !== undefined) {
+			try {
+				window.history.pushState(null, "", historyUrl);
+			} catch (e) {
+			}
+		}
 	}
 }
 
-function ajax_load(a)
+function ajax_load(url, historyUrl)
 {
 	if (sap_id === undefined)
 		return true;
 	const request = new XMLHttpRequest();
-	request.open("GET", a.href, true);
+	request.open("GET", url, true);
 	request.onload = e => {
 		if (request.status == 200 || request.status == 0)
-			ajax_set(request.responseText);
+			ajax_set(request.responseText, historyUrl);
 	};
 	request.send();
 	return false;
 }
+
+function a_click(a)
+{
+	return ajax_load(a.href, a.href);
+}
+
+window.addEventListener("popstate", e => { ajax_load(window.location); });

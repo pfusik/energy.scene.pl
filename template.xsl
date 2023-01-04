@@ -70,14 +70,14 @@
 			<div class="lin">
 			<xsl:for-each select="(parent::page|preceding::page)[last()]">
 				Poprzednia strona: 
-				<a href="{@id}.html" onclick="return ajax_load(this);">
+				<a href="{@id}.html" onclick="return a_click(this);">
 					<xsl:value-of select="@title" />
 				</a>
 			</xsl:for-each>
 			<br />
 			<xsl:for-each select="(child::page|following::page)[1]">
 				Następna strona: 
-				<a href="{@id}.html" onclick="return ajax_load(this);">
+				<a href="{@id}.html" onclick="return a_click(this);">
 					<xsl:value-of select="@title" />
 				</a>
 			</xsl:for-each>
@@ -89,7 +89,7 @@
 			<ul class="nav">
 				<xsl:for-each select="page">
 					<li class="menu1">
-						<a href="{@id}.html" onclick="return ajax_load(this);">
+						<a href="{@id}.html" onclick="return a_click(this);">
 							<xsl:if test="@id=$page">
 								<xsl:attribute name="class">menucurrent</xsl:attribute>
 							</xsl:if>
@@ -99,7 +99,7 @@
 					<xsl:if test="@id=$page or @id=page[@id=$page]/../@id">
 						<xsl:for-each select="page">
 							<li class="menu2">
-								<a href="{@id}.html" onclick="return ajax_load(this);">
+								<a href="{@id}.html" onclick="return a_click(this);">
 									<xsl:if test="@id=$page">
 										<xsl:attribute name="class">menucurrent</xsl:attribute>
 									</xsl:if>
@@ -141,7 +141,7 @@
 				<xsl:value-of select="@ext" />
 			</xsl:attribute>
 			<xsl:if test="@page">
-				<xsl:attribute name="onclick">return ajax_load(this);</xsl:attribute>
+				<xsl:attribute name="onclick">return a_click(this);</xsl:attribute>
 			</xsl:if>
 			<xsl:value-of select="@text" />
 			<xsl:if test="not(@text)">
