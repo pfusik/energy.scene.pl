@@ -28,7 +28,7 @@
 			<br />
 			<div class="hr"><hr /></div>
 			<div class="lin">
-			<xsl:for-each select="preceding::page[1]">
+			<xsl:for-each select="(parent::page|preceding::page)[last()]">
 				Poprzednia strona: 
 				<a href="{@id}.html">
 					<xsl:value-of select="@title" />
