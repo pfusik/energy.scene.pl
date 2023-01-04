@@ -175,7 +175,7 @@
 <div class="hr">Fotki z party:       
 <hr />
 </div>
-<selflink ext="ftp://ftp.pigwa.net/stuff/photos_and_videos/Quast,1995/" text="Fotki z QuaST 95" /><br />
+<selflink ext="http://ftp.pigwa.net/stuff/parties/media/QuaST,1995.08.4-6,Orneta,Poland/" text="Fotki z QuaST 95" /><br />
 </page>
 <page id="cudowna-podroz-2" menu="Cudowna podróż 2" title="Cudowna podróż 2">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
@@ -559,7 +559,7 @@
 <div class="hr">Fotki z party: 
 <hr />
 </div>
-<selflink ext="ftp://ftp.pigwa.net/stuff/photos_and_videos/Quast,1996/" text="Fotki z QuaST 96" /> <br />
+<selflink ext="http://ftp.pigwa.net/stuff/parties/media/QuaST,1996.08.1-4,Orneta,Poland/" text="Fotki z QuaST 96" /> <br />
 </page>
 <page id="cudowna-podroz-3" menu="Cudowna podróż 3" title="Cudowna podróż 3">
 <div class="picture right" style="width: 82px;"><img src="images/authors/slv.jpg" alt="slaves" width="80" height="100" /><br />autor: slaves</div>
@@ -905,7 +905,7 @@
 <div class="hr">Fotki z party: 
 <hr />
 </div>
-<selflink ext="ftp://ftp.pigwa.net/stuff/photos_and_videos/Quast,1995/" text="Fotki z QuaST 95" /> <br />
+<selflink ext="http://ftp.pigwa.net/stuff/parties/media/QuaST,1995.08.4-6,Orneta,Poland/" text="Fotki z QuaST 95" /> <br />
 </page>
 </page>
 <page id="demoscena" menu="Demoscena" title="Demoscena">
