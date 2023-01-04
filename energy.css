@@ -384,7 +384,7 @@ img { border:0; }
 
 
 
-#subheader .padding .musicchoice { padding-left: 20px; padding-top: 3px; background: #A90000; color: #FFFFFF; }
+#subheader .padding .musicchoice { padding-left: 20px; padding-top: 3px; background: #A90000; color: #FFFFFF; font-size: 12px; }
 #subheader .padding .musicchoice span{ word-spacing: 2pt; background: #A90000; color: #FFFFFF; }
 
 
@@ -557,13 +557,10 @@ div.hr a:hover { color: #A90000; }
 .lin a:hover {color: #A90000;}
 .lin a {color: #A90000;}
 
-/**
-.music { cursor: pointer; cursor: hand; font-weight: bolder; font-size: 14px; }
-.musicselected { cursor: pointer; cursor: hand; font-weight: bolder; text-decoration: underline; font-size: 14px; }
-**/
-
 .music { cursor: pointer; cursor: hand; font-weight: bolder; }
 .musicselected { cursor: pointer; cursor: hand; font-weight: bolder; text-decoration: underline; }
+
+td#asap_panel { font-size: 12px; }
 
 .opis {
             font: 85% Arial, Sans-Serif;
