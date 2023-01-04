@@ -6,6 +6,9 @@
 		<head>
 		<title>ENERGY - Popularny magazyn na ośmiobitowe Atari</title>
 		<link rel="stylesheet" href="energy.css" type="text/css" media="screen" />
+		<script src="asap/asap.js"> </script>
+		<script src="asap/asapweb.js"> </script>
+		<script src="asap/energy.js"> </script>
 		</head>
 		<body>
 		<div class="content">
@@ -17,6 +20,43 @@
 		</div>
 		<div id="subheader">
 		<div class="padding">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+		<td width="40%" valign="top" class="musicchoice">
+			Wybierz muzykę:
+			<br />
+			<br />
+			Energy 1:
+			<span id="music0" class="music" onclick="asap_play(0)">1</span><xsl:text> </xsl:text>
+			<span id="music1" class="music" onclick="asap_play(1)">2</span><xsl:text> </xsl:text>
+			<span id="music2" class="music" onclick="asap_play(2)">3</span><xsl:text> </xsl:text>
+			<span id="music3" class="music" onclick="asap_play(3)">4</span><xsl:text> </xsl:text>
+			<span id="music4" class="music" onclick="asap_play(4)">5</span>
+			<br />
+			Energy 2:
+			<span id="music5" class="music" onclick="asap_play(5)">1</span><xsl:text> </xsl:text>
+			<span id="music6" class="music" onclick="asap_play(6)">2</span><xsl:text> </xsl:text>
+			<span id="music7" class="music" onclick="asap_play(7)">3</span><xsl:text> </xsl:text>
+			<span id="music8" class="music" onclick="asap_play(8)">4</span><xsl:text> </xsl:text>
+			<span id="music9" class="music" onclick="asap_play(9)">5</span><xsl:text> </xsl:text>
+			<span id="music10" class="music" onclick="asap_play(10)">6</span><xsl:text> </xsl:text>
+			<span id="music11" class="music" onclick="asap_play(11)">7</span><xsl:text> </xsl:text>
+			<span id="music12" class="music" onclick="asap_play(12)">8</span><xsl:text> </xsl:text>
+			<span id="music13" class="music" onclick="asap_play(13)">9</span><xsl:text> </xsl:text>
+			<span id="music14" class="music" onclick="asap_play(14)">10</span><xsl:text> </xsl:text>
+			<span id="music15" class="music" onclick="asap_play(15)">11</span><xsl:text> </xsl:text>
+			<span id="music16" class="music" onclick="asap_play(16)">12</span>
+		</td>
+		<td id="asap_panel" width="60%" valign="middle" style="display: none">
+			<b>Tytuł:</b><xsl:text> </xsl:text><span id="asap_name"></span><br />
+			<b>Autor:</b><xsl:text> </xsl:text><span id="asap_author"></span><br /><br />
+			<img id="asap_pause_img" src="asap/img/pause.gif" width="33" height="29" onclick="asap_pause()" />
+			<img src="asap/img/back.gif" width="33" height="29" onclick="asap_prev()" />
+			<img src="asap/img/next.gif" width="35" height="29" onclick="asap_next()" />
+			<img src="asap/img/stop.gif" width="33" height="29" onclick="asap_stop()" />
+		</td>
+		</tr>
+		</table>
 		</div>
 		</div>
 		<div id="main">
