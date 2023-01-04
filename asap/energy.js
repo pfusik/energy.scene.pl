@@ -18,7 +18,7 @@ const saps = [
 	"Energy_2_12.sap"
 ];
 
-var sap_id = 0;
+var sap_id;
 
 function asap_update()
 {
@@ -35,7 +35,8 @@ function asap_set_pause_img(paused)
 
 function asap_play(i)
 {
-	document.getElementById("music" + sap_id).className = "music";
+	if (sap_id !== undefined)
+		document.getElementById("music" + sap_id).className = "music";
 	document.getElementById("music" + i).className = "musicselected";
 	sap_id = i;
 	asapWeb.onUpdate = asap_update;
@@ -53,6 +54,7 @@ function asap_stop()
 	document.getElementById("music" + sap_id).className = "music";
 	document.getElementById("asap_panel").style.display = "none";
 	asapWeb.stop();
+	sap_id = undefined;
 }
 
 function asap_prev()
@@ -63,4 +65,27 @@ function asap_prev()
 function asap_next()
 {
 	asap_play((sap_id + 1) % saps.length);
+}
+
+function ajax_set(html)
+{
+	const m = html.match(/<div id="main">([\s\S]*)<\/div>\s*<!-- id="main" -->/);
+	if (m) {
+		document.getElementById("main").innerHTML = m[1];
+		window.scroll(0, 0);
+	}
+}
+
+function ajax_load(a)
+{
+	if (sap_id === undefined)
+		return true;
+	const request = new XMLHttpRequest();
+	request.open("GET", a.href, true);
+	request.onload = e => {
+		if (request.status == 200 || request.status == 0)
+			ajax_set(request.responseText);
+	};
+	request.send();
+	return false;
 }

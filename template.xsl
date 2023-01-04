@@ -70,14 +70,14 @@
 			<div class="lin">
 			<xsl:for-each select="(parent::page|preceding::page)[last()]">
 				Poprzednia strona: 
-				<a href="{@id}.html">
+				<a href="{@id}.html" onclick="return ajax_load(this);">
 					<xsl:value-of select="@title" />
 				</a>
 			</xsl:for-each>
 			<br />
 			<xsl:for-each select="(child::page|following::page)[1]">
 				Następna strona: 
-				<a href="{@id}.html">
+				<a href="{@id}.html" onclick="return ajax_load(this);">
 					<xsl:value-of select="@title" />
 				</a>
 			</xsl:for-each>
@@ -89,7 +89,7 @@
 			<ul class="nav">
 				<xsl:for-each select="page">
 					<li class="menu1">
-						<a href="{@id}.html">
+						<a href="{@id}.html" onclick="return ajax_load(this);">
 							<xsl:if test="@id=$page">
 								<xsl:attribute name="class">menucurrent</xsl:attribute>
 							</xsl:if>
@@ -99,7 +99,7 @@
 					<xsl:if test="@id=$page or @id=page[@id=$page]/../@id">
 						<xsl:for-each select="page">
 							<li class="menu2">
-								<a href="{@id}.html">
+								<a href="{@id}.html" onclick="return ajax_load(this);">
 									<xsl:if test="@id=$page">
 										<xsl:attribute name="class">menucurrent</xsl:attribute>
 									</xsl:if>
@@ -125,7 +125,7 @@
 		</ul>
 		</div>
 		</div>
-		</div><!-- id="main" -->
+		</div><xsl:comment> id="main" </xsl:comment>
 		<div id="footer">
 			<div class="padding"> Copyright &#169; 2009 by <a href="http://energy.scene.pl">TAQUART</a> | Orginal CSS template by: <a target="_new" href="http://www.free-css-templates.com">David Herreman</a> (modified for Energy by: Fox and slaves)</div>
 		</div>
@@ -140,7 +140,10 @@
 				<xsl:if test="@page"><xsl:value-of select="@page" />.html</xsl:if>
 				<xsl:value-of select="@ext" />
 			</xsl:attribute>
-			<xsl:if test="@text"><xsl:value-of select="@text" /></xsl:if>
+			<xsl:if test="@page">
+				<xsl:attribute name="onclick">return ajax_load(this);</xsl:attribute>
+			</xsl:if>
+			<xsl:value-of select="@text" />
 			<xsl:if test="not(@text)">
 				<xsl:variable name="destpage" select="@page" />
 				<xsl:value-of select="/energy//page[@id=$destpage]/@title" />
