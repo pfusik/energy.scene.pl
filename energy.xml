@@ -22,39 +22,6 @@
 <p> </p>
 <p>UWAGA! Jeżeli masz pomysł na artykuł i chciałbyś go umieścić w internetowej wersji magazynu  <strong>Energy</strong> - skontaktuj się z nami (namiary znajdziesz w dziale <selflink page="kontakt" />). Jesteśmy otwarci na wszelką formę współpracy - aby projekt istniał ważne jest Wasze wsparcie i pomoc.</p>
 </page>
-<page id="nowosci" menu="Nowości" title="Nowości w ENERGY">
-<br />
-<p>W związku z rozwojem internetowej wersji Energy uruchamiamy specjalną podstronę, na której znajdą się wszelkie informacje o zmianach, udoskonaleniach oraz nowych artykułach, itp.</p>
-<br />
-<div class="nag">"HARD" - Jak zostać światowymi lamerami (aktualizacja)</div>
-<div class="hr">AKTUALIZACJA      
-<hr />
-</div>
-<p>Dzięki archiwum: HVSC (High Voltage SID Collection) dorzuciłem do artykułu kilka przykładów HARD'owskich rypanek - dokładniej: "Joyride" (5), "Cool Emotion" (6). Jeżeli ktoś z Was kojarzy kawałki, które nie zostały wymienione w artykule - prośba o kontakt.</p>
-<p class="date">Dodał: slaves <img src="images/more.gif" /> <selflink page="hard" text="Przeczytaj artykuł..." /> <img src="images/timeicon.gif" /> 2009-12-30 21:44</p>
-<br />
-<div class="nag">Theta Music Composer v2.00</div>
-<div class="hr">NOWY ARTYKUŁ      
-<hr />
-</div>
-<p>Kompletna instrukcja obsługi najnowszej wersji Theta Music Composer.</p>
-<p class="date">Dodał: slaves <img src="images/more.gif" /> <selflink page="tmc-v2-00" text="Przeczytaj artykuł..." /> <img src="images/timeicon.gif" /> 2009-10-27 22:05</p>
-<br />
-<div class="nag">Theta Music Composer v1.11 - Instrukcja obsługi</div>
-<div class="hr">NOWY ARTYKUŁ      
-<hr />
-</div>
-<p>Kompletna instrukcja obsługi programu muzycznego Theta Music Composer.</p>
-<p class="date">Dodał: slaves <img src="images/more.gif" /> <selflink page="tmc-v1-11-instrukcja" text="Przeczytaj artykuł..." /> <img src="images/timeicon.gif" /> 2009-10-27 21:25</p>
-<br />
-<div class="nag">IRQ Loader</div>
-<div class="hr">MODYFIKACJA ARTYKUŁU            
-<hr />
-</div>
-<p>Dodany film prezentujący opisywany w artykule samplowany loader podczas wczytywania magazynu.</p>
-<p class="date">Dodał: slaves <img src="images/more.gif" /> <selflink page="irq-loader" text="Przeczytaj artykuł..." /> <img src="images/timeicon.gif" /> 2009-10-27 17:42</p>
-<br />
-</page>
 <page id="copy-party" menu="Copy Party" title="Copy Party">
 <br />
 <p>Demoparty (do połowy lat 90. - Copy Party), w skrócie party - spotkanie ludzi związanych z demosceną komputerową, połączone z pokazem prac z pogranicza informatyki i szeroko pojętej sztuki elektronicznej: od muzyki, przez grafikę do multimedialnych prezentacji i animacji czasu rzeczywistego. Party trwa od dwóch do nawet pięciu dni bez przerwy, a punktem szczytowym spotkania jest zaprezentowanie prac w konkursach (tzw. compo).***</p>
