@@ -6,9 +6,7 @@
 		<head>
 		<title>ENERGY - Popularny magazyn na ośmiobitowe Atari</title>
 		<link rel="stylesheet" href="energy.css" />
-		<xsl:if test="//page[@id=$page]//gallery">
-			<link rel="stylesheet" href="lightbox/css/lightbox.min.css" />
-		</xsl:if>
+		<link rel="stylesheet" href="lightbox/css/lightbox.min.css" />
 		<script src="asap/asap.js"> </script>
 		<script src="asap/asapweb.js"> </script>
 		<script src="asap/energy.js"> </script>
@@ -133,9 +131,7 @@
 			<div class="padding">Copyright &#169; 2009, 2023 by TAQUART | Orginal CSS template by: <a target="_blank" href="http://www.free-css-templates.com">David Herreman</a> (modified for Energy by: Fox and slaves)</div>
 		</div>
 		</div>
-		<xsl:if test="//page[@id=$page]//gallery">
-			<script src="lightbox/js/lightbox-plus-jquery.min.js"> </script>
-		</xsl:if>
+		<script src="lightbox/js/lightbox-plus-jquery.min.js"> </script>
 		</body>
 		</html>
 	</xsl:template>
