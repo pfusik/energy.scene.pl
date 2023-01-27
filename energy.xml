@@ -1,16 +1,15 @@
 ﻿<energy>
 <page id="index" menu="Wstępniak" title="Strona główna">
-<br /> <strong>
+<br />
 <h4>Wstępniak:</h4>
-</strong>
 <p> </p>
-<p>Witamy w internetowym wydaniu magazynu <strong>Energy</strong>, w którym znajdziecie przedruk artykułów z obu numerów wydanych na ATARI.</p>
+<p>Witamy w internetowym wydaniu magazynu <strong>Energy</strong>, w którym znajdziecie przedruk artykułów z obu numerów wydanych jako magazyny dyskowe na komputery <selflink ext="https://pl.wikipedia.org/wiki/Rodzina_8-bitowych_Atari" text="Atari XL/XE" />.</p>
+<p>Panel na górze strony umożliwia odsłuch muzyki z oryginalnych wydań na Atari. Muzyka nie jest streamowana, lecz odtwarzana przez emulację Atari.</p>
 <p> </p>
-<strong>
 <h4>Trochę historii (wersja internetowa):</h4>
-</strong>
 <p> </p>
-<p>Zaczęło się jak to zwykle bywa dosyć niewinnie... Fox odgrzebał artykuły, które skonwertował do html'a ponad 11 lat temu... na moją reakcję nie trzeba było długo czekać (slaves) - po kilku dniach prób i testów różnych rozwiązań doszliśmy wspólnie do porozumienia i postanowiliśmy po latach odświeżyć stare ale jare Energy.</p>
+<p>Zaczęło się jak to zwykle bywa dosyć niewinnie... W 2009 roku Fox odgrzebał artykuły, które skonwertował do HTML jeszcze w latach '90... Na moją reakcję nie trzeba było długo czekać (slaves). Po kilku dniach prób i testów różnych rozwiązań doszliśmy wspólnie do porozumienia i postanowiliśmy po latach odświeżyć stare ale jare Energy.</p>
+<p>Z przyczyn technicznych strona została wyłączona w 2018. W styczniu 2023 uruchomiliśmy ją ponownie, tym razem bez PHP i jego CMS-ów. :)</p>
 <br />
 <h4>Trochę historii (wersja na Atari):</h4>
 <p> </p>
@@ -19,8 +18,8 @@
 <div class="picture right" style="width: 170px; margin-left: 4px; margin-top: 38px;"><a title="Screenshot z Energy #2" rel="lightbox" href="images/zine/energy2.png"><img src="images/zine/energy2.png" alt="Screenshot z Energy #2" width="170" /></a><br />screen z energy #2</div>
 <p> </p>
 <p>Drugi i zarazem ostatni numer magazynu Energy został wydany zaraz po QuaST'97 Copy Party. Początkowo chcieliśmy wypuścić magazyn na party, ale z przyczyn technicznych data wypuszczenia nieco się opóźniła. W Wasze ręce oddaliśmy jeden z najlepszych (jeśli nie najlepszy) magazyn na Atari XL/XE. A w nim: 55 artykułów, 12 muzyczek takich muzyków jak: Samurai, X-Ray, Bac, Greg... sporo efektów (podczas ładowania magazynu, screensaver, itp). W całą akcję zwaną Energy 2 zamieszani byli: Electron, Jaskier, Angus, Slaves, Kenjiro, Fox. Autorzy tekstów: Dracon (17), Slaves (8), Gepard (7), Jaskier (6), Fox (3), Electron (2), Greg (2), Titus (2), Seeker (2), Bodzio (2), Jarosław Rafa (1), Mayonez (1), Apacz (1).</p>
-<p> </p>
-<p>UWAGA! Jeżeli masz pomysł na artykuł i chciałbyś go umieścić w internetowej wersji magazynu  <strong>Energy</strong> - skontaktuj się z nami (namiary znajdziesz w dziale <selflink page="kontakt" />). Jesteśmy otwarci na wszelką formę współpracy - aby projekt istniał ważne jest Wasze wsparcie i pomoc.</p>
+<!-- <p> </p>
+<p>UWAGA! Jeżeli masz pomysł na artykuł i chciałbyś go umieścić w internetowej wersji magazynu  <strong>Energy</strong> - skontaktuj się z nami (namiary znajdziesz w dziale <selflink page="kontakt" />). Jesteśmy otwarci na wszelką formę współpracy - aby projekt istniał ważne jest Wasze wsparcie i pomoc.</p> -->
 </page>
 <page id="copy-party" menu="Copy Party" title="Copy Party">
 <br />
