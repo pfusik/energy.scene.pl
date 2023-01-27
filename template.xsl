@@ -5,7 +5,10 @@
 		<html lang="pl">
 		<head>
 		<title>ENERGY - Popularny magazyn na ośmiobitowe Atari</title>
-		<link rel="stylesheet" href="energy.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="energy.css" />
+		<xsl:if test="//page[@id=$page]//gallery">
+			<link rel="stylesheet" href="lightbox/css/lightbox.min.css" />
+		</xsl:if>
 		<script src="asap/asap.js"> </script>
 		<script src="asap/asapweb.js"> </script>
 		<script src="asap/energy.js"> </script>
@@ -127,9 +130,12 @@
 		</div>
 		</div><xsl:comment> id="main" </xsl:comment>
 		<div id="footer">
-			<div class="padding"> Copyright &#169; 2009, 2023 by TAQUART | Orginal CSS template by: <a target="_new" href="http://www.free-css-templates.com">David Herreman</a> (modified for Energy by: Fox and slaves)</div>
+			<div class="padding">Copyright &#169; 2009, 2023 by TAQUART | Orginal CSS template by: <a target="_blank" href="http://www.free-css-templates.com">David Herreman</a> (modified for Energy by: Fox and slaves)</div>
 		</div>
 		</div>
+		<xsl:if test="//page[@id=$page]//gallery">
+			<script src="lightbox/js/lightbox-plus-jquery.min.js"> </script>
+		</xsl:if>
 		</body>
 		</html>
 	</xsl:template>
@@ -151,6 +157,24 @@
 				<xsl:attribute name="target">_blank</xsl:attribute>
 			</xsl:if>
 			<xsl:value-of select="@text" />
+		</a>
+	</xsl:template>
+
+	<xsl:template match="gallery">
+		<a href="{@src}">
+			<xsl:attribute name="data-lightbox">
+				<xsl:value-of select="@lightbox" />
+				<xsl:if test="not(@lightbox)">roadtrip</xsl:if>
+			</xsl:attribute>
+			<xsl:if test="@title"><xsl:attribute name="data-title"><xsl:value-of select="@title" /></xsl:attribute></xsl:if>
+			<img src="{@src}">
+				<xsl:if test="@width">
+					<xsl:attribute name="width"><xsl:value-of select="@width" /></xsl:attribute>
+					<xsl:if test="@class"><xsl:attribute name="class"><xsl:value-of select="@class" /></xsl:attribute></xsl:if>
+				</xsl:if>
+				<xsl:if test="not(@width)"><xsl:attribute name="class">img2</xsl:attribute></xsl:if>
+				<xsl:if test="@title"><xsl:attribute name="title"><xsl:value-of select="@title" /></xsl:attribute></xsl:if>
+			</img>
 		</a>
 	</xsl:template>
 

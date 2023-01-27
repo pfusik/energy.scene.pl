@@ -13,9 +13,9 @@
 <br />
 <h4>Trochę historii (wersja na Atari):</h4>
 <p> </p>
-<div class="picture left" style="width: 170px; margin-right: 8px; margin-top: 2px;"><a title="Screenshot z Energy #1" rel="lightbox" href="images/zine/energy1.png"><img src="images/zine/energy1.png" alt="Screenshot z Energy #1" width="170" /></a><br />screen z energy #1</div>
+<div class="picture left" style="width: 170px; margin-right: 8px; margin-top: 2px;"><gallery lightbox="energy1" src="images/zine/energy1.png" title="Screenshot z Energy #1" width="170" /><br />screen z energy #1</div>
 <p>Po wielu obietnicach i przygotowaniach pierwszy numer magazynu Energy (który ewoluował z projektu magazynu PRAWDA) ujrzał światło dzienne w czerwcu 1996 roku. W wasze ręce oddaliśmy magazyn, w skład którego wchodziło intro napisane przez Jaskiera (na uwagę zasługuje loader z samplowaną muzyką Greg'a), oraz 35 artykułow plus 5 muzaków do wyboru podczas czytania (autorzy: Bac, Samurai, Greg, X-Ray, Cedyn). Autorzy tekstów: Slaves (10), Jaskier (4), Dracon (3), Greg (4), Electron (4), Zenial (3), Dhor (4), Hermes (1), Kravco (1), Gepard (1), KMK (1), Vitos (1).</p>
-<div class="picture right" style="width: 170px; margin-left: 4px; margin-top: 38px;"><a title="Screenshot z Energy #2" rel="lightbox" href="images/zine/energy2.png"><img src="images/zine/energy2.png" alt="Screenshot z Energy #2" width="170" /></a><br />screen z energy #2</div>
+<div class="picture right" style="width: 170px; margin-left: 4px; margin-top: 38px;"><gallery lightbox="energy2" src="images/zine/energy2.png" title="Screenshot z Energy #2" width="170" /><br />screen z energy #2</div>
 <p> </p>
 <p>Drugi i zarazem ostatni numer magazynu Energy został wydany zaraz po QuaST'97 Copy Party. Początkowo chcieliśmy wypuścić magazyn na party, ale z przyczyn technicznych data wypuszczenia nieco się opóźniła. W Wasze ręce oddaliśmy jeden z najlepszych (jeśli nie najlepszy) magazyn na Atari XL/XE. A w nim: 55 artykułów, 12 muzyczek takich muzyków jak: Samurai, X-Ray, Bac, Greg... sporo efektów (podczas ładowania magazynu, screensaver, itp). W całą akcję zwaną Energy 2 zamieszani byli: Electron, Jaskier, Angus, Slaves, Kenjiro, Fox. Autorzy tekstów: Dracon (17), Slaves (8), Gepard (7), Jaskier (6), Fox (3), Electron (2), Greg (2), Titus (2), Seeker (2), Bodzio (2), Jarosław Rafa (1), Mayonez (1), Apacz (1).</p>
 <!-- <p> </p>
@@ -447,7 +447,7 @@
 <div class="hr">Party-zanci w napięciu podczas konkursów:
 <hr />
 </div>
-<a title="Party-zanci w napięciu podczas konkursów" rel="lightbox" href="images/party/quast96/LEW10-compoty.JPG"><img class="imgcenter" src="images/party/quast96/LEW10-compoty.JPG" border="0" alt="Party-zanci w napięciu podczas konkursów" width="320" align="center" /></a><br />
+<gallery lightbox="LEW10-compoty" src="images/party/quast96/LEW10-compoty.JPG" title="Party-zanci w napięciu podczas konkursów" width="320" class="imgcenter" /><br />
 <p>Na pierwszy rzut poszło "music compo" na xl/xe...</p>
 <br />
 <p style="text-align: center;">*** MUSIC COMPO ***</p>
@@ -669,13 +669,13 @@
 <tbody>
 <tr>
 <td width="30%" align="center">
-<div class="picture" style="width: 120px; margin-right: 8px;"><a title="Face2" rel="lightbox" href="images/zine/mikolow/face2.png"><img src="images/zine/mikolow/face2.png" alt="Face2" width="120" /></a><br />"Face2" autor: Dracon/USG/TQA</div>
+<div class="picture" style="width: 120px; margin-right: 8px;"><gallery lightbox="face2" src="images/zine/mikolow/face2.png" title="Face2" width="120" /><br />"Face2" autor: Dracon/USG/TQA</div>
 </td>
 <td width="30%" align="center">
-<div class="picture" style="width: 120px; margin-right: 8px;"><a title="GRASS" rel="lightbox" href="images/zine/mikolow/grass.png"><img src="images/zine/mikolow/grass.png" alt="GRASS" width="120" /></a><br />"GRASS" autor: Grass/M.E.C.</div>
+<div class="picture" style="width: 120px; margin-right: 8px;"><gallery lightbox="grass" src="images/zine/mikolow/grass.png" title="GRASS" width="120" /><br />"GRASS" autor: Grass/M.E.C.</div>
 </td>
 <td width="30%" align="center">
-<div class="picture" style="width: 120px; margin-right: 8px;"><a title="Fiat CC" rel="lightbox" href="images/zine/mikolow/fiat.png"><img src="images/zine/mikolow/fiat.png" alt="Face2" width="120" /></a><br />"Fiat CC" autor: Kaczor</div>
+<div class="picture" style="width: 120px; margin-right: 8px;"><gallery lightbox="fiat" src="images/zine/mikolow/fiat.png" title="Fiat CC" width="120" /><br />"Fiat CC" autor: Kaczor</div>
 </td>
 </tr>
 </tbody>
@@ -685,14 +685,14 @@
 <p> </p>
 <p>Nie ma tu miejsca, aby z osobna opisywać każdy obrazek, ale mnie najbardziej podobały się: GRASS, Mona-Lisa ( fajny pomysł ).</p>
 <br />
-<div class="picture left" style="width: 92px; margin-right: 8px;"><a title="Mona Lisa" rel="lightbox" href="images/zine/mikolow/monalisa.gif"><img src="images/zine/mikolow/monalisa.gif" alt="Mona Lisa" width="90" /></a><br />"Mona Lisa"</div>
+<div class="picture left" style="width: 92px; margin-right: 8px;"><gallery lightbox="monalisa" src="images/zine/mikolow/monalisa.gif" title="Mona Lisa" width="90" /><br />"Mona Lisa"</div>
 <p style="margin-top: 6px;">i jeszcze jeden, którego nazwy nie pamiętam, zresztą go nie mam, bo organizacja była tak beznadziejna, że zaraz po compo zwracano autorom grafik dyski i parę obrazków skopiowałem sobie dosłownie w ostatniej chwili. Poza tym robienie party z STe-kami nie ma sensu, bo w najlepszym razie podane będą wyniki tylko dla trzech pierwszych miejsc w grafice - reszta autorów będzie się musiała domyślać które ma miejsce, dzięki czemu znowu nie będzie możliwe wydanie PARTRA na XE... :(((</p>
 <p> </p>
 <p>Gdyby przyrównać atrakcyjność nagród do pracy włożonej w niektóre obrazki, to można by się powiesić, np. ja, za #1. miejsce ( rysunek "FACE 2" w interlace ) dostałem...oryginalny "Home filing manager" - bazę danych z 1982 roku ( ponoć parę miesięcy ten program walał się bezużytecznie w C.E.T.'cie, aż w końcu organizatorzy postanowili to komuś wcisnąć... :( Jako drugą rzecz - zwrot "wejściówki" (12 zł), co było już nieco bardziej sensowne...</p>
 <p> </p>
 <p>Po raz kolejny organizatorzy nie popisali się "zapominając" o zorganizowaniu tzw."big screena". Zamiast niego, do oglądania wszelkich rzeczy na XE/ST, służył jakiś (ruski ?) kolorowy telewizor. Używanie na party w Mikołowie tak wspaniałego telewizora, spowodowało oczywiście, że każdy kto chciał dokładnie widzieć dany obrazek, musiał usiąść jak najbliżej ekranu. Wracając do "big screena", to "dla chcącego nic trudnego" - słyszałem, że załatwienie i przyłączenie go, nawet do Atari XL/XE, jest całkiem możliwe...</p>
 <p> </p>
-<div class="picture left" style="width: 120px; margin-right: 8px;"><a title="Amazon" rel="lightbox" href="images/zine/mikolow/amazon.png"><img src="images/zine/mikolow/amazon.png" alt="Amazon" width="120" /></a><br />"Amazon" autor: Blasph</div>
+<div class="picture left" style="width: 120px; margin-right: 8px;"><gallery lightbox="amazon" src="images/zine/mikolow/amazon.png" title="Amazon" width="120" /><br />"Amazon" autor: Blasph</div>
 <br />
 <p>Podczas trwania "kompotów" pojawiły się sugestie, jakoby parę obrazków było skanami lub konwersjami ( np. rysunek "AMAZON" ).</p>
 <p>Trudno mi się jednak w tej sprawie wypowiadać i jednoznacznie stwierdzić czy i który obrazek mógłby być dowodem na popełnienie przez danego grafika najcięższego przewinienia na scenie.</p>
@@ -705,7 +705,7 @@
 <p> </p>
 <p>Chodzi mi o to, że jeśli ktoś zapragnie narysować np. rower, powinien poza nim dorysować jakieś (sensowne) tło, żeby nie było tak, że jest już narysowany ten rower i nic więcej. No to jak to ma być ? Unosi się on w powietrzu ?!?! :)) Trzeba zatem pamiętać o dobrym rozplanowaniu obiektów na rysunku i nie zapominać o takim "szczególe" , jaki opisałem wyżej....</p>
 <p> </p>
-<div class="picture left" style="width: 122px; margin-right: 4px;"><a title="Eagle2" rel="lightbox" href="images/zine/mikolow/eagle2.png"><img src="images/zine/mikolow/eagle2.png" alt="Eagle2" width="120" /></a><br />"Eagle2"</div>
+<div class="picture left" style="width: 122px; margin-right: 4px;"><gallery lightbox="Eagle2" src="images/zine/mikolow/eagle2.png" title="Eagle2" width="120" /><br />"Eagle2"</div>
 <p>Następną, już ostatnią sprawą, jaka nasunęła mi się po obejrzeniu prac z gfxcompo, są kolory na obrazkach, a raczej ich brak. W przeważającej części grafiki były w trybie gfx #15 OS</p>
 <p>i używały tylko standardowych ( czterech ) kolorów. Jednak małe Atari NIE jest skazane tylko na standardowe cztery kolory w "piętnastce" !</p>
 <p> </p>
@@ -1394,7 +1394,11 @@
 <div class="hr">LOVE/Agony:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/love/love1.png"><img class="img2" src="images/zine/love/love1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/love/love4.png"><img class="img2" src="images/zine/love/love4.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/love/love2.png"><img class="img2" src="images/zine/love/love2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/love/love3.png"><img class="img2" src="images/zine/love/love3.png" border="0" width="120" /></a><br />
+<gallery src="images/zine/love/love1.png" />
+<gallery src="images/zine/love/love4.png" />
+<gallery src="images/zine/love/love2.png" />
+<gallery src="images/zine/love/love3.png" />
+<br />
 <p> </p>
 <p align="CENTER"><strong>"HALLUCINATIONS"/Albion Crew</strong></p>
 <br />
@@ -1403,20 +1407,32 @@
 <div class="hr">Hallucinations/Albion Crew:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h1.png"><img class="img2" src="images/zine/hallucinations/h1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h2.png"><img class="img2" src="images/zine/hallucinations/h2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h3.png"><img class="img2" src="images/zine/hallucinations/h3.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/hallucinations/h4.png"><img class="img2" src="images/zine/hallucinations/h4.png" border="0" width="120" /></a> <br /><br />
+<gallery src="images/zine/hallucinations/h1.png" />
+<gallery src="images/zine/hallucinations/h2.png" />
+<gallery src="images/zine/hallucinations/h3.png" />
+<gallery src="images/zine/hallucinations/h4.png" />
+<br /><br />
 <p>W demie "<strong>KREDKI</strong>" grupy Agony wrażenie zrobiła na mnie animacja piły, która w pewnym momencie obróciła się prostopadle do ekraniu rozcinając go, powodując niezłą kaszanę na ekranie. Cool Idea. Oczywiście zaraz wszystko wróciło do normy... (Efekt z L'AMIGI - przyp. red-aktora)</p>
 <br />
 <div class="hr">Kredki/Agony:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/kredki/k1.png"><img class="img2" src="images/zine/kredki/k1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/kredki/k2.png"><img class="img2" src="images/zine/kredki/k2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/kredki/k3.png"><img class="img2" src="images/zine/kredki/k3.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/kredki/k4.png"><img class="img2" src="images/zine/kredki/k4.png" border="0" width="120" /></a><br />
+<gallery src="images/zine/kredki/k1.png" />
+<gallery src="images/zine/kredki/k2.png" />
+<gallery src="images/zine/kredki/k3.png" />
+<gallery src="images/zine/kredki/k4.png" />
+<br />
 <p> </p>
 <p>W demie grupy Reflex pt. "<strong>MATHEMATICA</strong>" szczególną uwagę zwróciłem na efekt nazwany przeze mnie "LightSourced Torus". Myślę, że komentarz jest zbędny. Dodam tylko, że torus obracał się w 3 płaszczyznach bardzo płynnie i szybko.</p>
 <br />
 <div class="hr">Mathematica/Reflex:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/mathematica/m1.png"><img class="img2" src="images/zine/mathematica/m1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/mathematica/m2.png"><img class="img2" src="images/zine/mathematica/m2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/mathematica/m3.png"><img class="img2" src="images/zine/mathematica/m3.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/mathematica/m4.png"><img class="img2" src="images/zine/mathematica/m4.png" border="0" width="120" /></a><br />
+<gallery src="images/zine/mathematica/m1.png" />
+<gallery src="images/zine/mathematica/m2.png" />
+<gallery src="images/zine/mathematica/m3.png" />
+<gallery src="images/zine/mathematica/m4.png" />
+<br />
 <p> </p>
 <p>Co ty na to, Konop?</p>
 <p> </p>
@@ -1425,7 +1441,11 @@
 <div class="hr">Zone of Darkness:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/zone/z1.png"><img class="img2" src="images/zine/zone/z1.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/zone/z2.png"><img class="img2" src="images/zine/zone/z2.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/zone/z3.png"><img class="img2" src="images/zine/zone/z3.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/zone/z4.png"><img class="img2" src="images/zine/zone/z4.png" border="0" width="120" /></a><br />
+<gallery src="images/zine/zone/z1.png" />
+<gallery src="images/zine/zone/z2.png" />
+<gallery src="images/zine/zone/z3.png" />
+<gallery src="images/zine/zone/z4.png" />
+<br />
 <p> </p>
 <p>Jeszcze chwila refleksji. Pokusiłem się o porównanie C64 i Atari w dziedzinie muzyki, grafiki i kodu. Jak na razie najlepiej dla atari wypada porównanie koderów na atari i c64. "Nasi" nie ustępują koderom ze sceny C-64 prawie wcale w dziedzinie efektów; natomiast w dziedzinie designu jest jeszcze wiele do nadrobienia. Najgorzej przedstawia się chyba sprawa grafików. Rozumiem, że my na atari nie mamy takich trybów jak FLI, AFLI, FLI-INTERLACE itd., ale moim skromnym zdaniem nawet na atarce da się narysować coś porządnego. Przykro mi to pisać, ale z grona rodzimych grafików, tylko kilku można nazwać bardzo dobrymi (Dracon, P.W, Raven). Ten niezadowalający stan jest pośrenio spowodowany brakiem porządnych programów do rysowania, a to jest częściowa wina koderów. Powstałe programy mające wypełnić tę lukę "Interlace GFX Editor 1.31", "CIN 1.0", czy choćby "FlashPoint" nie umożliwiają w pełni profesjonalnej pomocy grafikowi w tworzeniu dzieła. Co do ostatniej grupy scenowców, tj. muzyków sprawa wydaje się prostsza. Zasadniczo mamy już dobrych muzyków (X-ray/Slight,Samurai/Taquart), choć nie jest ich wielu. Pojawienie się przed ponad rokiem MPT 2.4 spowodowało znaczne poprawienie jakości modułów i jakość ta stale rośnie. Prawdopodobnie na party w Ornecie, w tym roku będzie naprawdę ostra walka o pierwsze miejsce w music-compo. Zresztą świadczą o tym wyniki z Mikołowa. Muzyczka, która zajęła pierwsze miejsce wygrała tylko 20-toma punktami, punktacje kolejnych miejsc różniły się także niewiele. Chciałbym teraz coś niecoś nabąknąć o graniu modułów kilka razy na ramkę. W dalszym ciągu nie ma programu umożliwiającego granie w taki sposób. Ścieżka dżwiękowa w demach na C-64 to zazwyczaj utwory tworzone na programach, które umożliwiają granie co najmniej 4 razy na ramkę. Jaki efekt? Nie potrzeba w ogóle używać sampli, bo sama prędkość odtwarzania powoduje, że perkusja brzmi zajebiście, dźwięki jeszcze lepiej. I da się używać tej muzyki do DEM. Ja osobiście nie wyobrażam sobie dema z muzyką pod MPT 2.4 z "Digi One, 15kHz" (no, chyba że dema z jakimś Techno-part...). Ponad rok temu powstał CMC DoublePlay (nawiasem mówiąc, to mój pomysł), całkiem niedawno - CMC grupy MadTeam. Perkusja gra lepiej? Oczywiście, choć są to dopiero rozwiązania połowiczne. Potrzebny jest całkiem nowy program do tworzenie muzyki w trybach 2x, 4x na ramkę. Autor takiego programu na pewno zasłużył by sobie na wieczną wdzięczność muzyków.</p>
 </page>
@@ -1783,7 +1803,7 @@
 <p> </p>
 <p>Hmmm... Rozwiązanie to jest skuteczne, lecz "trochę" kosztowne... Istnieje jednak, drogi Czytelniku, inne wyjście - zamontować sobie w komputerze "TTP" ! Cóż to jest ?!?</p>
 <br />
-<div class="picture left" style="width: 140px; margin-right: 8px;"><a title="Wygląd TTP" rel="lightbox" href="images/zine/ttp/ttp.gif"><img src="images/zine/ttp/ttp.gif" alt="Wygląd TTP" width="140" /></a><br />Wygląd TTP</div>
+<div class="picture left" style="width: 140px; margin-right: 8px;"><gallery lightbox="ttp" src="images/zine/ttp/ttp.gif" title="Wygląd TTP" width="140" /><br />Wygląd TTP</div>
 <p>"TTP" ("Tight Tools Packed") jest zestawem programów na 64 kB Epromie, zamontowanym wewnątrz komputera. Podobnie jak QMEG, są one zainstalowane na stałe i obecne po każdorazowym włączeniu komputera. Dzieło to wyszło z pracowni osoby znanej jako Gumi/Tight, który jest też odpowiedzialny za inne sprzętowe przeróbki, np. montaż QMEGa, Tight Freezera (jest to znacznie ulepszona wersja "Happy Freezera") i inne cudeńka...</p>
 <br />
 <p>Krótka historia powstania "TTP"...</p>
@@ -2137,7 +2157,17 @@ _______________ |___________________
 <div class="hr">Kilka przykładowych prac Borisa Valleyo:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/boris/doru.jpg"><img class="img2" src="images/boris/doru.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/elgena.jpg"><img class="img2" src="images/boris/elgena.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/fawal_and_gree_the_unquotable.jpg"><img class="img2" src="images/boris/fawal_and_gree_the_unquotable.jpg" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/boris/znugs_and_atawi.jpg"><img class="img2" src="images/boris/znugs_and_atawi.jpg" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/boris/merkun.jpg"><img class="img2" src="images/boris/merkun.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/quetzalcoatl.jpg"><img class="img2" src="images/boris/quetzalcoatl.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/sari_koon.jpg"><img class="img2" src="images/boris/sari_koon.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/teefa_and_the_butterlies.jpg"><img class="img2" src="images/boris/teefa_and_the_butterlies.jpg" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/boris/the_myths_of_raltarnee.jpg"><img class="img2" src="images/boris/the_myths_of_raltarnee.jpg" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/boris/mad_mara.jpg"><img class="img2" src="images/boris/mad_mara.jpg" border="0" width="120" /></a> <br />
+<gallery src="images/boris/doru.jpg" />
+<gallery src="images/boris/elgena.jpg" />
+<gallery src="images/boris/fawal_and_gree_the_unquotable.jpg" />
+<gallery src="images/boris/znugs_and_atawi.jpg" />
+<gallery src="images/boris/merkun.jpg" />
+<gallery src="images/boris/quetzalcoatl.jpg" />
+<gallery src="images/boris/sari_koon.jpg" />
+<gallery src="images/boris/teefa_and_the_butterlies.jpg" />
+<gallery src="images/boris/the_myths_of_raltarnee.jpg" />
+<gallery src="images/boris/mad_mara.jpg" />
+<br />
 </page>
 <page id="ged-viewer" menu="GED viewer" title="GED od środka">
 <div class="picture right" style="width: 82px;"><img src="images/authors/jaskier.jpg" alt="Jaskier" width="80" height="106" /><br />autor: jaskier</div>
@@ -3066,7 +3096,7 @@ rti           rti
 <br />
 <p>Pomimo dobrych motywów i techniki, Lazur nie zdołał jeszcze wejść na najwyższy szczyt w konkursach graficznych. Ale był już bardzo blisko:</p>
 <p> </p>
-<div class="picture left" style="width: 120px; margin-right: 8px;"><a title="Marysia - Lazur'94" rel="lightbox" href="images/zine/marysia.png"><img src="images/zine/marysia.png" alt="Marysia - Lazur'94" width="120" /></a><br />Marysia - Lazur'94</div>
+<div class="picture left" style="width: 120px; margin-right: 8px;"><gallery lightbox="marysia" src="images/zine/marysia.png" title="Marysia - Lazur'94" width="120" /><br />Marysia - Lazur'94</div>
 <p>"Obrazek 'Marysia' zajął drugie miejsce na 1. Intel Outside party. 'Stary buk' także zajął drugie, lecz tym razem na party Primawera II, które również było w Polsce. Na koniec został obrazek "Folx-Vagen Golf", który znalazł się na trzecim miejscu na holenderskim party SIH podczas tego lata. Szczególnie jego wkład do tego party, w postaci grafiki przedstawiającej trzech raczących się alkoholem gości, był wysokiej jakości, ale ciągle polscy artyści (graficy) muszą czekać na jego zwycięstwo.</p>
 <br />
 <p>Obecne umiejscowienie w 'chartsach' nie jest całkiem takim, jakie odpowiadałoby ambicjom Lazura.</p>
@@ -3242,7 +3272,11 @@ rti           rti
 <div class="hr">Wybrane kultowe gry na ATARI XL/XE:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/zine/gierki/fred.png"><img class="img2" title="Fred" src="images/zine/gierki/fred.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/gierki/zybex.png"><img class="img2" title="zybex" src="images/zine/gierki/zybex.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/gierki/robbo.png"><img class="img2" title="Robbo" src="images/zine/gierki/robbo.png" border="0" width="120" /></a><a rel="lightbox[roadtrip]" href="images/zine/gierki/vicky.png"><img class="img2" title="Vicky" src="images/zine/gierki/vicky.png" border="0" width="120" /></a><br />
+<gallery src="images/zine/gierki/fred.png" title="Fred" />
+<gallery src="images/zine/gierki/zybex.png" title="Zybex" />
+<gallery src="images/zine/gierki/robbo.png" title="Robbo" />
+<gallery src="images/zine/gierki/vicky.png" title="Vicky" />
+<br />
 <p> </p>
 <p>Udostępniamy Wam dział dział: "Gry (tipsy, kody...)", gdzie znajdziecie wiele przydatnych informacji - takich jak:<br /><br />- Recenzje trzech gier:</p>
 <ol>
@@ -3278,7 +3312,9 @@ rti           rti
 <div class="hr">Screen'y z gry:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/games/czarny/screen1.png"><img class="img2" src="images/games/czarny/screen1.png" border="0" width="120" /></a> <a rel="lightbox[roadtrip]" href="images/games/czarny/screen2.png"><img class="img2" src="images/games/czarny/screen2.png" border="0" width="120" /></a><br /><br />
+<gallery src="images/games/czarny/screen1.png" />
+<gallery src="images/games/czarny/screen2.png" />
+<br /><br />
 <div class="hr">Plik do ściągnięcia:
 <hr />
 </div>
@@ -3346,15 +3382,15 @@ rti           rti
 <div class="hr">Screen'y z gry:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/games/gun/gun1.png"><img class="img2" src="images/games/gun/gun1.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/gun/gun2.png"><img class="img2" src="images/games/gun/gun2.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/gun/gun3.png"><img class="img2" src="images/games/gun/gun3.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/gun/gun4.png"><img class="img2" src="images/games/gun/gun4.png" border="0" width="120" /></a>
+<gallery src="images/games/gun/gun1.png" />
+<gallery src="images/games/gun/gun2.png" />
+<gallery src="images/games/gun/gun3.png" />
+<gallery src="images/games/gun/gun4.png" />
 <br /><br />
-<a rel="lightbox[roadtrip]" href="images/games/gun/gun5.png"><img class="img2" src="images/games/gun/gun5.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/gun/gun6.png"><img class="img2" src="images/games/gun/gun6.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/gun/gun7.png"><img class="img2" src="images/games/gun/gun7.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/gun/gun8.png"><img class="img2" src="images/games/gun/gun8.png" border="0" width="120" /></a>
+<gallery src="images/games/gun/gun5.png" />
+<gallery src="images/games/gun/gun6.png" />
+<gallery src="images/games/gun/gun7.png" />
+<gallery src="images/games/gun/gun8.png" />
 <br /><br />
 <div class="hr">Plik do ściągnięcia:
 <hr />
@@ -3379,7 +3415,7 @@ rti           rti
 <p>a teraz kilka słów o samej grze:</p>
 <br />
 <p><strong>ROZPOCZĘCIE GRY</strong></p>
-<div class="picture left" style="width: 82px; margin-right: 10px; margin-top: 20px;"><a title="Oryginalna okładka gry" rel="lightbox" href="images/games/kennedy/kennedy_okladka.jpg"><img src="images/games/kennedy/kennedy_okladka.jpg" alt="Oryginalna okładka gry" width="80" height="100" /></a><br />okładka</div>
+<div class="picture left" style="width: 82px; margin-right: 10px; margin-top: 20px;"><gallery lightbox="kennedy_okladka" src="images/games/kennedy/kennedy_okladka.jpg" title="Oryginalna okładka gry" width="80" /><br />okładka</div>
 <p> </p>
 <p>Po wczytaniu należy wybrać miedzy pokazem demo a właściwą grą. Jeżeli w ciągu jednej minuty nie dokonamy wyboru, opcja demonstracyjna uruchomi się automatycznie Gra posiada 5 stopni trudności. Wyboru jednej z nich dokonamy klawiszami 1-5, albo przy pomocy joya.</p>
 <p>Następnie otrzymujemy możliwość wyboru lotniska - w zależności od stopnia trudności. Czynności tej dokonujemy przez wpisanie kodu lotniska lub przez ruch joyem.</p>
@@ -3455,12 +3491,12 @@ rti           rti
 <div class="hr">Screen'y z gry:
 <hr />
 </div>
-<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen1.png"><img class="img2" src="images/games/kennedy/screen1.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen2.png"><img class="img2" src="images/games/kennedy/screen2.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen5.png"><img class="img2" src="images/games/kennedy/screen5.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen4.png"><img class="img2" src="images/games/kennedy/screen4.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen3.png"><img class="img2" src="images/games/kennedy/screen3.png" border="0" width="120" /></a>
-<a rel="lightbox[roadtrip]" href="images/games/kennedy/screen6.png"><img class="img2" src="images/games/kennedy/screen6.png" border="0" width="120" /></a>
+<gallery src="images/games/kennedy/screen1.png" />
+<gallery src="images/games/kennedy/screen2.png" />
+<gallery src="images/games/kennedy/screen5.png" />
+<gallery src="images/games/kennedy/screen4.png" />
+<gallery src="images/games/kennedy/screen3.png" />
+<gallery src="images/games/kennedy/screen6.png" />
 <br /><br />
 <div class="hr">Plik do ściągnięcia:
 <hr />
@@ -3843,34 +3879,34 @@ rti           rti
 <br />
 <p>"Are you a rebel?"</p>
 <br />
-<div class="picture left" style="width: 120px; margin-right: 8px;"><a title="Okładka: Are you a rebel?" rel="lightbox" href="images/zine/acid/aciddrinkers_areyourebel.jpg"><img src="images/zine/acid/aciddrinkers_areyourebel.jpg" alt="Are you a rebel?" width="120" /></a><br />Okładka: Are you a rebel?</div>
+<div class="picture left" style="width: 120px; margin-right: 8px;"><gallery lightbox="areyourebel" src="images/zine/acid/aciddrinkers_areyourebel.jpg" title="Okładka: Are you a rebel?" width="120" /><br />Okładka: Are you a rebel?</div>
 <p>Na okładce tej płyty znaleźć można ostrzeżenie: "Warning! Contains lyrics that may offend!". Album ten to swego rodzaju ewenement na skalę śwatową, gdyż takiej muzyki chyba nikt na świecie w tym czasie nie grał. Ultra szybkie riffy, pokręcone solówki, dziwaczny wokal. Muzykę tę określono później jako punk-metal, gdyż czerpała z obu tych nurtów. Płyta ta jednak nie miała prostoty punku ani ciężaru metalu, lecz była zakręcona i dziwaczna. W dodatku teksty były z jajem: "I'm the mystic" (o napuszonym rockendrollowcu), "I mean acid/do ya like it?" (o zaletach wina turystycznego) czy "Mike Cwel" (o żulu-obciągaczu lasek). Nawet jeśli zespół poruszał poważny temat, to robił to z przymrużeniem oka: "Barmy army" czy "I fuck the violence". Nie miało to nic wspólnego z programową powagą innych kapel metalowych.</p>
 <p> </p>
 <p>Chyba jedna z najlepszych i najbardziej odkrywczych polskich płyt.</p>
 <br />
 <p>"Dirty money, dirty tricks"</p>
 <br />
-<div class="picture left" style="width: 120px; margin-right: 8px;"><a title="Okładka: Dirty money, dirty tricks" rel="lightbox" href="images/zine/acid/aciddrinkers_dirtymoneydirtytricks_remastered.jpg"><img src="images/zine/acid/aciddrinkers_dirtymoneydirtytricks_remastered.jpg" alt="Dirty money, dirty tricks" width="120" /></a><br />Okładka: Dirty money, dirty tricks</div>
+<div class="picture left" style="width: 120px; margin-right: 8px;"><gallery lightbox="aciddrinkers_dirtymoneydirtytricks_remastered" src="images/zine/acid/aciddrinkers_dirtymoneydirtytricks_remastered.jpg" title="Okładka: Dirty money, dirty tricks" width="120" />s<br />Okładka: Dirty money, dirty tricks</div>
 <p>Ponoć dopiero druga płyta świadczy o prawdziwej klasie zespołu. Acidzi wyszli z tej próby obronną ręką. Druga płyta przynosi tę samą dawkę hiperszybkich riffów i powalających tekstów (znów żartobliwo-prześmiewczych). Równocześnie ten sam brak kawałków bardziej przystępnych dla tzw. masowego odbiorcy. Po prostu zero komercji i tylko 100% autentycznego, szczerego do bólu i inteligentnego czadu. Na uwagę zasługuje numer "Yahoo pies", który jest moim zdaniem kwintesencją Acidów z okresu ich debiutu. W "zwrotce" mamy radosny punk (bez wokalu) z prymitywną do bólu linią basu. Refren - zwolnienie tempa: kilka akordów i wokal udający bezzębnego struszka (!!!). Całość nie trwa dwóch minut. Częste zmiany tempa są zresztą ich typowym zagraniem. No i "chórki" w których każdy śpiewa na inną nutę...</p>
 <br />
 <p>"Strip-tease"</p>
 <br />
-<div class="picture left" style="width: 120px; margin-right: 8px;"><a title="Okładka: Strip-tease" rel="lightbox" href="images/zine/acid/aciddrinkers_streaptease_remastered.jpg"><img src="images/zine/acid/aciddrinkers_streaptease_remastered.jpg" alt="Strip-tease" width="120" /></a><br />Okładka: Strip-tease</div>
+<div class="picture left" style="width: 120px; margin-right: 8px;"><gallery lightbox="aciddrinkers_streaptease_remastered" src="images/zine/acid/aciddrinkers_streaptease_remastered.jpg" title="Okładka: Strip-tease" width="120" /><br />Okładka: Strip-tease</div>
 <p>Pierwsza metalowa płyta Acid Drinkers. Są tutaj ciężkie riffy, jajcarski wokal, zakręcona na maksa perkusja, jakieś dziwne wstawki, trochę sampli, łamane rytmy. Mamy też kower "Seek &amp; destroy" Metalliki zagrany na (uwaga!) gitarach akustycznych i z wspomaganiem wokalnym  (uwaga!!!) Edyty Bartosiewicz! Płytę określiłbym jako zakręcony metal na wesoło (a jakże). Teksty w stylu: "I will hate you tomorrow just like I hate you today", albo "I leave the shadow of my shapely ass". Albo "Mastehood of hearts devouring" - na początek spokojna muzyczka, wolna solówka, a już za chwilę- gaz do dechy! Również na tej płycie nie ma kawałka nadającego się do przekaźników. Płyta debiutancka i właśnie "Strip-tease" to moim zdaniem największe dokonania zespołu.</p>
 <br />
 <p>"Vile Vicious Vision"</p>
 <br />
-<div class="picture left" style="width: 120px; margin-right: 8px;"><a title="Okładka: Vile Vicious Vision" rel="lightbox" href="images/zine/acid/aciddrinkers_vileviciousvision.jpg"><img src="images/zine/acid/aciddrinkers_vileviciousvision.jpg" alt="Vile Vicious Vision" width="120" /></a><br />Okładka: Vile Vicious Vision</div>
+<div class="picture left" style="width: 120px; margin-right: 8px;"><gallery lightbox="aciddrinkers_vileviciousvision" src="images/zine/acid/aciddrinkers_vileviciousvision.jpg" title="Okładka: Vile Vicious Vision" width="120" /><br />Okładka: Vile Vicious Vision</div>
 <p>Tą płytą zespół wkroczył w drugi okres swojej działalności. Chłopaki chyba mieli dość sytuacji w której po nagraniu trzech genialnych albumów jest o nich nadal cicho. Postanowili więc wyjść z podziemia... Już po pierwszym przesłuchaniu czuje się "przebojowość" tej płyty. Nie jest to przebojowość rozumiana w pojęciu balladek w stylu Bon Jovi. Sam nie wiem. Może chcieli powiększyć grono swoich odbiorców? Termin pop-metal byłby tu chyba adekwatny. Zespół nakręcił też swój pierwszy klip (do utworku "Pizza driver"), który był ostro katowany m.in. w Clipolu. Nie zmieniły się natomiast teksty: typowy bezsens w "Balbinator Edzy", poradnik dla zakładającego kapelę metalową w "Marian is a metal guru", napierdalanie się z fanów w "Zero", czy wytykanie przywar narodowych w "Polish blood". Słowem groch z kapustą. I z jajami oczywiście.</p>
 <br />
 <p>"Infernal Connection"</p>
 <br />
-<div class="picture left" style="width: 120px; margin-right: 8px;"><a title="Okładka: Infernal Connection" rel="lightbox" href="images/zine/acid/aciddrinkers_infernalconnection.jpg"><img src="images/zine/acid/aciddrinkers_infernalconnection.jpg" alt="Infernal Connection" width="120" /></a><br />Okładka: Infernal Connection</div>
+<div class="picture left" style="width: 120px; margin-right: 8px;"><gallery lightbox="aciddrinkers_infernalconnection" src="images/zine/acid/aciddrinkers_infernalconnection.jpg" title="Okładka: Infernal Connection" width="120" /><br />Okładka: Infernal Connection</div>
 <p>Zespół chyba zdał sobie sprawę, że "Vile Vicious Vision" było krokiem w złą stronę i postanowił zawrócić. Nagrał więc totalnie bezkompromisowy album. Zero komercji. Najostrzejsza płyta w historii zespołu. Tym razem proste, wyraźne riffy. Fascynacja zarówno "starym" metalem jak i nowoczesnym graniem w stylu Illusion. Zabrakło już charakterystycznych częstych zmian tempa - pozostała esencja. Prosty, ale i inteligentny czad. Uproszczenie formy, ale jednoczśnie skazanie się na pozostanie w metalowym undergroundzie. W tekstach zauważamy ewolucję: coraz mniej błazenady dla samej zgrywy, coraz więcej poważnych tematów, ale wciąż podanych w humorystycznej formie (satanizm, narkotyki, polityka). Płyta do bólu szczera.</p>
 <br />
 <p>"Fishdick"</p>
 <br />
-<div class="picture left" style="width: 120px; margin-right: 8px;"><a title="Okładka: Fishdick" rel="lightbox" href="images/zine/acid/aciddrinkers_fishdick.jpg"><img src="images/zine/acid/aciddrinkers_fishdick.jpg" alt="Fishdick" width="120" /></a><br />Okładka: Fishdick</div>
+<div class="picture left" style="width: 120px; margin-right: 8px;"><gallery lightbox="aciddrinkers_fishdick" src="images/zine/acid/aciddrinkers_fishdick.jpg" title="Okładka: Fishdick" width="120" /><br />Okładka: Fishdick</div>
 <p>Kowery znanych kawałków zagrali kwasopijcy z wrodzonym sobie polotem i fantazją. Chcieli chyba mieć kilka chwytliwych piosenek na koncerty. Wśród metalowych staroci znajdziemy też "Another brick in the wall" Floydów oraz dwa kawałki autorstwa Acidów: "Fuckin' the tiger" i"Balladę". Słowem stare przeboje w nowym wykonaniu przy których realizacji zespół najwyraźniej dobrze się bawił. Wyróżnia się zwłaszcza "Ballada" Acidów - kawałek rzeczywiście bardzo balladowy, z żeńskim wokalem, którego udzieliła Patrycja z nieistniejącej już (chyba) kapeli Squot. Może refren trochę za ostry jak na balladę. Najbardziej zajebisty jest jednak głos faceta, który mówi coś, gdy wokalistka śpiewa - na początku nawija coś spokojnie, potem coraz szybciej i bardziej rozpaczliwiej, a na końcu wyje z rozpaczy (podczas, gdy wokalistka sobie śpiewa). Dodać należy, że gostek ten nawija najprawdopodobniej w nieistniejącym języku (przynajmniej mnie nie przypomina żadnego z istniejących języków)! Po prostu Acids.</p>
 <br />
 <p>"Acid Drinkers 1985"</p>
@@ -3879,7 +3915,7 @@ rti           rti
 <br />
 <p>"The state of mind report"</p>
 <br />
-<div class="picture left" style="width: 120px; margin-right: 8px;"><a title="Okładka: The state of mind report" rel="lightbox" href="images/zine/acid/aciddrinkers_astateofmindreport.jpg"><img src="images/zine/acid/aciddrinkers_astateofmindreport.jpg" alt="The state of mind report" width="120" /></a><br />Okładka: The state of mind report</div>
+<div class="picture left" style="width: 120px; margin-right: 8px;"><gallery lightbox="/aciddrinkers_astateofmindreport" src="images/zine/acid/aciddrinkers_astateofmindreport.jpg" title="Okładka: The state of mind report" width="120" /><br />Okładka: The state of mind report</div>
 <p>Ostatni album acidów mnie osobiście rozczarował. Mam wrażenie, że zespół zaczął się świadomie cofać. Fascynacja starym metalem spod znaku Deep purple czy wczesnej Metalliki w połowie lat 90-tych... Zespół nie zważając na nowoczesne trendy i mody nagrał płytę metalowo-klasyczną. Może zespół doszedł do wniosku, że może robić co chce, ale mnie się już ta muzyka przejadła. Kwasopijcy nakręcili też swój drugi klip (do utworku "24 radical questions") pomimo, że kawałek ten nie bardzo pasuje do TVP. No, cóż - wielcy szołbyznesu doszli do wniosku, że kapela jest na tyle popularna, że można sobie pozwolić na taki wybryk. Tak na marginesie, to w owym klipie występują czarne kopie członków zespołu, a perkusista okłada plastikowe, kolorowe piece.</p>
 <br />
 <p>"The state of mind report" zamyka dyskografię tego jednego z najbardziej barwnych polskich zespołów, który każdą kolejną płytą potrafił nieźle namotać i zaskoczyć. Oby komercyjne zabiegi zespołu zamierzającego pozyskać nowych fanów (nagrywanie klipów, koncerty dla TVP) nie zniszczyły tej zajebistej kapeli. To, że kasa może rozmontować każdą, możemy zobaczyć na przykładzie Megadeth czy Metalliki...</p>
@@ -4233,7 +4269,7 @@ rti           rti
 <br />
 <p>Pół roku po stworzeniu pierwszej wersji postanowiłem dokonać paru przeróbek w programie. Usunąłem 3 spośród 4 błędów (niestety ten fatalny pozostał). Zmieniłem wygląd i dodałem trochę opcji. Niestety ten ulepszony program nie został szerzej rozprowadzony. Powodem tego jest to, że mój swapper, do którego ten program przesłałem, aby go rozpuścił, bezczelnie go sobie skasował i powiedział mi o tym dopiero na Orneta CP'97. (Dzięki, Slaves!)</p>
 <br />
-<div class="picture left" style="width: 140px; margin-right: 8px;"><a title="Theta Music Composer v1.11" rel="lightbox" href="images/zine/tmc111.png"><img src="images/zine/tmc111.png" alt="TMC 1.11" width="140" /></a><br />TMC 1.11</div>
+<div class="picture left" style="width: 140px; margin-right: 8px;"><gallery lightbox="tmc111" src="images/zine/tmc111.png" title="Theta Music Composer v1.11" width="140" /><br />TMC 1.11</div>
 <p>Tuż po tym party zabrałem się za kolejną wersję TMC (ver 1.11). Poprawiłem ten feralny błąd. Dodałem kilka buforów na nazwy plików (osobno dla muzyczki, instrumentu i directory). Zmieniłem sposób powracania do poprzedniej strony instrukcji (teraz aktualna odjeżdża w prawo). Dodałem wygaszanie obrazu Composera. Obecnie również przy przechodzeniu między Composerem, a Menu nie są kasowane żadne dane (włączając w to bufory na pattern i instrument, które były kasowane w poprzednich wersjach). Ostatnią zmianą jest sprawdzanie przed rozpoczęciem odgrywania muzyczki, czy w songu rozkazy skoków się nie zapętlają.</p>
 <br />
 <p>Ta ostatnia wersja została umieszczona na dysku z magazynem. Znajduje się ona w pliku TMC.ARC. Razem z nią umiesczone są 2 pliki z instrukcją, źródłówki 2 playerów (oryginalnego i szybkiego) oraz 6 przykładowych muzyczek. Mam nadzieję, że ten program będzie cieszył się wsród Was sporą popularnością.</p>
