@@ -117,7 +117,7 @@
 		<ul>
 			<li><a href="http://www.atari.org.pl">AtariArea PL</a></li>
 			<li><a href="http://atariki.krap.pl">Atariki</a></li>
-			<li><a href="http://grayscale.scene.pl">Grayscale Project</a></li>
+			<!-- <li><a href="http://grayscale.scene.pl">Grayscale Project</a></li> -->
 			<li><a href="http://numen.scene.pl">Numen</a></li>
 			<li><a href="https://asma.atari.org">ASMA</a></li>
 			<li><a href="https://asap.sourceforge.net">ASAP</a></li>
